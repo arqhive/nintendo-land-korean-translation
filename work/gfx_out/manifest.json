@@ -1,0 +1,123 @@
+[
+ {
+  "name": "Nh_NzmWaza_00^t.bflim",
+  "path": "content/Common/Package/Nzm_Cmn.pack//Common/Layout/Nzm_Waza_00.szs//Nzm_Waza_00.arc//timg/Nh_NzmWaza_00^t.bflim",
+  "file": "work\\gfx_out\\Nzm_Cmn.pack__Common_Layout_Nzm_Waza_00.szs__Nzm_Waza_00.arc__timg_Nh_NzmWaza_00^t.bflim",
+  "fmt": "0x35",
+  "size": [
+   740,
+   180
+  ],
+  "roundtrip_err": 0.14
+ },
+ {
+  "name": "Nh_NzmWaza_01^t.bflim",
+  "path": "content/Common/Package/Nzm_Cmn.pack//Common/Layout/Nzm_Waza_00.szs//Nzm_Waza_00.arc//timg/Nh_NzmWaza_01^t.bflim",
+  "file": "work\\gfx_out\\Nzm_Cmn.pack__Common_Layout_Nzm_Waza_00.szs__Nzm_Waza_00.arc__timg_Nh_NzmWaza_01^t.bflim",
+  "fmt": "0x35",
+  "size": [
+   740,
+   180
+  ],
+  "roundtrip_err": 0.13
+ },
+ {
+  "name": "Nh_NzmWaza_02^t.bflim",
+  "path": "content/Common/Package/Nzm_Cmn.pack//Common/Layout/Nzm_Waza_00.szs//Nzm_Waza_00.arc//timg/Nh_NzmWaza_02^t.bflim",
+  "file": "work\\gfx_out\\Nzm_Cmn.pack__Common_Layout_Nzm_Waza_00.szs__Nzm_Waza_00.arc__timg_Nh_NzmWaza_02^t.bflim",
+  "fmt": "0x35",
+  "size": [
+   740,
+   180
+  ],
+  "roundtrip_err": 0.22
+ },
+ {
+  "name": "Te_AttractionLogoLJP_09^q.bflim",
+  "path": "content/Common/Package/Static2.pack//Common/Layout/AttractionLogo_01.szs//AttractionLogo_01.arc//timg/Te_AttractionLogoLJP_09^q.bflim",
+  "file": "work\\gfx_out\\Static2.pack__Common_Layout_AttractionLogo_01.szs__AttractionLogo_01.arc__timg_Te_AttractionLogoLJP_09^q.bflim",
+  "fmt": "0x33",
+  "size": [
+   700,
+   500
+  ],
+  "roundtrip_err": 4.21
+ },
+ {
+  "name": "Te_AttractionLogoJP_09^l.bflim",
+  "path": "content/Common/Package/Static2.pack//Common/Layout/AttractionLogo_00.szs//AttractionLogo_00.arc//timg/Te_AttractionLogoJP_09^l.bflim",
+  "file": "work\\gfx_out\\Static2.pack__Common_Layout_AttractionLogo_00.szs__AttractionLogo_00.arc__timg_Te_AttractionLogoJP_09^l.bflim",
+  "fmt": "0x1a",
+  "size": [
+   210,
+   150
+  ],
+  "roundtrip_err": 0.0
+ },
+ {
+  "name": "Nt_AttractionLogoShJP_09^s.bflim",
+  "path": "content/Common/Package/Static2.pack//Common/Layout/AttractionLogo_00.szs//AttractionLogo_00.arc//timg/Nt_AttractionLogoShJP_09^s.bflim",
+  "file": "work\\gfx_out\\Static2.pack__Common_Layout_AttractionLogo_00.szs__AttractionLogo_00.arc__timg_Nt_AttractionLogoShJP_09^s.bflim",
+  "fmt": "0x34",
+  "size": [
+   88,
+   63
+  ],
+  "roundtrip_err": 0.83
+ },
+ {
+  "name": "Nt_AttractionLogoShJP_09^s.bflim",
+  "path": "content/Common/Package/Static2.pack//Common/Layout/AttractionLogo_01.szs//AttractionLogo_01.arc//timg/Nt_AttractionLogoShJP_09^s.bflim",
+  "file": "work\\gfx_out\\Static2.pack__Common_Layout_AttractionLogo_01.szs__AttractionLogo_01.arc__timg_Nt_AttractionLogoShJP_09^s.bflim",
+  "fmt": "0x34",
+  "size": [
+   88,
+   63
+  ],
+  "roundtrip_err": 0.83
+ },
+ {
+  "name": "Te_AttractionLogoLJP_05^q.bflim",
+  "path": "content/Common/Package/Static2.pack//Common/Layout/AttractionLogo_01.szs//AttractionLogo_01.arc//timg/Te_AttractionLogoLJP_05^q.bflim",
+  "file": "work\\gfx_out\\Static2.pack__Common_Layout_AttractionLogo_01.szs__AttractionLogo_01.arc__timg_Te_AttractionLogoLJP_05^q.bflim",
+  "fmt": "0x33",
+  "size": [
+   788,
+   512
+  ],
+  "roundtrip_err": 2.33
+ },
+ {
+  "name": "Te_AttractionLogoJP_05^l.bflim",
+  "path": "content/Common/Package/Static2.pack//Common/Layout/AttractionLogo_00.szs//AttractionLogo_00.arc//timg/Te_AttractionLogoJP_05^l.bflim",
+  "file": "work\\gfx_out\\Static2.pack__Common_Layout_AttractionLogo_00.szs__AttractionLogo_00.arc__timg_Te_AttractionLogoJP_05^l.bflim",
+  "fmt": "0x1a",
+  "size": [
+   236,
+   154
+  ],
+  "roundtrip_err": 0.0
+ },
+ {
+  "name": "Nt_AttractionLogoShJP_05^s.bflim",
+  "path": "content/Common/Package/Static2.pack//Common/Layout/AttractionLogo_00.szs//AttractionLogo_00.arc//timg/Nt_AttractionLogoShJP_05^s.bflim",
+  "file": "work\\gfx_out\\Static2.pack__Common_Layout_AttractionLogo_00.szs__AttractionLogo_00.arc__timg_Nt_AttractionLogoShJP_05^s.bflim",
+  "fmt": "0x34",
+  "size": [
+   99,
+   64
+  ],
+  "roundtrip_err": 0.7
+ },
+ {
+  "name": "Nt_AttractionLogoShJP_05^s.bflim",
+  "path": "content/Common/Package/Static2.pack//Common/Layout/AttractionLogo_01.szs//AttractionLogo_01.arc//timg/Nt_AttractionLogoShJP_05^s.bflim",
+  "file": "work\\gfx_out\\Static2.pack__Common_Layout_AttractionLogo_01.szs__AttractionLogo_01.arc__timg_Nt_AttractionLogoShJP_05^s.bflim",
+  "fmt": "0x34",
+  "size": [
+   99,
+   64
+  ],
+  "roundtrip_err": 0.7
+ }
+]
