@@ -1,0 +1,18 @@
+# 원본 롬(복호화 폴더)
+Nintendo Land */
+# 원문 추출물·그림·빌드 산출물
+work/extract/
+work/build/
+work/survey/
+*.png
+*.bflim
+*.szs
+*.sarc
+*.bffnt
+*.msbt
+__pycache__/
+translation/messages.json
+work/glossary/terms_*.json
+work/tl/
+tools/fonts/
+work/speaker/
