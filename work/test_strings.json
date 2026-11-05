@@ -1,0 +1,19 @@
+{
+ "_설명": "2단계 출력 시험용 임시 번역. 최종 번역 아님(용어집 승인 전).",
+ "Cmn_StartScreen_01.msbt|Start": "Wii U GamePad를 터치해서 시작",
+ "Cmn_PauseMenu_00.msbt|Btn_00": " 계속하기",
+ "Cmn_PauseMenu_00.msbt|Btn_01": "다시 하기",
+ "Cmn_PauseMenu_00.msbt|Btn_02": "그만하기",
+ "Cmn_PauseMenu_00.msbt|Check": "확인 중",
+ "Cmn_PauseMenu_00.msbt|DisConnect": "연결 안 됨",
+ "Ttl_TopMenu_00.msbt|Play": " 놀기",
+ "Ttl_TopMenu_00.msbt|Plaza": "플라자",
+ "Ttl_TopMenu_00.msbt|Option": "설정",
+ "Ttl_TopMenu_00.msbt|Tour": "어트랙션 투어",
+ "Ttl_TopMenu_00.msbt|Team": "팀 어트랙션: 1명~",
+ "Ttl_TopMenu_00.msbt|Battle": "대전 어트랙션: 2명~",
+ "Ttl_TopMenu_00.msbt|Single": "미니 어트랙션: 1명",
+ "Ttl_TopMenu_00.msbt|@GameExp_00_Zld_00": "활잡이와 검사의 배틀 어트랙션",
+ "Ttl_TopMenu_00.msbt|@GameExp_00_Mro": "마리오와 키노피오의 술래잡기 어트랙션",
+ "Ttl_TopMenu_00.msbt|@PlayerNumber_00": "정원: 1~5명"
+}

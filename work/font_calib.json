@@ -1,0 +1,76 @@
+{
+ "LunchL_LA4Packed": {
+  "size": 114,
+  "wght": 800,
+  "char_w": 110,
+  "baseline": 108,
+  "outline_r": 3.75,
+  "outline_err": 1.87,
+  "kana_ink": 7.71,
+  "hangul_ink": 6.34,
+  "hanzi_wh": [
+   99.0,
+   99.0
+  ],
+  "hangul_wh": [
+   98.0,
+   104.0
+  ],
+  "note": "M과 같은 굵은 제목 글자라 ExtraBold로 맞춤(자동 측정은 획이 MAXRUN 을 넘어 Regular 를 고름)"
+ },
+ "LunchM_LA4Packed": {
+  "size": 50,
+  "wght": 800,
+  "char_w": 52,
+  "baseline": 52,
+  "outline_r": 3.75,
+  "outline_err": 2.13,
+  "kana_ink": 3.88,
+  "hangul_ink": 3.82,
+  "hanzi_wh": [
+   45.0,
+   46.0
+  ],
+  "hangul_wh": [
+   45.0,
+   48.0
+  ]
+ },
+ "LunchMsg_A4": {
+  "size": 43,
+  "wght": 400,
+  "char_w": 42,
+  "baseline": 45,
+  "outline_r": 0.0,
+  "outline_err": 0.0,
+  "kana_ink": 3.66,
+  "hangul_ink": 3.36,
+  "hanzi_wh": [
+   38.0,
+   38.0
+  ],
+  "hangul_wh": [
+   39.0,
+   41.0
+  ],
+  "note": "본문 굵기 Regular(사용자 결정 2026-11-06)"
+ },
+ "LunchRuby_A4": {
+  "size": 21,
+  "wght": 400,
+  "char_w": 21,
+  "baseline": 25,
+  "outline_r": 0.0,
+  "outline_err": 0.0,
+  "kana_ink": 1.99,
+  "hangul_ink": 1.69,
+  "hanzi_wh": [
+   19.0,
+   20.0
+  ],
+  "hangul_wh": [
+   18.0,
+   20.0
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "LunchL_LA4Packed": {
+  "size": 117,
+  "wght": 500,
+  "char_w": 110,
+  "baseline": 108,
+  "outline_r": 3.75,
+  "outline_err": 1.87,
+  "kana_ink": 7.71,
+  "hangul_ink": 7.93,
+  "hanzi_wh": [
+   99.0,
+   99.0
+  ],
+  "hangul_wh": [
+   97.0,
+   104.0
+  ]
+ },
+ "LunchM_LA4Packed": {
+  "size": 51,
+  "wght": 500,
+  "char_w": 52,
+  "baseline": 52,
+  "outline_r": 3.75,
+  "outline_err": 2.13,
+  "kana_ink": 3.88,
+  "hangul_ink": 3.97,
+  "hanzi_wh": [
+   45.0,
+   46.0
+  ],
+  "hangul_wh": [
+   43.0,
+   47.0
+  ]
+ },
+ "LunchMsg_A4": {
+  "size": 45,
+  "wght": 700,
+  "char_w": 42,
+  "baseline": 45,
+  "outline_r": 0.0,
+  "outline_err": 0.0,
+  "kana_ink": 3.66,
+  "hangul_ink": 3.65,
+  "hanzi_wh": [
+   38.0,
+   38.0
+  ],
+  "hangul_wh": [
+   38.0,
+   42.0
+  ]
+ },
+ "LunchRuby_A4": {
+  "size": 22,
+  "wght": 450,
+  "char_w": 21,
+  "baseline": 25,
+  "outline_r": 0.0,
+  "outline_err": 0.0,
+  "kana_ink": 1.99,
+  "hangul_ink": 1.98,
+  "hanzi_wh": [
+   19.0,
+   20.0
+  ],
+  "hangul_wh": [
+   19.0,
+   21.0
+  ]
+ }
+}
