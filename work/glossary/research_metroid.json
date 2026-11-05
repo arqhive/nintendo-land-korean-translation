@@ -1,0 +1,1258 @@
+[
+ {
+  "ja": "サムス・アラン",
+  "en": "Samus Aran",
+  "ko": "사무스 아란",
+  "status": "official",
+  "source": "메트로이드 프라임 4 비욘드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/bgw5a/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 대난투 스매시브라더스 SPECIAL 공식 사이트 파이터 데이터 ko_KR https://www.smashbros.com/assets_v2/data/fighter.json(사무스)",
+  "note": "프라임 4 비욘드·프라임 리마스터 본문은 「사무스 아란」, 그림 대체문엔 「사무스・아란」도 있음. 띄어 쓴 「사무스 아란」 권장. 단독은 「사무스」."
+ },
+ {
+  "ja": "メトロイド",
+  "en": "Metroid",
+  "ko": "메트로이드",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/dread/index.html",
+  "note": "생물 이름·시리즈 이름 모두 「메트로이드」. 프라임 리마스터: 「부유 생명체 메트로이드」."
+ },
+ {
+  "ja": "リドリー",
+  "en": "Ridley",
+  "ko": "리들리",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 공식 사이트 파이터 데이터 ko_KR https://www.smashbros.com/assets_v2/data/fighter.json / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/world/(메타 리들리)",
+  "note": "가나대로 「리도리」가 아니라 영어식 「리들리」가 공식."
+ },
+ {
+  "ja": "アイスリドリー",
+  "en": "Ice Ridley",
+  "ko": "아이스 리들리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적. 리들리는 공식 표기, 아이스는 프라임 리마스터 「아이스 빔」 표기를 따름(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)",
+  "note": ""
+ },
+ {
+  "ja": "クレイド",
+  "en": "Kraid",
+  "ko": "크레이드",
+  "status": "official",
+  "source": "대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Kraid (Korean: 크레이드). 대난투 SPECIAL 마스터 스피릿·브린스타 심층부 / 메트로이드 드레드 한국어판 보스",
+  "note": "한국닌텐도 웹 페이지에서 직접 찾지는 못했고 SmashWiki 한국어 칸(대난투 SPECIAL 기준)으로 확인. 드레드 한국어판 게임 안 표기도 같다고 알려짐(실물 미확인)."
+ },
+ {
+  "ja": "ゼーベス星人",
+  "en": "Zebesian",
+  "ko": "제베스인",
+  "status": "unofficial",
+  "source": "행성 이름 「제베스」는 공식(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/). 종족 이름 자체의 한국어 공식 표기는 찾지 못함(대난투 SPECIAL 스피릿 「Zebesian」 한국어 이름 미확인)",
+  "note": "확신 낮음. 대안 「제베스 성인」. 대난투 SPECIAL 한국어판 스피릿 목록에서 확인되면 그쪽을 따를 것."
+ },
+ {
+  "ja": "惑星ゼーベス",
+  "en": "planet Zebes",
+  "ko": "행성 제베스",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/",
+  "note": "같은 페이지에 「혹성 제베스」도 한 번 나오지만 본문 대부분이 「행성 제베스」."
+ },
+ {
+  "ja": "スペースパイレーツ / 宇宙海賊",
+  "en": "Space Pirates",
+  "ko": "우주 해적",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/world/",
+  "note": "프라임 리마스터 한국어 공식 사이트는 SPACE PIRATE를 「우주 해적」으로 씀. 석상 052·054 설명의 「宇宙海賊 スペースパイレーツ」는 겹말이라 「우주 해적」 한 번이면 됨. 「스페이스 파이럿」은 팬 표기."
+ },
+ {
+  "ja": "スターシップ",
+  "en": "Gunship",
+  "ko": "스타쉽",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/(사무스가 탄 스타쉽) / 대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Gunship (Korean: 스타쉽)",
+  "note": "「스타십」이 아니라 「스타쉽」이 공식. 석상 051, 대사 「スターシップを撃て」."
+ },
+ {
+  "ja": "モーフボール",
+  "en": "Morph Ball",
+  "ko": "모프볼",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/",
+  "note": "붙여 씀(「모프 볼」 아님)."
+ },
+ {
+  "ja": "パワードスーツ",
+  "en": "Power Suit",
+  "ko": "파워 슈트",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/ / 메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html",
+  "note": "석상 060 설명. 「파워드 슈트」가 아니라 「파워 슈트」."
+ },
+ {
+  "ja": "ボム",
+  "en": "Bomb",
+  "ko": "봄",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html(봄) / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/(모프볼 봄, 파워 봄) / 대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Bomb_(Samus) (Korean: 봄)",
+  "note": "메트로이드 공식 한국어는 「폭탄」이 아니라 「봄」. 석상 057·060·062 설명의 ボム."
+ },
+ {
+  "ja": "ミサイル",
+  "en": "Missile",
+  "ko": "미사일",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/ / 대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Missile",
+  "note": ""
+ },
+ {
+  "ja": "ビーム",
+  "en": "beam",
+  "ko": "빔",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/",
+  "note": ""
+ },
+ {
+  "ja": "チャージビーム(参考)",
+  "en": "Charge Beam / Charge Shot",
+  "ko": "차지 빔",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/ / 대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Charge_Shot (Korean: 차지 빔)",
+  "note": "참고 항목. 「チャージ」는 공식 한국어 「차지」."
+ },
+ {
+  "ja": "鳥人族(参考)",
+  "en": "Chozo",
+  "ko": "조인족",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/dread/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/world/(조인족 유적)",
+  "note": "석상 064 설명에는 종족 이름이 직접 나오지 않지만 鳥人像의 鳥人 = 조인족."
+ },
+ {
+  "ja": "鳥人像",
+  "en": "Chozo Statue",
+  "ko": "조인상",
+  "status": "unofficial",
+  "source": "조인족은 공식(메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/dread/index.html). 「Chozo Statue」 자체의 한국어 공식 이름(대난투 SPECIAL 스피릿)은 미확인",
+  "note": "확신 낮음. 鳥人像을 한자 그대로 읽은 「조인상」 권장, 대안 「조인족 석상」. 스피릿 한국어 이름이 확인되면 그쪽을 따를 것."
+ },
+ {
+  "ja": "ジーマ",
+  "en": "Geemer",
+  "ko": "지머",
+  "status": "unofficial",
+  "source": "한국어 공식 표기 미확인(SmashWiki Geemer 한국어 칸은 영어 그대로 비어 있음 https://www.ssbwiki.com/Geemer). 대난투 SPECIAL 스피릿·프라임 리마스터 로그북에 한국어 이름이 있을 것이나 못 찾음",
+  "note": "확신 낮음. 메트로이드 한국어 공식 표기는 영어식(리들리·크레이드·스타쉽)이라 「지머」 권장. 가나대로면 「지마」. 미션 2·11·21 이름과 대사에 나옴."
+ },
+ {
+  "ja": "ファントゥーン",
+  "en": "Phantoon",
+  "ko": "판툰",
+  "status": "unofficial",
+  "source": "한국어 공식 표기 미확인(대난투 SPECIAL 서포터 스피릿에 있으나 한국어 이름 못 찾음). 나무위키 문서 제목 「판툰(메트로이드 시리즈)」(단서)",
+  "note": "확신 낮음. 팬 표기는 판툰·팬툰·파툰이 섞임. 가나 ファントゥーン 에도 맞는 「판툰」 권장."
+ },
+ {
+  "ja": "ストーム",
+  "en": "Cyclon",
+  "ko": "스톰",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적(메트로이드 본편에 없음). 공식 한국어 없음",
+  "note": "일본어 이름(Storm)을 따름. 영어판은 Cyclon."
+ },
+ {
+  "ja": "クイーンストーム",
+  "en": "Cyclon Queen",
+  "ko": "퀸 스톰",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적. 공식 한국어 없음",
+  "note": "미션 9 이름."
+ },
+ {
+  "ja": "レッドジーマ",
+  "en": "(Red Geemer)",
+  "ko": "레드 지머",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 「지머」 항목을 따름",
+  "note": "미션 2 이름. 지머를 「지마」로 고르면 「레드 지마」."
+ },
+ {
+  "ja": "スペースパイレーツのボス",
+  "en": "commander of the Space Pirates",
+  "ko": "우주 해적의 보스",
+  "status": "generic",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/",
+  "note": "석상 052 설명."
+ },
+ {
+  "ja": "ブリンスタ(参考)",
+  "en": "Brinstar",
+  "ko": "브린스타",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 한국어 공식 사이트 스테이지 목록 https://www.smashbros.com/ko_KR/stage/index.html",
+  "note": "참고. 「懐かしの地で」(미션 29) 등에서 장소를 밝힐 때 쓸 수 있음."
+ },
+ {
+  "ja": "ノルフェア(参考)",
+  "en": "Norfair",
+  "ko": "노르페어",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 한국어 공식 사이트 스테이지 목록 https://www.smashbros.com/ko_KR/stage/index.html",
+  "note": "참고."
+ },
+ {
+  "ja": "メトロイド ブラスト",
+  "en": "Metroid Blast",
+  "ko": "메트로이드 블래스트",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "어트랙션 이름. 「메트로이드」는 공식, Blast는 흔한 외래어 표기 「블래스트」."
+ },
+ {
+  "ja": "ニンテンドーランド",
+  "en": "Nintendo Land",
+  "ko": "닌텐도 랜드",
+  "status": "unofficial",
+  "source": "한국 미발매. 패치 제목 표기를 따름",
+  "note": ""
+ },
+ {
+  "ja": "ヌンチャク",
+  "en": "Nunchuk",
+  "ko": "눈차크",
+  "status": "official",
+  "source": "한국닌텐도 Wii 공식 표기(Wii 한국판 설명서·사이트)",
+  "note": ""
+ },
+ {
+  "ja": "Wiiリモコン",
+  "en": "Wii Remote",
+  "ko": "Wii 리모컨",
+  "status": "official",
+  "source": "한국닌텐도 Wii 공식 표기",
+  "note": ""
+ },
+ {
+  "ja": "バウンティハンター(参考)",
+  "en": "bounty hunter",
+  "ko": "바운티 헌터",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 메트로이드 프라임 4 비욘드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/bgw5a/index.html",
+  "note": "영어 대사 ex_en 에만 나오지만 참고로 둠."
+ },
+ {
+  "ja": "銀河連邦(参考)",
+  "en": "Galactic Federation",
+  "ko": "은하연방",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 메트로이드 프라임 4 비욘드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/bgw5a/index.html",
+  "note": "드레드 사이트는 「은하 연방」으로 띄어 씀. 최신 프라임 4는 「은하연방」."
+ },
+ {
+  "ja": "スターシップ",
+  "en": "Gunship",
+  "ko": "스타쉽",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / https://www.ssbwiki.com/Gunship",
+  "note": "석상 051. 위 「스타쉽」 항목과 같음."
+ },
+ {
+  "ja": "リドリー",
+  "en": "Ridley",
+  "ko": "리들리",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 공식 사이트 파이터 데이터 ko_KR https://www.smashbros.com/assets_v2/data/fighter.json",
+  "note": "석상 052."
+ },
+ {
+  "ja": "メトロイド",
+  "en": "Metroid",
+  "ko": "메트로이드",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/",
+  "note": "석상 053."
+ },
+ {
+  "ja": "ゼーベス星人",
+  "en": "Zebesian",
+  "ko": "제베스인",
+  "status": "unofficial",
+  "source": "제베스는 공식(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/), 종족 이름은 미확인",
+  "note": "석상 054. 확신 낮음. 대안 「제베스 성인」."
+ },
+ {
+  "ja": "ストーム",
+  "en": "Cyclon",
+  "ko": "스톰",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적",
+  "note": "석상 055."
+ },
+ {
+  "ja": "ジーマ",
+  "en": "Geemer",
+  "ko": "지머",
+  "status": "unofficial",
+  "source": "공식 표기 미확인",
+  "note": "석상 056. 확신 낮음(대안 「지마」)."
+ },
+ {
+  "ja": "チャージボム",
+  "en": "Charge Bomb",
+  "ko": "차지 봄",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 무기. 「차지」(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)·「봄」(메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html) 공식 표기 조합",
+  "note": "석상 057. 「봄」이 어색하면 「차지 폭탄」도 가능하지만 공식 낱말은 「봄」."
+ },
+ {
+  "ja": "クレイド",
+  "en": "Kraid",
+  "ko": "크레이드",
+  "status": "official",
+  "source": "https://www.ssbwiki.com/Kraid (대난투 SPECIAL 한국어)",
+  "note": "석상 058."
+ },
+ {
+  "ja": "チャージミサイル",
+  "en": "Missile",
+  "ko": "차지 미사일",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 「차지」·「미사일」 공식 표기 조합(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)",
+  "note": "석상 059."
+ },
+ {
+  "ja": "モーフボール",
+  "en": "Morph Ball",
+  "ko": "모프볼",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/",
+  "note": "석상 060."
+ },
+ {
+  "ja": "ロケットミサイル",
+  "en": "Rocket",
+  "ko": "로켓 미사일",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적 무기",
+  "note": "석상 061."
+ },
+ {
+  "ja": "マト",
+  "en": "Target",
+  "ko": "과녁",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "석상 062. 대사에서 「マトをマトモに」 말장난이 있으니 설명문은 따로 손볼 것."
+ },
+ {
+  "ja": "トゲボム",
+  "en": "Spike Bomb",
+  "ko": "가시 봄",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 「봄」 공식 표기를 따름(메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html)",
+  "note": "석상 063. 대안 「가시 폭탄」."
+ },
+ {
+  "ja": "鳥人像",
+  "en": "Chozo Statue",
+  "ko": "조인상",
+  "status": "unofficial",
+  "source": "조인족은 공식(메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/dread/index.html), 석상 이름은 미확인",
+  "note": "석상 064. 확신 낮음. 대안 「조인족 석상」."
+ },
+ {
+  "ja": "サムスヘルメット",
+  "en": "Rapid-Fire Helmet",
+  "ko": "사무스 헬멧",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 사무스는 공식",
+  "note": "석상 197."
+ },
+ {
+  "ja": "チャージアイス",
+  "en": "Ice Charge Shot",
+  "ko": "차지 아이스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 「차지」·「아이스」(아이스 빔) 공식 표기 조합(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)",
+  "note": "석상 198."
+ },
+ {
+  "ja": "1. トレーニングセクター",
+  "en": "1. Training Zone",
+  "ko": "1. 트레이닝 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름)."
+ },
+ {
+  "ja": "2. スペースセクター",
+  "en": "2. Space Port",
+  "ko": "2. 스페이스 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름)."
+ },
+ {
+  "ja": "3. マグマセクター",
+  "en": "3. Volcanic Sector",
+  "ko": "3. 마그마 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름)."
+ },
+ {
+  "ja": "4. タワーセクター",
+  "en": "4. Sea Tower",
+  "ko": "4. 타워 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름)."
+ },
+ {
+  "ja": "5. アイスセクター",
+  "en": "5. Ice Sector",
+  "ko": "5. 아이스 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름)."
+ },
+ {
+  "ja": "制限時間",
+  "en": "Time",
+  "ko": "제한 시간",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "１分",
+  "en": "1 Min.",
+  "ko": "1분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "３分",
+  "en": "3 Min.",
+  "ko": "3분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "５分",
+  "en": "5 Min.",
+  "ko": "5분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "無制限",
+  "en": "None",
+  "ko": "무제한",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "アイテム",
+  "en": "Items",
+  "ko": "아이템",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "なし",
+  "en": "Off",
+  "ko": "없음",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "あり",
+  "en": "On",
+  "ko": "있음",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "レーダー",
+  "en": "Radar",
+  "ko": "레이더",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "ルール",
+  "en": "Rules",
+  "ko": "룰",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "メダル",
+  "en": "Tokens",
+  "ko": "메달",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "サバイバル",
+  "en": "Survival",
+  "ko": "서바이벌",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "敵乱入",
+  "en": "Enemies",
+  "ko": "적 난입",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "ミッション",
+  "en": "Mission",
+  "ko": "미션",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "制限時間 ３分",
+  "en": "Time limit: 3 min.",
+  "ko": "제한 시간 3분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "制限時間 ５分",
+  "en": "Time limit: 5 min.",
+  "ko": "제한 시간 5분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "防衛時間 ２分",
+  "en": "Defend for 2 min.",
+  "ko": "방어 시간 2분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "1. はじめての戦い",
+  "en": "1. First Contact",
+  "ko": "1. 첫 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "2. ジーマとレッドジーマ",
+  "en": "2. Geemer Invasion",
+  "ko": "2. 지머와 레드 지머",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "지머는 확신 낮음(대안 지마)."
+ },
+ {
+  "ja": "3. ストーム登場",
+  "en": "3. Approaching Cyclons",
+  "ko": "3. 스톰 등장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "4. Miiメダルを集めろ",
+  "en": "4. Token Sweep",
+  "ko": "4. Mii 메달을 모아라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "5. ゼーベス星人 現る",
+  "en": "5. Zebesian Incursion",
+  "ko": "5. 제베스인 출현",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "제베스인 확신 낮음."
+ },
+ {
+  "ja": "6. ストーム軍団 襲来",
+  "en": "6. Cyclon Infestation",
+  "ko": "6. 스톰 군단 습격",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "7. ストームを10体倒せ",
+  "en": "7. Destroy 10 Cyclons",
+  "ko": "7. 스톰을 10마리 쓰러뜨려라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "8. 灼熱の戦い",
+  "en": "8. Infernal Battle",
+  "ko": "8. 작열의 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "9. クイーンストームとMiiメダル",
+  "en": "9. Cyclon Queen's Tokens",
+  "ko": "9. 퀸 스톰과 Mii 메달",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "10. 巨大な敵",
+  "en": "10. Hostile Colossus",
+  "ko": "10. 거대한 적",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "11. ジーマ・ジーマ・ジーマ",
+  "en": "11. Geemers!",
+  "ko": "11. 지머・지머・지머",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "12. 極寒の戦い",
+  "en": "12. Subzero Combat",
+  "ko": "12. 극한의 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "極寒=혹한도 가능(「혹한의 전투」)."
+ },
+ {
+  "ja": "13. メトロイド退治",
+  "en": "13. Metroid Hunt",
+  "ko": "13. 메트로이드 퇴치",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "14. Miiを守れ",
+  "en": "14. Defend Your Allies",
+  "ko": "14. Mii를 지켜라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "15. ゼーベス星人 飛来",
+  "en": "15. Zebesians Incoming",
+  "ko": "15. 제베스인 날아오다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "飛来를 살리면 「제베스인 비래」는 어려운 말이라 「날아오다」/「공중 습격」 중 고를 것."
+ },
+ {
+  "ja": "16. スナイパーから身を隠せ",
+  "en": "16. Evade the Snipers",
+  "ko": "16. 저격수에게서 몸을 숨겨라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "「스나이퍼」로 둘 수도 있음."
+ },
+ {
+  "ja": "17. 空中戦を制覇せよ",
+  "en": "17. Air Supremacy",
+  "ko": "17. 공중전을 제패하라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "18. 極寒のMiiメダル集め",
+  "en": "18. Frosty Token Sweep",
+  "ko": "18. 혹한의 Mii 메달 모으기",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "19. 敵の背中を取れ",
+  "en": "19. Strike from Behind",
+  "ko": "19. 적의 등 뒤를 잡아라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "20. 最後の戦い",
+  "en": "20. The Final Battle",
+  "ko": "20. 마지막 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "21. ジーマ・ジーマ・ジーマ・改",
+  "en": "21. More Geemers",
+  "ko": "21. 지머・지머・지머・개",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "「改」는 원문대로 「개」(・개 표기는 26번과 맞춤)."
+ },
+ {
+  "ja": "22. 新たな強敵",
+  "en": "22. Unidentified Enemy Object",
+  "ko": "22. 새로운 강적",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "23. メトロイドラッシュ",
+  "en": "23. Metroid Rush",
+  "ko": "23. 메트로이드 러시",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "24. クレイドとその手下たち",
+  "en": "24. Kraid's Army",
+  "ko": "24. 크레이드와 그 부하들",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "25. 戦慄のMiiメダル集め",
+  "en": "25. Token Sweep",
+  "ko": "25. 전율의 Mii 메달 모으기",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "26. Miiを守れ・改",
+  "en": "26. Defend Your Allies 2",
+  "ko": "26. Mii를 지켜라・개",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "27. チャージアイスが…ない",
+  "en": "27. De-iced",
+  "ko": "27. 차지 아이스가… 없다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "28. リドリーとアイスリドリー",
+  "en": "28. Ridley and Ice Ridley",
+  "ko": "28. 리들리와 아이스 리들리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "29. 懐かしの地で",
+  "en": "29. On Familiar Ground",
+  "ko": "29. 그리운 땅에서",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": ""
+ },
+ {
+  "ja": "30. 真・最後の戦い",
+  "en": "30. The True Final Battle",
+  "ko": "30. 진・마지막 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "「진정한 마지막 전투」도 가능."
+ },
+ {
+  "ja": "全員ノーダメージ",
+  "en": "Take no damage.",
+  "ko": "전원 노 대미지",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "「대미지」는 한국닌텐도 표기(드레드·프라임 리마스터 「대미지」)."
+ },
+ {
+  "ja": "全員HIT率100%",
+  "en": "All players achieve 100% hit accuracy.",
+  "ko": "전원 HIT율 100%",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "全員HIT率50%以上",
+  "en": "All players achieve 50% hit accuracy or more.",
+  "ko": "전원 HIT율 50% 이상",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "チャージ攻撃だけで撃破",
+  "en": "Win using only charge attacks.",
+  "ko": "차지 공격만으로 격파",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "チャージ攻撃禁止",
+  "en": "Use no charge attacks.",
+  "ko": "차지 공격 금지",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "アイテムを取らない",
+  "en": "Do not pick up any items.",
+  "ko": "아이템을 줍지 않는다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "一発も撃たない",
+  "en": "Do not fire a single shot.",
+  "ko": "한 발도 쏘지 않는다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "チャージアイスを\n外さない",
+  "en": "Do not miss any Ice Charge Beam shots.",
+  "ko": "차지 아이스를\n빗맞히지 않는다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "緊急回避と\nダッシュ禁止",
+  "en": "Do not dodge or dash.",
+  "ko": "긴급 회피와\n대시 금지",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "残り時間 以上",
+  "en": "Finish with  or more remaining.",
+  "ko": "남은 시간  이상",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "가운데 빈칸에 시간 태그가 들어감."
+ },
+ {
+  "ja": "チャージ攻撃を\n外さない",
+  "en": "Do not miss any charge shots.",
+  "ko": "차지 공격을\n빗맞히지 않는다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "Miiをつかませない",
+  "en": "Don't let a Mii get caught.",
+  "ko": "Mii가 붙잡히지 않게 한다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "アイスリドリーを\n倒す",
+  "en": "Defeat Ice Ridley.",
+  "ko": "아이스 리들리를\n쓰러뜨린다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": ""
+ },
+ {
+  "ja": "敵を累計100体倒した",
+  "en": "100 Enemies Down",
+  "ko": "적을 누계 100마리 쓰러뜨렸다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "巨大な敵の体内に潜入",
+  "en": "In the Belly of the Beast",
+  "ko": "거대한 적의 몸속에 잠입",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "最後の戦い でボスを倒した",
+  "en": "Boss Blaster",
+  "ko": "마지막 전투 에서 보스를 쓰러뜨렸다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "全ミッションクリア",
+  "en": "Mission Accomplished",
+  "ko": "모든 미션 클리어",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "全ミッションマスタークリア",
+  "en": "Master Bounty Hunter",
+  "ko": "모든 미션 마스터 클리어",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "残り1秒でトドメをさした",
+  "en": "Last-Second Blast",
+  "ko": "남은 1초에 마무리했다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "飛び降りビームでトドメをさした",
+  "en": "Free-Fall Finisher",
+  "ko": "뛰어내리며 빔으로 마무리했다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "チャージボムを当てた",
+  "en": "Gunship Bomber",
+  "ko": "차지 봄을 맞혔다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "チャージミサイルを直接当てた",
+  "en": "Missile Strike",
+  "ko": "차지 미사일을 직접 맞혔다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "空からの百発百中勝利",
+  "en": "Gunship Accuracy: 100%",
+  "ko": "하늘에서 백발백중 승리",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "10HIT達成",
+  "en": "10-Hit Hunter",
+  "ko": "10HIT 달성",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "メダル99枚で勝利",
+  "en": "Max-Token Victory",
+  "ko": "메달 99개로 승리",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "メダルを100枚落とした",
+  "en": "100-Token Drop",
+  "ko": "메달을 100개 떨어뜨렸다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "メダルタンクひとりじめ",
+  "en": "Thanks for the Tanks",
+  "ko": "메달 탱크 독차지",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "百発百中勝利",
+  "en": "Perfect Aim",
+  "ko": "백발백중 승리",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름."
+ },
+ {
+  "ja": "アウト",
+  "en": "Out",
+  "ko": "아웃",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "Mtr_MiiName_00."
+ },
+ {
+  "ja": "バリア",
+  "en": "Shield",
+  "ko": "배리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "「배리어」 철자는 프라임 리마스터 「배리어 슈트」를 따름(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)."
+ },
+ {
+  "ja": "連射プラス",
+  "en": "Rapid-Fire Boost",
+  "ko": "연사 플러스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "「연사」는 공식 문구에 쓰임(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)."
+ },
+ {
+  "ja": "アクセルチャージ",
+  "en": "Speed Boost",
+  "ko": "액셀 차지",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": ""
+ },
+ {
+  "ja": "レーダー",
+  "en": "Radar",
+  "ko": "레이더",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": ""
+ },
+ {
+  "ja": "ライフ回復",
+  "en": "Life Recharge",
+  "ko": "라이프 회복",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "드레드 사이트 「라이프 에너지」."
+ },
+ {
+  "ja": "ステルス",
+  "en": "Stealth",
+  "ko": "스텔스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": ""
+ },
+ {
+  "ja": "連射ヘルメット",
+  "en": "Rapid-Fire Helmet",
+  "ko": "연사 헬멧",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": ""
+ },
+ {
+  "ja": "チャージアイス",
+  "en": "Ice Charge Shot",
+  "ko": "차지 아이스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "닌텐도 랜드 고유. 공식 「차지 빔」·「아이스 빔」 표기 조합."
+ },
+ {
+  "ja": "ゴールデンヘルメット",
+  "en": "Golden Helmet",
+  "ko": "골든 헬멧",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": ""
+ },
+ {
+  "ja": "無敵ボード",
+  "en": "Invincible Barrier",
+  "ko": "무적 보드",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": ""
+ },
+ {
+  "ja": "リドリー",
+  "en": "Ridley",
+  "ko": "리들리",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 공식 사이트 파이터 데이터 ko_KR https://www.smashbros.com/assets_v2/data/fighter.json",
+  "note": "Mtr.msbt 보스 이름."
+ },
+ {
+  "ja": "クレイド",
+  "en": "Kraid",
+  "ko": "크레이드",
+  "status": "official",
+  "source": "https://www.ssbwiki.com/Kraid (대난투 SPECIAL 한국어)",
+  "note": "Mtr.msbt 보스 이름."
+ },
+ {
+  "ja": "アイスリドリー",
+  "en": "Ice Ridley",
+  "ko": "아이스 리들리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유",
+  "note": "Mtr.msbt 보스 이름."
+ },
+ {
+  "ja": "アイスリドリー/リドリー",
+  "en": "Ice Ridley/Ridley",
+  "ko": "아이스 리들리/리들리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 조합",
+  "note": "Mtr.msbt 보스 이름."
+ },
+ {
+  "ja": "クレイド/リドリー",
+  "en": "Kraid/Ridley",
+  "ko": "크레이드/리들리",
+  "status": "official",
+  "source": "위 두 공식 표기 조합",
+  "note": "Mtr.msbt 보스 이름."
+ },
+ {
+  "ja": "メダルタンク",
+  "en": "Token Tank",
+  "ko": "메달 탱크",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유",
+  "note": ""
+ },
+ {
+  "ja": "チャージボム",
+  "en": "charge bomb",
+  "ko": "차지 봄",
+  "status": "unofficial",
+  "source": "석상 057과 같음",
+  "note": ""
+ },
+ {
+  "ja": "チャージミサイル",
+  "en": "charge missile",
+  "ko": "차지 미사일",
+  "status": "unofficial",
+  "source": "석상 059와 같음",
+  "note": ""
+ },
+ {
+  "ja": "アシストアイテム",
+  "en": "assist item",
+  "ko": "어시스트 아이템",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "マスタークリア",
+  "en": "Master Rank",
+  "ko": "마스터 클리어",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "シューティングアトラクション",
+  "en": "shooting attraction",
+  "ko": "슈팅 어트랙션",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "スティックボタン",
+  "en": "Left/Right Stick (press)",
+  "ko": "스틱 버튼",
+  "status": "generic",
+  "source": "Wii U GamePad 조작 용어",
+  "note": ""
+ },
+ {
+  "ja": "ポインター",
+  "en": "pointer",
+  "ko": "포인터",
+  "status": "generic",
+  "source": "Wii 공식 조작 용어",
+  "note": ""
+ },
+ {
+  "ja": "緊急回避",
+  "en": "quick dodge",
+  "ko": "긴급 회피",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "ハート",
+  "en": "heart",
+  "ko": "하트",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "ダッシュ",
+  "en": "dash",
+  "ko": "대시",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "ラストグループ / 敵グループ",
+  "en": "Last Wave / Enemy waves",
+  "ko": "라스트 그룹 / 적 그룹",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ },
+ {
+  "ja": "ノルマクリア",
+  "en": "Quota Met",
+  "ko": "목표 달성",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "「노르마 클리어」도 가능."
+ },
+ {
+  "ja": "ラストショット",
+  "en": "Last Shot",
+  "ko": "라스트 샷",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": ""
+ }
+]

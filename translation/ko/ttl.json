@@ -1,0 +1,888 @@
+[
+ {
+  "id": 3939,
+  "ko": "…"
+ },
+ {
+  "id": 3940,
+  "ko": "…저기."
+ },
+ {
+  "id": 3943,
+  "ko": "여기서 꺼내 주시겠습니까?"
+ },
+ {
+  "id": 3944,
+  "ko": "들고 계신 의 {0:3:0002}화면을 터치{0:3:ffff}해 주십시오."
+ },
+ {
+  "id": 3947,
+  "ko": "{0:3:0002}닌텐도 랜드{0:3:ffff}에 오신 것을\n환영합니다."
+ },
+ {
+  "id": 3951,
+  "ko": "저는 이 랜드의 안내원,\n{0:3:0002}모니타{0:3:ffff}입니다."
+ },
+ {
+  "id": 3954,
+  "ko": "그럼 바로…"
+ },
+ {
+  "id": 3955,
+  "ko": "처음 오신 분께 해 주셨으면 하는\n준비 체조가 있습니다."
+ },
+ {
+  "id": 3958,
+  "ko": "먼저 {0:3:0002}둘러보기 체조{0:3:ffff}입니다."
+ },
+ {
+  "id": 3961,
+  "ko": "들고 계신 Wii U GamePad를\n똑바로 세워 들어 주십시오."
+ },
+ {
+  "id": 3962,
+  "ko": "다음은…"
+ },
+ {
+  "id": 3963,
+  "ko": "{0:3:0002}엿보는 창처럼{0:3:ffff} GamePad를 움직여\n저를 찾아 주십시오."
+ },
+ {
+  "id": 3964,
+  "ko": "OK입니다.\n그럼 한 번 더."
+ },
+ {
+  "id": 3966,
+  "ko": "GamePad를 움직여\n저를 찾아 주십시오."
+ },
+ {
+  "id": 3967,
+  "ko": "OK입니다.\n마지막으로 한 번 더…"
+ },
+ {
+  "id": 3970,
+  "ko": "GamePad를 움직여\n저를 찾아 주십시오."
+ },
+ {
+  "id": 3971,
+  "ko": "OK입니다.\n수고하셨습니다."
+ },
+ {
+  "id": 3974,
+  "ko": "그럼 이번에는 {0:3:0002}달리기{0:3:ffff}입니다."
+ },
+ {
+  "id": 3975,
+  "ko": "GamePad의 {0:3:0002}{0:3:ffff}으로\n뛰어다닐 수 있습니다.",
+  "note": "아이콘 뒤 조사: ·는 스틱(으로·을)으로 보고 붙임"
+ },
+ {
+  "id": 3976,
+  "ko": "{0:3:0002}{0:3:ffff}을 움직이면\n주위를 둘러볼 수 있습니다."
+ },
+ {
+  "id": 3977,
+  "ko": "{0:3:0002}{0:3:ffff}로 눈을 모아 줌입니다.",
+  "note": "아이콘 뒤 조사 「로」는 버튼 이름을 몰라 짐작(R·ZR이면 「로」 맞음)"
+ },
+ {
+  "id": 3978,
+  "ko": "{0:3:0002}{0:3:ffff}을 누르면 점프입니다."
+ },
+ {
+  "id": 3979,
+  "ko": "수고하셨습니다.\n이것으로 준비 체조는 끝입니다."
+ },
+ {
+  "id": 3980,
+  "ko": "여기서 하나 소개해 드리고 싶은 것이\n있습니다."
+ },
+ {
+  "id": 3981,
+  "ko": "갑니다."
+ },
+ {
+  "id": 3982,
+  "ko": "이것을\n열어 보십시오."
+ },
+ {
+  "id": 3983,
+  "ko": "{0:3:0002}상자를 터치{0:3:ffff}하면\n열 수 있습니다."
+ },
+ {
+  "id": 3986,
+  "ko": "이것은 랜드의 상징,\n{0:3:0002}센트럴 타워{0:3:ffff}입니다."
+ },
+ {
+  "id": 3989,
+  "ko": "꼭 한번 꼭대기에\n올라가 보십시오."
+ },
+ {
+  "id": 3990,
+  "ko": "꼭 한번 꼭대기에\n올라가 보십시오.",
+  "note": "원문 「ぜひ一度 <>てっぺんに」의 <>는 태그가 아닌 글자라 뺐음(음성 없는 같은 대사)"
+ },
+ {
+  "id": 3993,
+  "ko": "{0:3:0002}타워를 터치{0:3:ffff}하면\n꼭대기에 올라갈 수 있습니다."
+ },
+ {
+  "id": 3994,
+  "ko": "여기서는 저희 랜드의 중앙 광장…"
+ },
+ {
+  "id": 3995,
+  "ko": "{0:3:0002}닌텐도 랜드 플라자{0:3:ffff}를\n한눈에 볼 수 있습니다."
+ },
+ {
+  "id": 3996,
+  "ko": "자, 준비가 되었으니"
+ },
+ {
+  "id": 3997,
+  "ko": "드디어 {0:3:0002}어트랙션{0:3:ffff} 소개로\n넘어가겠습니다."
+ },
+ {
+  "id": 3998,
+  "ko": "저희 랜드의 어트랙션은"
+ },
+ {
+  "id": 3999,
+  "ko": "혼자서\n가볍게 즐길 수 있는 어트랙션부터"
+ },
+ {
+  "id": 4000,
+  "ko": "다 함께\n왁자지껄 즐길 수 있는 어트랙션까지"
+ },
+ {
+  "id": 4001,
+  "ko": "폭넓게 마련되어 있습니다."
+ },
+ {
+  "id": 4005,
+  "ko": "먼저 관심 가는 어트랙션에\n들어가 보십시오."
+ },
+ {
+  "id": 4006,
+  "ko": "{0:3:0002}게이트 앞 간판을 터치{0:3:ffff}하면\n어트랙션 설명을 볼 수 있습니다."
+ },
+ {
+  "id": 4027,
+  "ko": "안내원 모니타입니다."
+ },
+ {
+  "id": 4028,
+  "ko": "이번에는 {0:3:0002}플라자{0:3:ffff}를 조금\n활기차게 만드는 방법을 소개해 드리겠습니다."
+ },
+ {
+  "id": 4035,
+  "ko": "어트랙션을 즐긴 뒤 코인을\n받으신 것을 알아차리셨습니까?"
+ },
+ {
+  "id": 4036,
+  "ko": "이것은 저희 랜드 전용\n{0:3:0002}닌텐도 랜드 코인{0:3:ffff}입니다."
+ },
+ {
+  "id": 4037,
+  "ko": "이것을 쓰면 플라자를 활기차게 해 줄\n{0:3:0002}프라이즈{0:3:ffff}를 얻을 수 있습니다."
+ },
+ {
+  "id": 4038,
+  "ko": "NL 코인을 얻으면\n{0:3:0002}타워 꼭대기{0:3:ffff}로 와 주십시오."
+ },
+ {
+  "id": 4039,
+  "ko": "먼저 {0:3:0002}타워를 터치{0:3:ffff}하십시오."
+ },
+ {
+  "id": 4040,
+  "ko": "다음은 이 {0:3:0002}큰 모니터를\n터치{0:3:ffff}하십시오."
+ },
+ {
+  "id": 4041,
+  "ko": "이 {0:3:0002}코인 게임{0:3:ffff}을 클리어하면\n프라이즈를 얻을 수 있습니다."
+ },
+ {
+  "id": 4044,
+  "ko": "조작은 간단합니다.\n{0:3:0002}로 NL 코인을 발사{0:3:ffff}하기만 하면 됩니다."
+ },
+ {
+  "id": 4049,
+  "ko": "바로 해 보시지요."
+ },
+ {
+  "id": 4050,
+  "ko": "방금 날아간 것이 프라이즈입니다."
+ },
+ {
+  "id": 4051,
+  "ko": "무엇이 들어 있는지는\n열어 보실 때의 즐거움."
+ },
+ {
+  "id": 4058,
+  "ko": "프라이즈를 모아서\n플라자를 활기차게 만들어 주십시오."
+ },
+ {
+  "id": 4055,
+  "ko": "축하드립니다.\n프라이즈가 모두 모였습니다."
+ },
+ {
+  "id": 4056,
+  "ko": "프라이즈 컴플리트에 맞춰\n코인 게임도 리뉴얼했습니다."
+ },
+ {
+  "id": 4057,
+  "ko": "계속 즐기시면서\n코인을 많이 얻어 주십시오."
+ },
+ {
+  "id": 4064,
+  "ko": "안내원 모니타입니다."
+ },
+ {
+  "id": 4065,
+  "ko": "방금 즐기신 어트랙션,\n어떠셨습니까?"
+ },
+ {
+  "id": 4068,
+  "ko": "여기서 하나, 저희 랜드의 특별 열차\n{0:3:0002}투어 트레인{0:3:ffff}을 소개해 드리겠습니다."
+ },
+ {
+  "id": 4069,
+  "ko": "이 {0:3:0002}물음표 상자를\n열어{0:3:ffff} 주시겠습니까?"
+ },
+ {
+  "id": 4070,
+  "ko": "이것이 {0:3:0002}투어 트레인{0:3:ffff}입니다."
+ },
+ {
+  "id": 4071,
+  "ko": "여기에 타고 {0:3:0002}{0:3:ffff}를 누르면\n어트랙션 투어에 참가할 수 있습니다."
+ },
+ {
+  "id": 4072,
+  "ko": "어트랙션 투어는 대전 형식으로,\n2분부터 접수받습니다."
+ },
+ {
+  "id": 4073,
+  "ko": "여러분 함께 모이셔서\n참가해 주십시오."
+ },
+ {
+  "id": 4074,
+  "ko": "멤버가 모이면\n{0:3:0002}투어 트레인에 타서 {0:3:ffff}를 누르십시오."
+ },
+ {
+  "id": 4102,
+  "ko": "안내원 모니타입니다."
+ },
+ {
+  "id": 4105,
+  "ko": "이미 알아차리셨을지도 모르겠습니다만…"
+ },
+ {
+  "id": 4108,
+  "ko": "다른 손님들이\n놀러 오셨습니다."
+ },
+ {
+  "id": 4109,
+  "ko": "플라자가 조금\n북적이기 시작했습니다."
+ },
+ {
+  "id": 4110,
+  "ko": "지금 와 계신 분들은\n이웃 손님들입니다만…"
+ },
+ {
+  "id": 4111,
+  "ko": "{0:3:0002}인터넷에 접속{0:3:ffff}하면\n전 세계에서 손님이 찾아옵니다."
+ },
+ {
+  "id": 4112,
+  "ko": "자세한 내용은 {0:3:0002}닌텐도 홈페이지{0:3:ffff}를\n확인해 주십시오."
+ },
+ {
+  "id": 4113,
+  "ko": "저의 안내는\n이번으로 끝입니다."
+ },
+ {
+  "id": 4114,
+  "ko": "만약 지금까지의 설명을\n잊으셨다면…"
+ },
+ {
+  "id": 4115,
+  "ko": "플라자에 있는 {2:30:00000064fffffff6}에\n{0:3:0002}터치{0:3:ffff}해 보십시오.",
+  "note": "{2:30:…}는 그림 아이콘이라 받침을 몰라 「을/를」 대신 「에」를 붙임"
+ },
+ {
+  "id": 4116,
+  "ko": "분명 제 설명을\n떠올리실 수 있을 겁니다."
+ },
+ {
+  "id": 4118,
+  "ko": "Wii U 메뉴에서\n{0:3:0002}보호자에 의한 사용 제한{0:3:ffff}을 선택해"
+ },
+ {
+  "id": 4119,
+  "ko": "설정을 변경하면"
+ },
+ {
+  "id": 4120,
+  "ko": "전 세계에서 손님이\n찾아오게 됩니다."
+ },
+ {
+  "id": 4121,
+  "ko": "궁금한 분이 있으면\n{0:3:0002}터치{0:3:ffff}해 보십시오."
+ },
+ {
+  "id": 4125,
+  "ko": "인터넷에 접속해서\nMiiverse를 이용하고 있으면"
+ },
+ {
+  "id": 4126,
+  "ko": "전 세계에서 손님이 찾아옵니다."
+ },
+ {
+  "id": 4127,
+  "ko": "궁금한 분이 있으면\n{0:3:0002}터치{0:3:ffff}해 보십시오."
+ },
+ {
+  "id": 4131,
+  "ko": "전 세계 사람들에게\n게시물을 보낼 수도 있습니다."
+ },
+ {
+  "id": 4133,
+  "ko": "{0:3:0002}화면 왼쪽 아래의 버튼을 터치{0:3:ffff}하면"
+ },
+ {
+  "id": 4134,
+  "ko": "게시물을 올릴 수 있습니다."
+ },
+ {
+  "id": 4135,
+  "ko": "좋은 아침, 안녕하세요, 좋은 저녁\n잘 부탁드립니다…",
+  "note": "こんにちは·こんばんは가 둘 다 「안녕하세요」라 「안녕하세요·좋은 저녁」으로 나눔"
+ },
+ {
+  "id": 4136,
+  "ko": "먼저 부담 없이 원하시는 인사를\n써 보십시오."
+ },
+ {
+  "id": 4155,
+  "ko": "전 세계 여러분이\n놀러 올 준비가 되었습니다."
+ },
+ {
+  "id": 4078,
+  "ko": "안내원 모니타입니다."
+ },
+ {
+  "id": 4085,
+  "ko": "이번에는\n모든 어트랙션을 한눈에 볼 수 있는…"
+ },
+ {
+  "id": 4086,
+  "ko": "편리한 입구를\n안내해 드리겠습니다."
+ },
+ {
+  "id": 4087,
+  "ko": "그럼 {0:3:0002}화면 오른쪽 아래의 버튼을\n터치{0:3:ffff}해 주십시오."
+ },
+ {
+  "id": 4088,
+  "ko": "이것이 그 입구입니다."
+ },
+ {
+  "id": 4089,
+  "ko": "{0:3:0002}카드를 선택{0:3:ffff}하면 각각의\n어트랙션에 들어갈 수 있습니다."
+ },
+ {
+  "id": 4090,
+  "ko": "큰 기차 카드는\n{0:3:0002}어트랙션 투어{0:3:ffff}입니다."
+ },
+ {
+  "id": 4091,
+  "ko": "{0:3:0002}왼쪽 아래{0:3:ffff} 버튼은 뭔가 곤란한 일이\n있을 때 살펴보십시오."
+ },
+ {
+  "id": 4094,
+  "ko": "{0:3:0002}오른쪽 아래{0:3:ffff} 버튼은\n{0:3:0002}플라자{0:3:ffff}로 돌아가는 버튼입니다."
+ },
+ {
+  "id": 4095,
+  "ko": "설명은 이상입니다."
+ },
+ {
+  "id": 4100,
+  "ko": "또 어딘가의 어트랙션에서\n뵙겠습니다."
+ },
+ {
+  "id": 4162,
+  "ko": "축하드립니다."
+ },
+ {
+  "id": 4167,
+  "ko": "이 어트랙션의\n스타 플레이어로 인정받으셨습니다."
+ },
+ {
+  "id": 4168,
+  "ko": "그 증표로…"
+ },
+ {
+  "id": 4169,
+  "ko": "이 {0:3:0002}스타{0:3:ffff}를 선물로\n게이트에 달아 드리겠습니다."
+ },
+ {
+  "id": 4173,
+  "ko": "다른 어트랙션에서도 꼭\n스타 획득에 도전해 보십시오."
+ },
+ {
+  "id": 4182,
+  "ko": "또 스타를 하나\n얻으셨군요."
+ },
+ {
+  "id": 4183,
+  "ko": "이 기세로 모든 스타 획득에\n꼭 도전해 보십시오."
+ },
+ {
+  "id": 4184,
+  "ko": "어라? 어쩌면 이것으로"
+ },
+ {
+  "id": 4185,
+  "ko": "스타를 전부 얻으신 것 아닙니까…"
+ },
+ {
+  "id": 4187,
+  "ko": "이건 대단합니다…"
+ },
+ {
+  "id": 4192,
+  "ko": "잠시만 기다려 주십시오…\n그것을 드려야 합니다…"
+ },
+ {
+  "id": 4193,
+  "ko": "모든 스타를\n얻으신 분을 위해…"
+ },
+ {
+  "id": 4194,
+  "ko": "특별히 준비해 둔\n{0:3:0002}스페셜 프라이즈{0:3:ffff}가 있습니다."
+ },
+ {
+  "id": 4195,
+  "ko": "{0:3:0002}터치{0:3:ffff}해서 열어 보십시오."
+ },
+ {
+  "id": 4196,
+  "ko": "자, 열어 보십시오."
+ },
+ {
+  "id": 4199,
+  "ko": "에… 에…"
+ },
+ {
+  "id": 4200,
+  "ko": "지금부터…"
+ },
+ {
+  "id": 4203,
+  "ko": "모든 스타 획득을 축하하며\n단 하룻밤뿐인 파티를 개최합니다."
+ },
+ {
+  "id": 4204,
+  "ko": "지금부터 폐장하오니\n오늘 밤의 랜드는 손님의 것입니다."
+ },
+ {
+  "id": 4205,
+  "ko": "손님께서 랜드의 왕이십니다."
+ },
+ {
+  "id": 4206,
+  "ko": "즐길 준비는 되셨습니까?"
+ },
+ {
+  "id": 4207,
+  "ko": "이렇게 경사스러운 밤이라면\n무슨 일이 일어나도 이상하지 않나이트!",
+  "note": "말장난 결정 필요: 원문 おかしくナイト(おかしくない+ナイト=night). 「않나이다」+나이트로 살림. 말장난을 빼면 「이상하지 않은 밤입니다.」"
+ },
+ {
+  "id": 4208,
+  "ko": "왠지 {0:3:0002}{0:3:ffff}이나 {0:3:0002}{0:3:ffff}을 누르면\n신기한 일이 일어날 것 같습니다.",
+  "note": "아이콘 뒤 조사(이나·을)는 L·R 버튼으로 짐작. 원문 {0:3:ffff} 앞 공백은 뺌"
+ },
+ {
+  "id": 4209,
+  "ko": "오늘도 방문해 주셔서\n대단히 감사합니다."
+ },
+ {
+  "id": 4210,
+  "ko": "또 여러분 다 함께\n닌텐도 랜드에 와 주십시오."
+ },
+ {
+  "id": 4211,
+  "ko": "저는 언제나\n기다리고 있겠습니다."
+ },
+ {
+  "id": 4212,
+  "ko": "이렇게 아름다운 별하늘은\n저 태어나서 처음입니다!"
+ },
+ {
+  "id": 4213,
+  "ko": "손님께서는 닌텐도 랜드의\n그야말로 슈퍼스타이십니다."
+ },
+ {
+  "id": 4214,
+  "ko": "저는 언제까지나\n이 두근거림을 잊지 않겠습니다."
+ },
+ {
+  "id": 4226,
+  "ko": "사용할 {2:8:00000064ffffffec}의 버튼을 눌러\n연결해 주십시오."
+ },
+ {
+  "id": 1942,
+  "ko": "정원: 1~5명"
+ },
+ {
+  "id": 1943,
+  "ko": "정원: 1~5명"
+ },
+ {
+  "id": 1944,
+  "ko": "정원: 1~4명"
+ },
+ {
+  "id": 1945,
+  "ko": "정원: 2~5명"
+ },
+ {
+  "id": 1946,
+  "ko": "정원: 2~5명"
+ },
+ {
+  "id": 1947,
+  "ko": "정원: 1명"
+ },
+ {
+  "id": 1948,
+  "ko": "정원: 2~4명"
+ },
+ {
+  "id": 1950,
+  "ko": "쏘기"
+ },
+ {
+  "id": 1949,
+  "ko": "돌아가기"
+ },
+ {
+  "id": 1952,
+  "ko": "남은 NL 코인"
+ },
+ {
+  "id": 1953,
+  "ko": "누계 NL 코인"
+ },
+ {
+  "id": 1951,
+  "ko": "획득 프라이즈"
+ },
+ {
+  "id": 1957,
+  "ko": "스탬프 부자"
+ },
+ {
+  "id": 1958,
+  "ko": "클리어\n마스터"
+ },
+ {
+  "id": 1959,
+  "ko": "트로피\n마스터"
+ },
+ {
+  "id": 1960,
+  "ko": "코인 부자"
+ },
+ {
+  "id": 1961,
+  "ko": "컬렉션\n부자"
+ },
+ {
+  "id": 1962,
+  "ko": "이국의\n방문자"
+ },
+ {
+  "id": 1963,
+  "ko": "새내기"
+ },
+ {
+  "id": 1964,
+  "ko": "NL 코인\n2배"
+ },
+ {
+  "id": 1972,
+  "ko": "인기 상황"
+ },
+ {
+  "id": 1965,
+  "ko": "플레이 횟수"
+ },
+ {
+  "id": 1973,
+  "ko": "×"
+ },
+ {
+  "id": 1976,
+  "ko": "×"
+ },
+ {
+  "id": 1975,
+  "ko": "어트랙션 투어"
+ },
+ {
+  "id": 1983,
+  "ko": "×"
+ },
+ {
+  "id": 1982,
+  "ko": "메뉴"
+ },
+ {
+  "id": 1981,
+  "ko": "줌"
+ },
+ {
+  "id": 1985,
+  "ko": "×"
+ },
+ {
+  "id": 1991,
+  "ko": "닌텐도 랜드에 어서 오십시오 편"
+ },
+ {
+  "id": 1992,
+  "ko": "NL 코인으로 프라이즈 획득 편"
+ },
+ {
+  "id": 1993,
+  "ko": "어트랙션 투어 소개 편"
+ },
+ {
+  "id": 1994,
+  "ko": "카드 메뉴 안내 편"
+ },
+ {
+  "id": 1995,
+  "ko": "플라자에 모이는 손님 편"
+ },
+ {
+  "id": 1996,
+  "ko": "???"
+ },
+ {
+  "id": 1997,
+  "ko": "스타 컴플리트 편"
+ },
+ {
+  "id": 2000,
+  "ko": "스탬프를 많이 모은\n{0:3:0002}스탬프 부자{0:3:ffff}를 찾았습니다."
+ },
+ {
+  "id": 2001,
+  "ko": "팀 어트랙션 클리어율이 높은\n{0:3:0002}클리어 마스터{0:3:ffff}를 찾았습니다."
+ },
+ {
+  "id": 2002,
+  "ko": "더 좋은 트로피를 많이 모은\n{0:3:0002}트로피 마스터{0:3:ffff}를 찾았습니다."
+ },
+ {
+  "id": 2003,
+  "ko": "지금까지 NL 코인을 많이 모은\n{0:3:0002}코인 부자{0:3:ffff}를 찾았습니다."
+ },
+ {
+  "id": 2004,
+  "ko": "프라이즈를 많이 모은\n{0:3:0002}컬렉션 부자{0:3:ffff}를 찾았습니다."
+ },
+ {
+  "id": 2005,
+  "ko": "이국에서 먼 길을 온\n{0:3:0002}이국의 방문자{0:3:ffff}를 찾았습니다."
+ },
+ {
+  "id": 2006,
+  "ko": "닌텐도 랜드를 막 시작한\n{0:3:0002}새내기{0:3:ffff}를 찾았습니다."
+ },
+ {
+  "id": 2007,
+  "ko": "×"
+ },
+ {
+  "id": 2010,
+  "ko": "사용함"
+ },
+ {
+  "id": 2011,
+  "ko": "사용 안 함"
+ },
+ {
+  "id": 2012,
+  "ko": "사용함"
+ },
+ {
+  "id": 2013,
+  "ko": "사용 안 함"
+ },
+ {
+  "id": 2014,
+  "ko": "사용함"
+ },
+ {
+  "id": 2015,
+  "ko": "사용 안 함"
+ },
+ {
+  "id": 2029,
+  "ko": "일본어만",
+  "note": "원문대로 「일본어만」. 일본판이라 실제로 일본어 게시물만 걸러짐(한국어 선택지는 없음)"
+ },
+ {
+  "id": 2028,
+  "ko": "전 세계의 Mii"
+ },
+ {
+  "id": 2025,
+  "ko": "버전 {6:0:00000000}"
+ },
+ {
+  "id": 2016,
+  "ko": "설정"
+ },
+ {
+  "id": 2017,
+  "ko": "Wii U GamePad 카메라 사용"
+ },
+ {
+  "id": 2018,
+  "ko": "Wii U GamePad 마이크 사용"
+ },
+ {
+  "id": 2019,
+  "ko": "포인터 보정 기능 사용"
+ },
+ {
+  "id": 2020,
+  "ko": "Miiverse 게시·열람 상태 확인"
+ },
+ {
+  "id": 2026,
+  "ko": "플라자 방문자"
+ },
+ {
+  "id": 2079,
+  "ko": "어트랙션을 여기저기 돌며 다 함께 대전"
+ },
+ {
+  "id": 2076,
+  "ko": "바람을 일으켜 하늘 여행으로"
+ },
+ {
+  "id": 2072,
+  "ko": "동물들과 문지기의 축제 어트랙션"
+ },
+ {
+  "id": 2073,
+  "ko": "수레를 굴려 골을 노려라"
+ },
+ {
+  "id": 2075,
+  "ko": "위험한 레이스를 트위스트로 주파"
+ },
+ {
+  "id": 2078,
+  "ko": "리듬에 맞춰 원, 투, 스리"
+ },
+ {
+  "id": 2071,
+  "ko": "루이지 일행의 유령 퇴치 어트랙션"
+ },
+ {
+  "id": 2070,
+  "ko": "마리오와 키노피오의 술래잡기 어트랙션"
+ },
+ {
+  "id": 2061,
+  "ko": "행성이 무대인 슈팅 어트랙션"
+ },
+ {
+  "id": 2077,
+  "ko": "수리검을 날려 닌자가 되자"
+ },
+ {
+  "id": 2068,
+  "ko": "피크민과 올리마의 행성 탈출 어트랙션"
+ },
+ {
+  "id": 2074,
+  "ko": "라인을 그려 게이트로 이끌어라"
+ },
+ {
+  "id": 2065,
+  "ko": "궁수와 검사의 배틀 어트랙션"
+ },
+ {
+  "id": 2051,
+  "ko": "어트랙션 투어"
+ },
+ {
+  "id": 2050,
+  "ko": "어트랙션 투어"
+ },
+ {
+  "id": 2053,
+  "ko": "정원: 1~5명"
+ },
+ {
+  "id": 2055,
+  "ko": "정원: 1명"
+ },
+ {
+  "id": 2056,
+  "ko": "정원: 1~4명"
+ },
+ {
+  "id": 2058,
+  "ko": "정원: 2~5명"
+ },
+ {
+  "id": 2093,
+  "ko": "대전 어트랙션: 2명~"
+ },
+ {
+  "id": 2096,
+  "ko": "설정"
+ },
+ {
+  "id": 2052,
+  "ko": " 플레이"
+ },
+ {
+  "id": 2095,
+  "ko": "플라자"
+ },
+ {
+  "id": 2094,
+  "ko": "미니 어트랙션: 1명"
+ },
+ {
+  "id": 2092,
+  "ko": "팀 어트랙션: 1명~"
+ },
+ {
+  "id": 2097,
+  "ko": "어트랙션 투어"
+ },
+ {
+  "id": 4736,
+  "ko": "{0:3:0004}Directors{0:3:ffff}\n\n{0:3:0005}Takayuki Shimamura{0:3:ffff}\n{0:3:0005}Yoshikazu Yamashita{0:3:ffff}\n\n\n\n{0:3:0004}Planning{0:3:ffff}\n\n{0:3:0005}Hideki Fujii{0:3:ffff}\n{0:3:0005}Hiromasa Shikata{0:3:ffff}\n{0:3:0005}Yusuke Akifusa{0:3:ffff}\n{0:3:0005}Taku Matoba{0:3:ffff}\n{0:3:0005}Hiroshi Sakasai{0:3:ffff}\n\n\n\n{0:3:0004}Programming Director{0:3:ffff}\n\n{0:3:0005}Souichi Nakajima{0:3:ffff}\n\n\n\n{0:3:0004}System Programming{0:3:ffff}\n\n{0:3:0005}Kenichi Nishida{0:3:ffff}\n\n\n\n{0:3:0004}Game Programming{0:3:ffff}\n\n{0:3:0005}Toshikazu Kiuchi{0:3:ffff}\n{0:3:0005}Kenta Sato{0:3:ffff}\n{0:3:0005}Shinji Okane{0:3:ffff}\n{0:3:0005}Yuichiro Okamura{0:3:ffff}\n{0:3:0005}Jun Ito{0:3:ffff}\n\n{0:3:0005}Hiroshi Umemiya{0:3:ffff}\n{0:3:0005}Masatoshi Ogawa{0:3:ffff}\n{0:3:0005}Atsushi Yamazaki{0:3:ffff}\n{0:3:0005}Yousuke Sakooka{0:3:ffff}\n{0:3:0005}Toshihiro Taguchi{0:3:ffff}\n{0:3:0005}Hiroyuki Kira{0:3:ffff}\n\n\n\n{1:0:00000055}{0:3:0004}Graphics Programming Director{0:3:ffff}{/1:0}\n\n{1:0:00000064}{0:3:0005}Takuhiro Dohta{0:3:ffff}{/1:0}\n\n\n\n{0:3:0004}Graphics Programming{0:3:ffff}\n\n{0:3:0005}Shigetoshi Kitayama{0:3:ffff}\n{0:3:0005}Takahiro Takayama{0:3:ffff}\n{0:3:0005}Tomohisa Saito{0:3:ffff}\n{0:3:0005}Atsushi Haneda{0:3:ffff}\n{0:3:0005}Atsushi Asakura{0:3:ffff}\n{0:3:0005}Nao Ueda{0:3:ffff}\n\n\n\n{0:3:0004}Design Management{0:3:ffff}\n\n{0:3:0005}Junji Morii{0:3:ffff}\n\n\n\n{0:3:0004}Art Director{0:3:ffff}\n\n{0:3:0005}Tsubasa Sakaguchi{0:3:ffff}\n\n\n\n{0:3:0004}Character Design Lead{0:3:ffff}\n\n{0:3:0005}Daisuke Kageyama{0:3:ffff}\n\n\n\n{0:3:0004}Field Design Lead{0:3:ffff}\n\n{0:3:0005}Hirotake Ohtsubo{0:3:ffff}\n\n\n\n{0:3:0004}3D Design{0:3:ffff}\n\n{0:3:0005}Takeshi Hosono{0:3:ffff}\n{0:3:0005}Michiho Hayashi{0:3:ffff}\n{0:3:0005}Daisuke Nobori{0:3:ffff}\n{0:3:0005}Tomomi Iwasaki{0:3:ffff}\n{0:3:0005}Miki Aoki{0:3:ffff}\n{0:3:0005}Yoko Tanaka{0:3:ffff}\n{0:3:0005}Kazunori Fujii{0:3:ffff}\n{0:3:0005}Ryota Akutsu{0:3:ffff}\n{0:3:0005}Youngseok Kong{0:3:ffff}\n{0:3:0005}Jun Tanaka{0:3:ffff}\n{0:3:0005}Yuki Kaneko{0:3:ffff}\n{0:3:0005}Chiaki Uchida{0:3:ffff}\n{0:3:0005}Eisuke Sasaki{0:3:ffff}\n{0:3:0005}Manabu Takehara{0:3:ffff}\n\n{0:3:0005}Yoko Honma{0:3:ffff}\n{0:3:0005}Toshikatsu Terashima{0:3:ffff}\n{0:3:0005}Tadatsugu Motomiya{0:3:ffff}\n{0:3:0005}Kouki Yoshida{0:3:ffff}\n{0:3:0005}Takafumi Moro{0:3:ffff}\n\n\n\n{0:3:0004}UI Design Lead{0:3:ffff}\n\n{0:3:0005}Emi Tomita{0:3:ffff}\n\n\n\n{0:3:0004}UI Design{0:3:ffff}\n\n{0:3:0005}Hiroko Nishibe{0:3:ffff}\n{0:3:0005}Takahiro Nagaya{0:3:ffff}\n{0:3:0005}Mai Yamamoto{0:3:ffff}\n\n\n\n{0:3:0004}Effects Design Lead{0:3:ffff}\n\n{0:3:0005}Yoko Fukuda{0:3:ffff}\n\n\n\n{0:3:0004}Effects Design{0:3:ffff}\n\n{0:3:0005}Hiroshi Ueda{0:3:ffff}\n{0:3:0005}Makoto Ohta{0:3:ffff}\n\n\n\n{0:3:0004}Sound Director{0:3:ffff}\n\n{0:3:0005}Hajime Wakai{0:3:ffff}\n\n\n\n{1:0:00000055}{0:3:0004}Sound Effects & Programming{0:3:ffff}{/1:0}\n\n{1:0:00000064}{0:3:0005}Masato Mizuta{0:3:ffff}{/1:0}\n{0:3:0005}Junya Osada{0:3:ffff}\n{0:3:0005}Toru Asakawa{0:3:ffff}\n{0:3:0005}Masato Onishi{0:3:ffff}\n\n\n\n{0:3:0004}Music{0:3:ffff}\n\n{0:3:0005}Ryo Nagamatsu{0:3:ffff}\n\n\n\n{0:3:0004}Technical Support{0:3:ffff}\n\n{0:3:0005}Kotaro Hiromatsu{0:3:ffff}\n\n\n\n{0:3:0004}Programming Support{0:3:ffff}\n\n{0:3:0005}Katsuhito Nishimura{0:3:ffff}\n{0:3:0005}Yukihiko Ito{0:3:ffff}\n{0:3:0005}Kazuya Sumaki{0:3:ffff}\n{0:3:0005}Wataru Tanaka{0:3:ffff}\n\n{0:3:0005}Katsuhisa Sato{0:3:ffff}\n\n\n\n{0:3:0004}Tools Support{0:3:ffff}\n\n{0:3:0005}Ryota Maruko{0:3:ffff}\n{0:3:0005}Hisashi Sekoguchi{0:3:ffff}\n{0:3:0005}Toyoki Kataoka{0:3:ffff}\n{0:3:0005}Hirohito Yoshimoto{0:3:ffff}\n{0:3:0005}Yusuke Shizukuishi{0:3:ffff}\n\n\n\n{0:3:0004}Network Support{0:3:ffff}\n\n{0:3:0005}Takashi Kubota{0:3:ffff}\n{0:3:0005}Hiroshi Funaya{0:3:ffff}\n{0:3:0005}Taisuke Kawahara{0:3:ffff}\n{0:3:0005}Yusuke Inoue{0:3:ffff}\n{0:3:0005}Kyohei Nakano{0:3:ffff}\n{0:3:0005}Ryota Nadatomo{0:3:ffff}\n{0:3:0005}Yusuke Niki{0:3:ffff}\n{0:3:0005}Masatoshi Yamazaki{0:3:ffff}\n\n{0:3:0005}Shunsaku Kato{0:3:ffff}\n{0:3:0005}Satoshi Takenouchi{0:3:ffff}\n{0:3:0005}Keishi Shiota{0:3:ffff}\n{0:3:0005}Takanori Miyata{0:3:ffff}\n{0:3:0005}Miiverse Team{0:3:ffff}\n\n\n\n{1:0:00000055}{0:3:0004}Sound Programming Support{0:3:ffff}{/1:0}\n\n{1:0:00000064}{0:3:0005}Masafumi Kawamura{0:3:ffff}{/1:0}\n\n\n\n{0:3:0004}NintendoWare{0:3:ffff}\n\n{0:3:0005}Yasunari Nishida{0:3:ffff}\n{0:3:0005}Yasushi Ida{0:3:ffff}\n{0:3:0005}Yasuki Tawaraishi{0:3:ffff}\n{0:3:0005}Takashi Endo{0:3:ffff}\n{0:3:0005}Takuya Maekawa{0:3:ffff}\n{0:3:0005}Shunsaku Kitamura{0:3:ffff}\n{0:3:0005}Makoto Takano{0:3:ffff}\n{0:3:0005}Toshikazu Kitani{0:3:ffff}\n{0:3:0005}Atsushi Masaki{0:3:ffff}\n{0:3:0005}Junpei Otani{0:3:ffff}\n{0:3:0005}Yasuhiro Yoshioka{0:3:ffff}\n{0:3:0005}Kazuhiro Nishizawa{0:3:ffff}\n{0:3:0005}Motoi Tanaka{0:3:ffff}\n{0:3:0005}Yasutoshi Maegawa{0:3:ffff}\n{0:3:0005}Hisahiko Takeuchi{0:3:ffff}\n{0:3:0005}Tomohiro Nakatani{0:3:ffff}\n{0:3:0005}Hiroshi Mitsui{0:3:ffff}\n{0:3:0005}Takashi Yoneyama{0:3:ffff}\n{0:3:0005}Daisuke Yamatoki{0:3:ffff}\n{0:3:0005}Atsushi Kobata{0:3:ffff}\n{0:3:0005}Soei Sato{0:3:ffff}\n{0:3:0005}Yoshiyuki Sawada{0:3:ffff}\n\n\n\n{0:3:0004}Original Game Design{0:3:ffff}\n\n{0:3:0005}Keizo Ohta{0:3:ffff}\n\n\n\n{0:3:0004}Special Thanks{0:3:ffff}\n\n{0:3:0005}Kiyomi Itani{0:3:ffff}\n\n{0:3:0005}Kazuya Yoshioka{0:3:ffff}\n{0:3:0005}Kunihiro Hasuoka{0:3:ffff}\n{0:3:0005}Ryo Koizumi{0:3:ffff}\n\n{0:3:0005}Naoya Hasegawa{0:3:ffff}\n{0:3:0005}Yuri Adachi{0:3:ffff}\n{0:3:0005}Chiharu Sakiyama{0:3:ffff}\n\n{0:3:0005}Yusuke Nakano{0:3:ffff}\n\n{0:3:0005}Jin Ikeda{0:3:ffff}\n\n{0:3:0005}Yoshinobu Nakano{0:3:ffff}\n{0:3:0005}Shinichi Kinuwaki{0:3:ffff}\n\n{0:3:0005}Hiroshi Arai{0:3:ffff}\n{0:3:0005}Kaoru Sato{0:3:ffff}\n{0:3:0005}Keisuke Matsui{0:3:ffff}\n\n{0:3:0005}Yoshio Sakamoto{0:3:ffff}\n{0:3:0005}Katsuya Yamano{0:3:ffff}\n{0:3:0005}Takayasu Morisawa{0:3:ffff}\n{0:3:0005}Kenji Yamamoto{0:3:ffff}\n\n{0:3:0005}Kazuaki Morita{0:3:ffff}\n\n{0:3:0005}Kenji Yamamoto{0:3:ffff}\n{0:3:0005}Yoshiki Haruhana{0:3:ffff}\n\n{0:3:0005}Hitoshi Yamazaki{0:3:ffff}\n\n{0:3:0005}Emiko Yanai{0:3:ffff}\n\n{0:3:0005}All EAD{0:3:ffff}\n\n\n\n{0:3:0004}Testing{0:3:ffff}\n\n{0:3:0005}Naofumi Terazono{0:3:ffff}\n{0:3:0005}Kiyoshi Ishibiki{0:3:ffff}\n{0:3:0005}Kenkichi Miura{0:3:ffff}\n{0:3:0005}Atsushi Tada{0:3:ffff}\n{0:3:0005}Yasunori Shibayama{0:3:ffff}\n{0:3:0005}Atsushi Matsuda{0:3:ffff}\n{0:3:0005}Akira Ito{0:3:ffff}\n{0:3:0005}Masaharu Shima{0:3:ffff}\n{0:3:0005}Mario Club Co., Ltd.{0:3:ffff}\n\n\n\n{1:0:00000055}{0:3:0004}NOA Localization Management{0:3:ffff}{/1:0}\n\n{1:0:00000064}{0:3:0005}Nate Bihldorff{0:3:ffff}{/1:0}\n{0:3:0005}Reiko Ninomiya{0:3:ffff}\n{0:3:0005}Tim O'Leary{0:3:ffff}\n{0:3:0005}Leslie Swan{0:3:ffff}\n\n\n\n{0:3:0004}NOA Localization{0:3:ffff}\n\n{0:3:0005}Gema Almoguera{0:3:ffff}\n{0:3:0005}Billy Carroll{0:3:ffff}\n{0:3:0005}Erik Peterson{0:3:ffff}\n{0:3:0005}Eric Smith{0:3:ffff}\n{0:3:0005}Jonathan Yeckley{0:3:ffff}\n\n\n\n{0:3:0004}NOA Product Testing{0:3:ffff}\n\n{0:3:0005}Robert Jahn{0:3:ffff}\n{0:3:0005}Vincent Ngo{0:3:ffff}\n{0:3:0005}Rich Comegys{0:3:ffff}\n{0:3:0005}Nahoko Hiyoshi{0:3:ffff}\n\n\n\n{1:0:00000055}{0:3:0004}NOE Localisation Management{0:3:ffff}{/1:0}\n\n{1:0:00000064}{0:3:0005}Andy Fey{0:3:ffff}{/1:0}\n{0:3:0005}Jan Peitzmeier{0:3:ffff}\n{0:3:0005}Jan Hennig{0:3:ffff}\n\n\n\n{0:3:0004}NOE Localisation{0:3:ffff}\n\n{0:3:0005}Pierre Sanchez{0:3:ffff}\n{0:3:0005}Marco Gruden{0:3:ffff}\n{0:3:0005}Eren Baykal{0:3:ffff}\n{0:3:0005}Gemma Gotch{0:3:ffff}\n{0:3:0005}Florence d'Anterroches{0:3:ffff}\n{0:3:0005}Jean-Paul Hausmann{0:3:ffff}\n{0:3:0005}Edoardo Dodd{0:3:ffff}\n{0:3:0005}Anna Tarantini{0:3:ffff}\n{0:3:0005}Nils Dittbrenner{0:3:ffff}\n{0:3:0005}Michael Hussinger{0:3:ffff}\n{0:3:0005}Karoline Lazaj{0:3:ffff}\n{0:3:0005}Ariel del Rio de Angelis{0:3:ffff}\n{0:3:0005}Ainhoa Bernad Hurtado{0:3:ffff}\n{0:3:0005}Chris Hoppenbrouwers{0:3:ffff}\n{0:3:0005}Marc Ambler{0:3:ffff}\n{0:3:0005}Paulo Barata{0:3:ffff}\n{0:3:0005}Rodrigo Dias{0:3:ffff}\n{0:3:0005}Alexey Nikitin{0:3:ffff}\n{0:3:0005}Stanislav Bush{0:3:ffff}\n\n\n\n{0:3:0004}Producer{0:3:ffff}\n\n{0:3:0005}Katsuya Eguchi{0:3:ffff}\n\n\n\n{0:3:0004}General Producer{0:3:ffff}\n\n{0:3:0005}Shigeru Miyamoto{0:3:ffff}\n\n\n\n{0:3:0004}Executive Producer{0:3:ffff}\n\n{0:3:0005}Satoru Iwata{0:3:ffff}",
+  "note": "영어 원문 그대로(원래 영어)"
+ },
+ {
+  "id": 2490,
+  "ko": "Nintendo is the author of this\nsoftware for the purpose of\ncopyright. All rights reserved.\n© 2012 Nintendo",
+  "note": "영어 원문 그대로(원래 영어)"
+ }
+]

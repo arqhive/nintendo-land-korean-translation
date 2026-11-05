@@ -1,0 +1,5303 @@
+[
+ {
+  "ja": "つぼ",
+  "en": "Jar",
+  "ko": "항아리",
+  "status": "official",
+  "source": "왕국의 눈물·지혜의 투영·젤다무쌍 레전즈 한국어판, https://zeldawiki.wiki/wiki/Pot",
+  "note": "석상 009",
+  "group": "zelda"
+ },
+ {
+  "ja": "ウィズローブ",
+  "en": "Wizzrobe",
+  "ko": "위즈로브",
+  "status": "official",
+  "source": "야생의 숨결·왕국의 눈물·지혜의 투영 한국어판 「파이어 위즈로브」「아이스 위즈로브」「일렉트로 위즈로브」「메테오 위즈로브」, https://zeldawiki.wiki/wiki/Fire_Wizzrobe",
+  "note": "석상 003. 단독형 「위즈로브」는 복합 이름에서 확인",
+  "group": "zelda"
+ },
+ {
+  "ja": "ガノン",
+  "en": "Ganon",
+  "ko": "가논",
+  "status": "official",
+  "source": "지혜의 투영·케이던스 오브 하이랄 한국어판, 야생의 숨결 「재앙 가논」, https://zeldawiki.wiki/wiki/Ganon",
+  "note": "석상 011. 가논돌프(Ganondorf)와 구별",
+  "group": "zelda"
+ },
+ {
+  "ja": "ガノン城",
+  "en": "Ganon's Castle",
+  "ko": "가논 성",
+  "status": "official",
+  "source": "젤다무쌍 레전즈 한국어판 「가논 성」(Zelda Wiki Ganon's Tower 문서 표기표 https://zeldawiki.wiki/wiki/Ganon%27s_Tower), 같은 꼴 「하이랄 성」(신들의 트라이포스 2·지혜의 투영)",
+  "note": "Mission_07·08·13. 위키상 Ganon's Tower 항목에 붙어 있어 대상이 조금 다를 수 있음(확신 중간). 띄어 쓰기는 「하이랄 성」과 맞춤",
+  "group": "zelda"
+ },
+ {
+  "ja": "キース",
+  "en": "Keese",
+  "ko": "키이스",
+  "status": "official",
+  "source": "야생의 숨결·왕국의 눈물·지혜의 투영 한국어판 「키이스」「파이어 키이스」「키이스의 날개」, https://zeldawiki.wiki/wiki/Keese",
+  "note": "석상 168. 「키스」로 쓰면 안 됨(공식은 키이스)",
+  "group": "zelda"
+ },
+ {
+  "ja": "ゲルド",
+  "en": "Gerudo",
+  "ko": "겔드",
+  "status": "official",
+  "source": "야생의 숨결·지혜의 투영 한국어판 「겔드족」, 왕국의 눈물 「겔드사막」「겔드의 마을」, https://zeldawiki.wiki/wiki/Gerudo",
+  "note": "「게르도」「게루도」 아님",
+  "group": "zelda"
+ },
+ {
+  "ja": "ゴロン",
+  "en": "Goron",
+  "ko": "고론",
+  "status": "official",
+  "source": "야생의 숨결·지혜의 투영 한국어판 「고론족」, 왕국의 눈물 「고론 시티」, 대난투 SPECIAL 스피릿, https://zeldawiki.wiki/wiki/Goron",
+  "note": "석상 160 이름은 「고론」, 설명의 ゴロン族=고론족. 설명 끝 말버릇 「～ゴロ」는 야생의 숨결 한국어판 고론족처럼 「～고로」로 살리면 됨(말버릇 표기는 기억 기반, 확인 권함)",
+  "group": "zelda"
+ },
+ {
+  "ja": "スタルチュラ",
+  "en": "Skulltula",
+  "ko": "스탈튤라",
+  "status": "official",
+  "source": "시간의 오카리나 3D 한국어판(2012) 「황금 스탈튤라」(3DS판 공략 https://m.blog.naver.com/sparklingk/140170991663 , 시간의 오카리나 Switch 2판 공략 https://neogame.co.kr/ocarina-of-time-remake-gold-skulltula-locations-rewards/)",
+  "note": "석상 012. 한국어판 화면 원본 대신 공략 글로 확인(확신 중간~높음). 「스컬툴라」 아님",
+  "group": "zelda"
+ },
+ {
+  "ja": "スタルフォス",
+  "en": "Stalfos",
+  "ko": "스탈포스",
+  "status": "official",
+  "source": "한국닌텐도 공식 X의 시간의 오카리나(Switch 2) 몬스터 소개 「【스탈포스】」(https://x.com/Nintendo_Korea/status/2097958254387093537 , 옮겨 실은 글 https://bbs.ruliweb.com/nin/board/300004/read/2362153), 꿈꾸는 섬(Switch) 한국어판",
+  "note": "석상 161",
+  "group": "zelda"
+ },
+ {
+  "ja": "ゼルダの伝説",
+  "en": "The Legend of Zelda",
+  "ko": "젤다의 전설",
+  "status": "official",
+  "source": "한국닌텐도 정발 전 작품 제목(예: 젤다의 전설 지혜의 투영 https://www.nintendo.com/kr/switch/bdgea/ , 시간의 오카리나 https://www.nintendo.com/kr/games/switch2/aa9ja/index.html)",
+  "note": "어트랙션 이름 앞부분",
+  "group": "zelda"
+ },
+ {
+  "ja": "チュチュ",
+  "en": "ChuChu",
+  "ko": "츄츄",
+  "status": "official",
+  "source": "야생의 숨결·왕국의 눈물 한국어판 「츄츄」「츄츄젤리」, https://zeldawiki.wiki/wiki/ChuChu",
+  "note": "석상 006. 설명의 「チュチュのゼリー」=츄츄젤리(공식은 붙여 씀)",
+  "group": "zelda"
+ },
+ {
+  "ja": "テクタイト",
+  "en": "Tektite",
+  "ko": "텍타이트",
+  "status": "official",
+  "source": "지혜의 투영 한국어판 「텍타이트」, 케이던스 오브 하이랄 「레드 텍타이트」, https://zeldawiki.wiki/wiki/Tektite",
+  "note": "석상 002. 「테크타이트」 아님",
+  "group": "zelda"
+ },
+ {
+  "ja": "デクの樹",
+  "en": "Deku Tree",
+  "ko": "데크나무",
+  "status": "official",
+  "source": "지혜의 투영 한국어판 「데크나무」, 야생의 숨결 「데크나무님」, https://zeldawiki.wiki/wiki/Deku_Tree",
+  "note": "석상 010. 설명의 「デクの樹サマ」는 야생의 숨결처럼 「데크나무님」. 「데쿠」로 쓰지 말 것",
+  "group": "zelda"
+ },
+ {
+  "ja": "デスマウンテン",
+  "en": "Death Mountain",
+  "ko": "데스마운틴",
+  "status": "official",
+  "source": "신들의 트라이포스 2 한국어판, https://zeldawiki.wiki/wiki/Death_Mountain",
+  "note": "Mission_05 「デスマウンテン登山道」=데스마운틴 등산로. 붙여 씀",
+  "group": "zelda"
+ },
+ {
+  "ja": "トライフォース",
+  "en": "Triforce",
+  "ko": "트라이포스",
+  "status": "official",
+  "source": "신들의 트라이포스 2(ALBW) 한국어판, 시간의 오카리나(Switch 2) 공식 사이트 「CHAPTER:01 트라이포스」, https://zeldawiki.wiki/wiki/Triforce",
+  "note": "석상 013. 지혜의 투영에서는 문맥상 「위대한 힘」으로도 부름(대체 표현일 뿐, 이름은 트라이포스)",
+  "group": "zelda"
+ },
+ {
+  "ja": "ハイラル",
+  "en": "Hyrule",
+  "ko": "하이랄",
+  "status": "official",
+  "source": "야생의 숨결·왕국의 눈물·지혜의 투영, 시간의 오카리나(Switch 2) 공식 사이트 「대지 하이랄」 https://www.nintendo.com/kr/games/switch2/aa9ja/index.html , https://zeldawiki.wiki/wiki/Hyrule",
+  "note": "",
+  "group": "zelda"
+ },
+ {
+  "ja": "ハイラル平原",
+  "en": "Hyrule Field",
+  "ko": "하이랄 평원",
+  "status": "official",
+  "source": "왕국의 눈물·지혜의 투영 한국어판, https://zeldawiki.wiki/wiki/Hyrule_Field",
+  "note": "Mission_12",
+  "group": "zelda"
+ },
+ {
+  "ja": "ハート",
+  "en": "Heart",
+  "ko": "하트",
+  "status": "official",
+  "source": "트라이포스 삼총사·지혜의 투영 한국어판, https://zeldawiki.wiki/wiki/Heart",
+  "note": "석상 194. 생명 하트. (하트 그릇=생명의 그릇, 하트 조각=하트 조각이 공식이나 이 게임엔 안 나옴)",
+  "group": "zelda"
+ },
+ {
+  "ja": "マスターソード",
+  "en": "Master Sword",
+  "ko": "마스터 소드",
+  "status": "official",
+  "source": "신들의 트라이포스 2·야생의 숨결·젤다무쌍 레전즈 한국어판, https://zeldawiki.wiki/wiki/Master_Sword",
+  "note": "석상 206. 띄어 씀",
+  "group": "zelda"
+ },
+ {
+  "ja": "モリブリン",
+  "en": "Moblin",
+  "ko": "모리블린",
+  "status": "official",
+  "source": "야생의 숨결·왕국의 눈물 한국어판, 대난투 SPECIAL 스피릿, https://zeldawiki.wiki/wiki/Moblin",
+  "note": "석상 000",
+  "group": "zelda"
+ },
+ {
+  "ja": "リンク",
+  "en": "Link",
+  "ko": "링크",
+  "status": "official",
+  "source": "꿈꾸는 섬(Switch)·대난투 SPECIAL 등, Zelda Wiki 한국어 표기표 https://zeldawiki.wiki/wiki/Link",
+  "note": "",
+  "group": "zelda"
+ },
+ {
+  "ja": "ルピー",
+  "en": "Rupee",
+  "ko": "루피",
+  "status": "official",
+  "source": "꿈꾸는 섬(Switch)·신들의 트라이포스 2 한국어판, https://zeldawiki.wiki/wiki/Rupee",
+  "note": "석상 169, 스탬프 100/1000루피",
+  "group": "zelda"
+ },
+ {
+  "ja": "力のトライフォース",
+  "en": "Triforce of Power",
+  "ko": "힘의 트라이포스",
+  "status": "official",
+  "source": "트라이포스=공식(ALBW). 力・知恵・勇気=힘·지혜·용기는 시리즈 한국어판 통용",
+  "note": "석상 011 가논 설명. 「힘의 트라이포스」 문구 자체는 한국어판 화면으로 직접 확인 못 함(확신 중간)",
+  "group": "zelda"
+ },
+ {
+  "ja": "勇者の弓",
+  "en": "Hero's Bow",
+  "ko": "용사의 활",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 한국어판(링크 일반 필살기 勇者の弓=용사의 활), SmashWiki 표기표 https://www.ssbwiki.com/Hero%27s_Bow",
+  "note": "석상 167. 젤다 본편 한국어판(꿈섬·몽환의 모래시계)에는 그냥 「활」만 있음",
+  "group": "zelda"
+ },
+ {
+  "ja": "森神殿",
+  "en": "Forest Temple",
+  "ko": "숲의 신전",
+  "status": "official",
+  "source": "시간의 오카리나 3D·Switch 2판 한국어판 「숲의 신전」(Switch 2판 공략 https://gamereviewkr.tistory.com/90 , 나무위키 https://namu.wiki/w/젤다의%20전설%20시간의%20오카리나(2026))",
+  "note": "Mission_04. 원문은 の 없는 「森神殿」(황혼의 공주 표기)이나 한국어로는 「숲의 신전」이 자연스럽고 공식형. 공식 화면 직접 확인은 못 함(확신 중간~높음)",
+  "group": "zelda"
+ },
+ {
+  "ja": "炎の神殿",
+  "en": "Fire Temple",
+  "ko": "불의 신전",
+  "status": "official",
+  "source": "시간의 오카리나 3D·Switch 2판 한국어판 「불의 신전」(나무위키 https://namu.wiki/w/젤다의%20전설%20시간의%20오카리나(2026))",
+  "note": "Mission_10. 炎을 「불꽃의 신전」으로 직역하지 않음. 공식 화면 직접 확인은 못 함(확신 중간)",
+  "group": "zelda"
+ },
+ {
+  "ja": "迷いの森",
+  "en": "The Lost Woods",
+  "ko": "미로숲",
+  "status": "official",
+  "source": "신들의 트라이포스 2·왕국의 눈물 한국어판 「미로숲」, https://zeldawiki.wiki/wiki/Lost_Woods",
+  "note": "Mission_01. 붙여 씀. 「미혹의 숲」「길 잃은 숲」은 공식 아님",
+  "group": "zelda"
+ },
+ {
+  "ja": "はじまりの草原",
+  "en": "The Grasslands",
+  "ko": "시작의 초원",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 스테이지",
+  "note": "Mission_00",
+  "group": "zelda"
+ },
+ {
+  "ja": "カーゴロック",
+  "en": "Kargarok",
+  "ko": "카고록",
+  "status": "unofficial",
+  "source": "바람의 택트 계열 적, 한국어판 등장 없음(Zelda Wiki Kargarok 문서에 한국어 없음)",
+  "note": "석상 004. 장음 ー는 생략해 「카고록」. 「카고로크」도 가능",
+  "group": "zelda"
+ },
+ {
+  "ja": "クロウリー",
+  "en": "Bird",
+  "ko": "크로울리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 배틀 퀘스트의 둥근 새. 한국어판 근거 없음",
+  "note": "석상 005. 영어판은 그냥 Bird. 원문 충실이면 음역 「크로울리」",
+  "group": "zelda"
+ },
+ {
+  "ja": "ゲルドの砦",
+  "en": "Gerudo Fortress",
+  "ko": "겔드의 요새",
+  "status": "unofficial",
+  "source": "겔드는 공식. 砦 부분은 시간의 오카리나 한국어판 표기를 직접 확인 못 함",
+  "note": "Mission_06 「ゲルドの砦への道」. 「겔드의 마을」(왕국의 눈물)과 같은 「겔드의 ~」 꼴로 맞춤",
+  "group": "zelda"
+ },
+ {
+  "ja": "ゴロゴロ岩",
+  "en": "Boulder",
+  "ko": "데굴데굴 바위",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유(폭탄 든 굴러오는 바위). 지혜의 투영 「무거운 바위」는 다른 물건",
+  "note": "석상 159. ゴロゴロ(의성어)를 살린 번역. 대안 「굴러오는 바위」",
+  "group": "zelda"
+ },
+ {
+  "ja": "ゴロン鉱山",
+  "en": "Goron Mines",
+  "ko": "고론 광산",
+  "status": "unofficial",
+  "source": "황혼의 공주 던전, 한국어판 없음. 고론은 공식",
+  "note": "Mission_03",
+  "group": "zelda"
+ },
+ {
+  "ja": "ゼルダの伝説 バトルクエスト",
+  "en": "The Legend of Zelda: Battle Quest",
+  "ko": "젤다의 전설 배틀 퀘스트",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 한국 미발매. 「젤다의 전설」만 공식",
+  "note": "バトルクエスト=배틀 퀘스트(외래어 표기). 석상 170 설명에도 나옴",
+  "group": "zelda"
+ },
+ {
+  "ja": "デカブリン",
+  "en": "Big Moblin",
+  "ko": "데카블린",
+  "status": "unofficial",
+  "source": "한국어판 등장 없음(Zelda Wiki Big Moblin 문서에 한국어 없음)",
+  "note": "석상 001. モリブリン=모리블린처럼 일본어 조어를 음역. 뜻을 살린 대안은 「왕모리블린」. ハヤブリン과 같은 방식으로 맞출 것",
+  "group": "zelda"
+ },
+ {
+  "ja": "デスマウンテン火口",
+  "en": "Death Mountain Crater",
+  "ko": "데스마운틴 화구",
+  "status": "unofficial",
+  "source": "데스마운틴만 공식. 火口 부분 한국어판 표기 확인 못 함",
+  "note": "Mission_11. 「분화구」도 자연스러움. 시간의 오카리나 한국어판 표기를 확인하면 그쪽을 따를 것",
+  "group": "zelda"
+ },
+ {
+  "ja": "ハイラルツリー",
+  "en": "Grassland Tree",
+  "ko": "하이랄 나무",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 이름. 하이랄만 공식",
+  "note": "석상 014. 「하이랄 트리」(음역)도 가능하나 デクの樹=데크나무처럼 나무로 옮기는 쪽 권함",
+  "group": "zelda"
+ },
+ {
+  "ja": "ハヤブリン",
+  "en": "Quick Moblin",
+  "ko": "하야블린",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적. 한국어판 근거 없음",
+  "note": "석상 170. デカブリン=데카블린과 같은 음역 방식. 대안 「날쌘모리블린」",
+  "group": "zelda"
+ },
+ {
+  "ja": "バクダン樽",
+  "en": "Bomb Stack",
+  "ko": "폭탄 통",
+  "status": "unofficial",
+  "source": "バクダン=폭탄은 공식(꿈꾸는 섬 Switch·신들의 트라이포스 2, https://zeldawiki.wiki/wiki/Bomb). 樽 부분 한국어판 근거 없음",
+  "note": "석상 007. 「폭탄 나무통」도 가능",
+  "group": "zelda"
+ },
+ {
+  "ja": "フォース",
+  "en": "Triforce (piece)",
+  "ko": "포스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 용법(트라이포스 조각). 한국어판 근거 없음",
+  "note": "스탬프 「クエスト1～9のフォースを集めた」, 「フォースゲットクリア」. 뜻을 살리려면 「트라이포스 조각」도 가능, 원문 충실이면 「포스」",
+  "group": "zelda"
+ },
+ {
+  "ja": "森の聖域",
+  "en": "The Sacred Grove",
+  "ko": "숲의 성역",
+  "status": "unofficial",
+  "source": "황혼의 공주 장소, 한국어판 없음",
+  "note": "Mission_09",
+  "group": "zelda"
+ },
+ {
+  "ja": "目玉スイッチ",
+  "en": "Eye Switch",
+  "ko": "눈알 스위치",
+  "status": "unofficial",
+  "source": "Zelda Wiki의 Eyeball Switch 문서에 한국어 표기 없음",
+  "note": "석상 021",
+  "group": "zelda"
+ },
+ {
+  "ja": "草原の神殿",
+  "en": "Grassland Temple",
+  "ko": "초원의 신전",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 神殿=신전은 시리즈 공식(왕국의 눈물 「시간의 신전」 https://zeldawiki.wiki/wiki/Temple_of_Time)",
+  "note": "Mission_02 「草原の神殿への道」=초원의 신전으로 가는 길",
+  "group": "zelda"
+ },
+ {
+  "ja": "衝撃スイッチ",
+  "en": "Switch",
+  "ko": "충격 스위치",
+  "status": "unofficial",
+  "source": "Zelda Wiki의 Shock Switch 문서에 한국어 표기 없음",
+  "note": "석상 008. 칠 때 반응하는 수정 스위치",
+  "group": "zelda"
+ },
+ {
+  "ja": "クエスト",
+  "en": "Quest",
+  "ko": "퀘스트",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "zelda"
+ },
+ {
+  "ja": "ドクロ",
+  "en": "Skull",
+  "ko": "해골",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "석상 166. 젤다 구역 석상이지만 고유명사 아님",
+  "group": "zelda"
+ },
+ {
+  "ja": "マスタークリア",
+  "en": "Mastered",
+  "ko": "마스터 클리어",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "マスター는 마스터 소드와 무관",
+  "group": "zelda"
+ },
+ {
+  "ja": "モンスター",
+  "en": "monster",
+  "ko": "몬스터",
+  "status": "generic",
+  "source": "시리즈 한국어판 통용",
+  "note": "",
+  "group": "zelda"
+ },
+ {
+  "ja": "伝説の勇者",
+  "en": "legendary hero",
+  "ko": "전설의 용사",
+  "status": "generic",
+  "source": "일반 표현. 勇者=용사(대난투 SPECIAL 「용사의 활」 등 시리즈 공식 번역에서 勇者→용사)",
+  "note": "",
+  "group": "zelda"
+ },
+ {
+  "ja": "力・知恵・勇気",
+  "en": "power, wisdom, and courage",
+  "ko": "힘·지혜·용기",
+  "status": "generic",
+  "source": "시리즈 공통(지혜의 투영 공식 사이트 WISDOM·COURAGE·POWER 구성)",
+  "note": "석상 013 설명",
+  "group": "zelda"
+ },
+ {
+  "ja": "Wiiリモコン",
+  "en": "Wii Remote",
+  "ko": "Wii 리모컨",
+  "status": "official",
+  "source": "한국닌텐도 Wii 공식 표기",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "クレイド",
+  "en": "Kraid",
+  "ko": "크레이드",
+  "status": "official",
+  "source": "대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Kraid (Korean: 크레이드). 대난투 SPECIAL 마스터 스피릿·브린스타 심층부 / 메트로이드 드레드 한국어판 보스",
+  "note": "한국닌텐도 웹 페이지에서 직접 찾지는 못했고 SmashWiki 한국어 칸(대난투 SPECIAL 기준)으로 확인. 드레드 한국어판 게임 안 표기도 같다고 알려짐(실물 미확인).",
+  "group": "metroid"
+ },
+ {
+  "ja": "クレイド/リドリー",
+  "en": "Kraid/Ridley",
+  "ko": "크레이드/리들리",
+  "status": "official",
+  "source": "위 두 공식 표기 조합",
+  "note": "Mtr.msbt 보스 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "サムス・アラン",
+  "en": "Samus Aran",
+  "ko": "사무스 아란",
+  "status": "official",
+  "source": "메트로이드 프라임 4 비욘드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/bgw5a/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 대난투 스매시브라더스 SPECIAL 공식 사이트 파이터 데이터 ko_KR https://www.smashbros.com/assets_v2/data/fighter.json(사무스)",
+  "note": "프라임 4 비욘드·프라임 리마스터 본문은 「사무스 아란」, 그림 대체문엔 「사무스・아란」도 있음. 띄어 쓴 「사무스 아란」 권장. 단독은 「사무스」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "スターシップ",
+  "en": "Gunship",
+  "ko": "스타쉽",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/(사무스가 탄 스타쉽) / 대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Gunship (Korean: 스타쉽)",
+  "note": "「스타십」이 아니라 「스타쉽」이 공식. 석상 051, 대사 「スターシップを撃て」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "スペースパイレーツ / 宇宙海賊",
+  "en": "Space Pirates",
+  "ko": "우주 해적",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/world/",
+  "note": "프라임 리마스터 한국어 공식 사이트는 SPACE PIRATE를 「우주 해적」으로 씀. 석상 052·054 설명의 「宇宙海賊 スペースパイレーツ」는 겹말이라 「우주 해적」 한 번이면 됨. 「스페이스 파이럿」은 팬 표기.",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージビーム(参考)",
+  "en": "Charge Beam / Charge Shot",
+  "ko": "차지 빔",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/ / 대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Charge_Shot (Korean: 차지 빔)",
+  "note": "참고 항목. 「チャージ」는 공식 한국어 「차지」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ヌンチャク",
+  "en": "Nunchuk",
+  "ko": "눈차크",
+  "status": "official",
+  "source": "한국닌텐도 Wii 공식 표기(Wii 한국판 설명서·사이트)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "ノルフェア(参考)",
+  "en": "Norfair",
+  "ko": "노르페어",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 한국어 공식 사이트 스테이지 목록 https://www.smashbros.com/ko_KR/stage/index.html",
+  "note": "참고.",
+  "group": "metroid"
+ },
+ {
+  "ja": "バウンティハンター(参考)",
+  "en": "bounty hunter",
+  "ko": "바운티 헌터",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 메트로이드 프라임 4 비욘드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/bgw5a/index.html",
+  "note": "영어 대사 ex_en 에만 나오지만 참고로 둠.",
+  "group": "metroid"
+ },
+ {
+  "ja": "パワードスーツ",
+  "en": "Power Suit",
+  "ko": "파워 슈트",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/ / 메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html",
+  "note": "석상 060 설명. 「파워드 슈트」가 아니라 「파워 슈트」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ビーム",
+  "en": "beam",
+  "ko": "빔",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "ブリンスタ(参考)",
+  "en": "Brinstar",
+  "ko": "브린스타",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 한국어 공식 사이트 스테이지 목록 https://www.smashbros.com/ko_KR/stage/index.html",
+  "note": "참고. 「懐かしの地で」(미션 29) 등에서 장소를 밝힐 때 쓸 수 있음.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ボム",
+  "en": "Bomb",
+  "ko": "봄",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html(봄) / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/(모프볼 봄, 파워 봄) / 대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Bomb_(Samus) (Korean: 봄)",
+  "note": "메트로이드 공식 한국어는 「폭탄」이 아니라 「봄」. 석상 057·060·062 설명의 ボム.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ミサイル",
+  "en": "Missile",
+  "ko": "미사일",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/ / 대난투 SPECIAL 한국어판 표기(SmashWiki 다른 언어 표, 단서) https://www.ssbwiki.com/Missile",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "メトロイド",
+  "en": "Metroid",
+  "ko": "메트로이드",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/dread/index.html",
+  "note": "생물 이름·시리즈 이름 모두 「메트로이드」. 프라임 리마스터: 「부유 생명체 메트로이드」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "モーフボール",
+  "en": "Morph Ball",
+  "ko": "모프볼",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/",
+  "note": "붙여 씀(「모프 볼」 아님).",
+  "group": "metroid"
+ },
+ {
+  "ja": "リドリー",
+  "en": "Ridley",
+  "ko": "리들리",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 공식 사이트 파이터 데이터 ko_KR https://www.smashbros.com/assets_v2/data/fighter.json / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/world/(메타 리들리)",
+  "note": "가나대로 「리도리」가 아니라 영어식 「리들리」가 공식.",
+  "group": "metroid"
+ },
+ {
+  "ja": "惑星ゼーベス",
+  "en": "planet Zebes",
+  "ko": "행성 제베스",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/",
+  "note": "같은 페이지에 「혹성 제베스」도 한 번 나오지만 본문 대부분이 「행성 제베스」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "銀河連邦(参考)",
+  "en": "Galactic Federation",
+  "ko": "은하연방",
+  "status": "official",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/ / 메트로이드 프라임 4 비욘드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/bgw5a/index.html",
+  "note": "드레드 사이트는 「은하 연방」으로 띄어 씀. 최신 프라임 4는 「은하연방」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "鳥人族(参考)",
+  "en": "Chozo",
+  "ko": "조인족",
+  "status": "official",
+  "source": "메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/dread/index.html / 메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/world/(조인족 유적)",
+  "note": "석상 064 설명에는 종족 이름이 직접 나오지 않지만 鳥人像의 鳥人 = 조인족.",
+  "group": "metroid"
+ },
+ {
+  "ja": "1. はじめての戦い",
+  "en": "1. First Contact",
+  "ko": "1. 첫 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "1. トレーニングセクター",
+  "en": "1. Training Zone",
+  "ko": "1. 트레이닝 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름).",
+  "group": "metroid"
+ },
+ {
+  "ja": "10. 巨大な敵",
+  "en": "10. Hostile Colossus",
+  "ko": "10. 거대한 적",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "11. ジーマ・ジーマ・ジーマ",
+  "en": "11. Geemers!",
+  "ko": "11. 지머・지머・지머",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "12. 極寒の戦い",
+  "en": "12. Subzero Combat",
+  "ko": "12. 극한의 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "極寒=혹한도 가능(「혹한의 전투」).",
+  "group": "metroid"
+ },
+ {
+  "ja": "13. メトロイド退治",
+  "en": "13. Metroid Hunt",
+  "ko": "13. 메트로이드 퇴치",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "14. Miiを守れ",
+  "en": "14. Defend Your Allies",
+  "ko": "14. Mii를 지켜라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "15. ゼーベス星人 飛来",
+  "en": "15. Zebesians Incoming",
+  "ko": "15. 제베스인 날아오다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "飛来를 살리면 「제베스인 비래」는 어려운 말이라 「날아오다」/「공중 습격」 중 고를 것.",
+  "group": "metroid"
+ },
+ {
+  "ja": "16. スナイパーから身を隠せ",
+  "en": "16. Evade the Snipers",
+  "ko": "16. 저격수에게서 몸을 숨겨라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "「스나이퍼」로 둘 수도 있음.",
+  "group": "metroid"
+ },
+ {
+  "ja": "17. 空中戦を制覇せよ",
+  "en": "17. Air Supremacy",
+  "ko": "17. 공중전을 제패하라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "18. 極寒のMiiメダル集め",
+  "en": "18. Frosty Token Sweep",
+  "ko": "18. 혹한의 Mii 메달 모으기",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "19. 敵の背中を取れ",
+  "en": "19. Strike from Behind",
+  "ko": "19. 적의 등 뒤를 잡아라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "2. ジーマとレッドジーマ",
+  "en": "2. Geemer Invasion",
+  "ko": "2. 지머와 레드 지머",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "지머는 확신 낮음(대안 지마).",
+  "group": "metroid"
+ },
+ {
+  "ja": "2. スペースセクター",
+  "en": "2. Space Port",
+  "ko": "2. 스페이스 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름).",
+  "group": "metroid"
+ },
+ {
+  "ja": "20. 最後の戦い",
+  "en": "20. The Final Battle",
+  "ko": "20. 마지막 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "21. ジーマ・ジーマ・ジーマ・改",
+  "en": "21. More Geemers",
+  "ko": "21. 지머・지머・지머・개",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "「改」는 원문대로 「개」(・개 표기는 26번과 맞춤).",
+  "group": "metroid"
+ },
+ {
+  "ja": "22. 新たな強敵",
+  "en": "22. Unidentified Enemy Object",
+  "ko": "22. 새로운 강적",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "23. メトロイドラッシュ",
+  "en": "23. Metroid Rush",
+  "ko": "23. 메트로이드 러시",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "24. クレイドとその手下たち",
+  "en": "24. Kraid's Army",
+  "ko": "24. 크레이드와 그 부하들",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "25. 戦慄のMiiメダル集め",
+  "en": "25. Token Sweep",
+  "ko": "25. 전율의 Mii 메달 모으기",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "26. Miiを守れ・改",
+  "en": "26. Defend Your Allies 2",
+  "ko": "26. Mii를 지켜라・개",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "27. チャージアイスが…ない",
+  "en": "27. De-iced",
+  "ko": "27. 차지 아이스가… 없다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "28. リドリーとアイスリドリー",
+  "en": "28. Ridley and Ice Ridley",
+  "ko": "28. 리들리와 아이스 리들리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "29. 懐かしの地で",
+  "en": "29. On Familiar Ground",
+  "ko": "29. 그리운 땅에서",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "3. ストーム登場",
+  "en": "3. Approaching Cyclons",
+  "ko": "3. 스톰 등장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "3. マグマセクター",
+  "en": "3. Volcanic Sector",
+  "ko": "3. 마그마 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름).",
+  "group": "metroid"
+ },
+ {
+  "ja": "30. 真・最後の戦い",
+  "en": "30. The True Final Battle",
+  "ko": "30. 진・마지막 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "「진정한 마지막 전투」도 가능.",
+  "group": "metroid"
+ },
+ {
+  "ja": "4. Miiメダルを集めろ",
+  "en": "4. Token Sweep",
+  "ko": "4. Mii 메달을 모아라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "4. タワーセクター",
+  "en": "4. Sea Tower",
+  "ko": "4. 타워 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름).",
+  "group": "metroid"
+ },
+ {
+  "ja": "5. アイスセクター",
+  "en": "5. Ice Sector",
+  "ko": "5. 아이스 섹터",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 장소 이름",
+  "note": "일본어 원문을 따름(영어판 이름은 다름).",
+  "group": "metroid"
+ },
+ {
+  "ja": "5. ゼーベス星人 現る",
+  "en": "5. Zebesian Incursion",
+  "ko": "5. 제베스인 출현",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "제베스인 확신 낮음.",
+  "group": "metroid"
+ },
+ {
+  "ja": "6. ストーム軍団 襲来",
+  "en": "6. Cyclon Infestation",
+  "ko": "6. 스톰 군단 습격",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "7. ストームを10体倒せ",
+  "en": "7. Destroy 10 Cyclons",
+  "ko": "7. 스톰을 10마리 쓰러뜨려라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "8. 灼熱の戦い",
+  "en": "8. Infernal Battle",
+  "ko": "8. 작열의 전투",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "9. クイーンストームとMiiメダル",
+  "en": "9. Cyclon Queen's Tokens",
+  "ko": "9. 퀸 스톰과 Mii 메달",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 미션 이름. 안의 고유명사는 위 공식/권장 표기를 씀",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "アイスリドリー",
+  "en": "Ice Ridley",
+  "ko": "아이스 리들리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적. 리들리는 공식 표기, 아이스는 프라임 리마스터 「아이스 빔」 표기를 따름(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "アイスリドリー/リドリー",
+  "en": "Ice Ridley/Ridley",
+  "ko": "아이스 리들리/리들리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 조합",
+  "note": "Mtr.msbt 보스 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "アクセルチャージ",
+  "en": "Speed Boost",
+  "ko": "액셀 차지",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "クイーンストーム",
+  "en": "Cyclon Queen",
+  "ko": "퀸 스톰",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적. 공식 한국어 없음",
+  "note": "미션 9 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ゴールデンヘルメット",
+  "en": "Golden Helmet",
+  "ko": "골든 헬멧",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "サムスヘルメット",
+  "en": "Rapid-Fire Helmet",
+  "ko": "사무스 헬멧",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 사무스는 공식",
+  "note": "석상 197.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ジーマ",
+  "en": "Geemer",
+  "ko": "지머",
+  "status": "unofficial",
+  "source": "한국어 공식 표기 미확인(SmashWiki Geemer 한국어 칸은 영어 그대로 비어 있음 https://www.ssbwiki.com/Geemer). 대난투 SPECIAL 스피릿·프라임 리마스터 로그북에 한국어 이름이 있을 것이나 못 찾음",
+  "note": "확신 낮음. 메트로이드 한국어 공식 표기는 영어식(리들리·크레이드·스타쉽)이라 「지머」 권장. 가나대로면 「지마」. 미션 2·11·21 이름과 대사에 나옴.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ステルス",
+  "en": "Stealth",
+  "ko": "스텔스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "ストーム",
+  "en": "Cyclon",
+  "ko": "스톰",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적(메트로이드 본편에 없음). 공식 한국어 없음",
+  "note": "일본어 이름(Storm)을 따름. 영어판은 Cyclon.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ゼーベス星人",
+  "en": "Zebesian",
+  "ko": "제베스인",
+  "status": "unofficial",
+  "source": "행성 이름 「제베스」는 공식(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/). 종족 이름 자체의 한국어 공식 표기는 찾지 못함(대난투 SPECIAL 스피릿 「Zebesian」 한국어 이름 미확인)",
+  "note": "확신 낮음. 대안 「제베스 성인」. 대난투 SPECIAL 한국어판 스피릿 목록에서 확인되면 그쪽을 따를 것.",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージアイス",
+  "en": "Ice Charge Shot",
+  "ko": "차지 아이스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 「차지」·「아이스」(아이스 빔) 공식 표기 조합(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)",
+  "note": "석상 198.",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージボム",
+  "en": "Charge Bomb",
+  "ko": "차지 봄",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 무기. 「차지」(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)·「봄」(메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html) 공식 표기 조합",
+  "note": "석상 057. 「봄」이 어색하면 「차지 폭탄」도 가능하지만 공식 낱말은 「봄」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージミサイル",
+  "en": "Missile",
+  "ko": "차지 미사일",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 「차지」·「미사일」 공식 표기 조합(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/)",
+  "note": "석상 059.",
+  "group": "metroid"
+ },
+ {
+  "ja": "トゲボム",
+  "en": "Spike Bomb",
+  "ko": "가시 봄",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 「봄」 공식 표기를 따름(메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/exploration/index.html)",
+  "note": "석상 063. 대안 「가시 폭탄」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ニンテンドーランド",
+  "en": "Nintendo Land",
+  "ko": "닌텐도 랜드",
+  "status": "unofficial",
+  "source": "한국 미발매. 패치 제목 표기를 따름",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "バリア",
+  "en": "Shield",
+  "ko": "배리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "「배리어」 철자는 프라임 리마스터 「배리어 슈트」를 따름(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/).",
+  "group": "metroid"
+ },
+ {
+  "ja": "ファントゥーン",
+  "en": "Phantoon",
+  "ko": "판툰",
+  "status": "unofficial",
+  "source": "한국어 공식 표기 미확인(대난투 SPECIAL 서포터 스피릿에 있으나 한국어 이름 못 찾음). 나무위키 문서 제목 「판툰(메트로이드 시리즈)」(단서)",
+  "note": "확신 낮음. 팬 표기는 판툰·팬툰·파툰이 섞임. 가나 ファントゥーン 에도 맞는 「판툰」 권장.",
+  "group": "metroid"
+ },
+ {
+  "ja": "メダルタンク",
+  "en": "Token Tank",
+  "ko": "메달 탱크",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "メトロイド ブラスト",
+  "en": "Metroid Blast",
+  "ko": "메트로이드 블래스트",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "어트랙션 이름. 「메트로이드」는 공식, Blast는 흔한 외래어 표기 「블래스트」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ライフ回復",
+  "en": "Life Recharge",
+  "ko": "라이프 회복",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "드레드 사이트 「라이프 에너지」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "レッドジーマ",
+  "en": "(Red Geemer)",
+  "ko": "레드 지머",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유. 「지머」 항목을 따름",
+  "note": "미션 2 이름. 지머를 「지마」로 고르면 「레드 지마」.",
+  "group": "metroid"
+ },
+ {
+  "ja": "レーダー",
+  "en": "Radar",
+  "ko": "레이더",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "ロケットミサイル",
+  "en": "Rocket",
+  "ko": "로켓 미사일",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 적 무기",
+  "note": "석상 061.",
+  "group": "metroid"
+ },
+ {
+  "ja": "無敵ボード",
+  "en": "Invincible Barrier",
+  "ko": "무적 보드",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "連射プラス",
+  "en": "Rapid-Fire Boost",
+  "ko": "연사 플러스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "「연사」는 공식 문구에 쓰임(메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/ability/).",
+  "group": "metroid"
+ },
+ {
+  "ja": "連射ヘルメット",
+  "en": "Rapid-Fire Helmet",
+  "ko": "연사 헬멧",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 고유 아이템. 공식 한국어 없음",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "鳥人像",
+  "en": "Chozo Statue",
+  "ko": "조인상",
+  "status": "unofficial",
+  "source": "조인족은 공식(메트로이드 드레드 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/ayl8a/dread/index.html). 「Chozo Statue」 자체의 한국어 공식 이름(대난투 SPECIAL 스피릿)은 미확인",
+  "note": "확신 낮음. 鳥人像을 한자 그대로 읽은 「조인상」 권장, 대안 「조인족 석상」. 스피릿 한국어 이름이 확인되면 그쪽을 따를 것.",
+  "group": "metroid"
+ },
+ {
+  "ja": "10HIT達成",
+  "en": "10-Hit Hunter",
+  "ko": "10HIT 달성",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "Miiをつかませない",
+  "en": "Don't let a Mii get caught.",
+  "ko": "Mii가 붙잡히지 않게 한다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "あり",
+  "en": "On",
+  "ko": "있음",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "なし",
+  "en": "Off",
+  "ko": "없음",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "アイスリドリーを\n倒す",
+  "en": "Defeat Ice Ridley.",
+  "ko": "아이스 리들리를\n쓰러뜨린다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "アイテム",
+  "en": "Items",
+  "ko": "아이템",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "アイテムを取らない",
+  "en": "Do not pick up any items.",
+  "ko": "아이템을 줍지 않는다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "アウト",
+  "en": "Out",
+  "ko": "아웃",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "Mtr_MiiName_00.",
+  "group": "metroid"
+ },
+ {
+  "ja": "アシストアイテム",
+  "en": "assist item",
+  "ko": "어시스트 아이템",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "サバイバル",
+  "en": "Survival",
+  "ko": "서바이벌",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "スティックボタン",
+  "en": "Left/Right Stick (press)",
+  "ko": "스틱 버튼",
+  "status": "generic",
+  "source": "Wii U GamePad 조작 용어",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "スペースパイレーツのボス",
+  "en": "commander of the Space Pirates",
+  "ko": "우주 해적의 보스",
+  "status": "generic",
+  "source": "메트로이드 프라임 리마스터 한국닌텐도 공식 사이트 https://www.nintendo.com/kr/switch/a3sda/story/",
+  "note": "석상 052 설명.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ダッシュ",
+  "en": "dash",
+  "ko": "대시",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージアイスを\n外さない",
+  "en": "Do not miss any Ice Charge Beam shots.",
+  "ko": "차지 아이스를\n빗맞히지 않는다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージボムを当てた",
+  "en": "Gunship Bomber",
+  "ko": "차지 봄을 맞혔다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージミサイルを直接当てた",
+  "en": "Missile Strike",
+  "ko": "차지 미사일을 직접 맞혔다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージ攻撃だけで撃破",
+  "en": "Win using only charge attacks.",
+  "ko": "차지 공격만으로 격파",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージ攻撃を\n外さない",
+  "en": "Do not miss any charge shots.",
+  "ko": "차지 공격을\n빗맞히지 않는다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "チャージ攻撃禁止",
+  "en": "Use no charge attacks.",
+  "ko": "차지 공격 금지",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "ノルマクリア",
+  "en": "Quota Met",
+  "ko": "목표 달성",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "「노르마 클리어」도 가능.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ポインター",
+  "en": "pointer",
+  "ko": "포인터",
+  "status": "generic",
+  "source": "Wii 공식 조작 용어",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "マト",
+  "en": "Target",
+  "ko": "과녁",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "석상 062. 대사에서 「マトをマトモに」 말장난이 있으니 설명문은 따로 손볼 것.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ミッション",
+  "en": "Mission",
+  "ko": "미션",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "メダル",
+  "en": "Tokens",
+  "ko": "메달",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "メダル99枚で勝利",
+  "en": "Max-Token Victory",
+  "ko": "메달 99개로 승리",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "メダルを100枚落とした",
+  "en": "100-Token Drop",
+  "ko": "메달을 100개 떨어뜨렸다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "メダルタンクひとりじめ",
+  "en": "Thanks for the Tanks",
+  "ko": "메달 탱크 독차지",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "ラストグループ / 敵グループ",
+  "en": "Last Wave / Enemy waves",
+  "ko": "라스트 그룹 / 적 그룹",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "ラストショット",
+  "en": "Last Shot",
+  "ko": "라스트 샷",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "ルール",
+  "en": "Rules",
+  "ko": "룰",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "一発も撃たない",
+  "en": "Do not fire a single shot.",
+  "ko": "한 발도 쏘지 않는다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "全ミッションクリア",
+  "en": "Mission Accomplished",
+  "ko": "모든 미션 클리어",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "全ミッションマスタークリア",
+  "en": "Master Bounty Hunter",
+  "ko": "모든 미션 마스터 클리어",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "全員HIT率100%",
+  "en": "All players achieve 100% hit accuracy.",
+  "ko": "전원 HIT율 100%",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "全員HIT率50%以上",
+  "en": "All players achieve 50% hit accuracy or more.",
+  "ko": "전원 HIT율 50% 이상",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "全員ノーダメージ",
+  "en": "Take no damage.",
+  "ko": "전원 노 대미지",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "「대미지」는 한국닌텐도 표기(드레드·프라임 리마스터 「대미지」).",
+  "group": "metroid"
+ },
+ {
+  "ja": "制限時間",
+  "en": "Time",
+  "ko": "제한 시간",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "制限時間 ３分",
+  "en": "Time limit: 3 min.",
+  "ko": "제한 시간 3분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "制限時間 ５分",
+  "en": "Time limit: 5 min.",
+  "ko": "제한 시간 5분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "巨大な敵の体内に潜入",
+  "en": "In the Belly of the Beast",
+  "ko": "거대한 적의 몸속에 잠입",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "敵を累計100体倒した",
+  "en": "100 Enemies Down",
+  "ko": "적을 누계 100마리 쓰러뜨렸다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "敵乱入",
+  "en": "Enemies",
+  "ko": "적 난입",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "最後の戦い でボスを倒した",
+  "en": "Boss Blaster",
+  "ko": "마지막 전투 에서 보스를 쓰러뜨렸다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "残り1秒でトドメをさした",
+  "en": "Last-Second Blast",
+  "ko": "남은 1초에 마무리했다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "残り時間 以上",
+  "en": "Finish with  or more remaining.",
+  "ko": "남은 시간  이상",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "가운데 빈칸에 시간 태그가 들어감.",
+  "group": "metroid"
+ },
+ {
+  "ja": "無制限",
+  "en": "None",
+  "ko": "무제한",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "百発百中勝利",
+  "en": "Perfect Aim",
+  "ko": "백발백중 승리",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "空からの百発百中勝利",
+  "en": "Gunship Accuracy: 100%",
+  "ko": "하늘에서 백발백중 승리",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "緊急回避",
+  "en": "quick dodge",
+  "ko": "긴급 회피",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "緊急回避と\nダッシュ禁止",
+  "en": "Do not dodge or dash.",
+  "ko": "긴급 회피와\n대시 금지",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "防衛時間 ２分",
+  "en": "Defend for 2 min.",
+  "ko": "방어 시간 2분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "飛び降りビームでトドメをさした",
+  "en": "Free-Fall Finisher",
+  "ko": "뛰어내리며 빔으로 마무리했다",
+  "status": "generic",
+  "source": "일반 문구(고유명사만 위 표기 따름)",
+  "note": "스탬프 이름.",
+  "group": "metroid"
+ },
+ {
+  "ja": "１分",
+  "en": "1 Min.",
+  "ko": "1분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "３分",
+  "en": "3 Min.",
+  "ko": "3분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "５分",
+  "en": "5 Min.",
+  "ko": "5분",
+  "status": "generic",
+  "source": "일반 낱말",
+  "note": "",
+  "group": "metroid"
+ },
+ {
+  "ja": "イヌムシ科",
+  "en": "Grub-dog family",
+  "ko": "강아지벌레 과",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json)",
+  "note": "공식 도감에 「강아지벌레과」「강아지벌레 과」 둘 다 보이나 과 이름 대부분이 「~ 과」로 띄어 씀이라 띄어 씀을 권함.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "イモガエル科",
+  "en": "Amphituber family",
+  "ko": "덩이줄기개구리 과",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) (노랑덩이줄기개구리·터줏개구리의 과)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "オリマー",
+  "en": "Olimar",
+  "ko": "올리마",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 한국 공식 사이트 파이터 「피크민&올리마」 https://www.smashbros.com/ko_KR/fighter/40.html / 한국닌텐도 『개발자에게 물어보았습니다. 피크민 4』 https://www.nintendo.com/kr/interview/ampya/02.html",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "キャプテン・オリマー",
+  "en": "Captain Olimar",
+  "ko": "캡틴 올리마",
+  "status": "official",
+  "source": "한국닌텐도 『개발자에게 물어보았습니다. 피크민 4』 https://www.nintendo.com/kr/interview/ampya/02.html / 피크민 1+2 한국 공식 페이지 https://www.nintendo.com/kr/switch/a99qa/index.html",
+  "note": "공식 문장에 「캡틴 올리마」로 나옴. 가운뎃점 없이 띄어 씀.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "コチャッピー(小チャッピー)",
+  "en": "Dwarf Bulborb",
+  "ko": "꼬마차피",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) (kochappy 「꼬마차피」)",
+  "note": "クロコチャッピー 번역의 바탕. 피크민 2 한국어판은 색을 앞에 붙여 「빨강꼬마차피」(Pikipedia https://www.pikminwiki.com/Dwarf_Bulborb).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "チャッピー",
+  "en": "Bulborb",
+  "ko": "차피",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) (bulborb 항목) / 한국닌텐도 『개발자에게 물어보았습니다. 피크민 4』 https://www.nintendo.com/kr/interview/ampya/02.html",
+  "note": "영어 Bulborb가 아니라 일본어 チャッピー를 따름. 석상 022, 스테이지 「チャッピーの森」「チャッピーの浴場」에도 씀.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "デメマダラ",
+  "en": "(Bulborb 和名)",
+  "ko": "툭눈점박이",
+  "status": "official",
+  "source": "한국닌텐도 공식 도감 차피 항목 본문 「붉은색 복부에 하얀 점박이 무늬가 선명한 툭눈점박이」 https://www.nintendo.com/kr/character/pikmin/book/bulborb.html",
+  "note": "석상 022 설명 「和名は『デメマダラ』」. ダイオウデメマダラ=대왕 툭눈점박이도 공식.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ドルフィン初号機",
+  "en": "The Ship (Hocotate ship)",
+  "ko": "돌핀 초호기",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/Hocotate_ship",
+  "note": "석상 042. 피크민 2·3 디럭스에 나오는 같은 배. 위키의 한국어판 표기(공식 사이트 화면은 미확인).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ドルフィン号",
+  "en": "S.S. Dolphin",
+  "ko": "돌핀호",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/S.S._Dolphin",
+  "note": "석상 042 설명문의 「ドルフィン号」용.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "バクダン岩",
+  "en": "Bomb rock",
+  "ko": "폭탄바위",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/Bomb_rock",
+  "note": "예문 「バクダン デス」는 이 게임에선 그냥 폭탄. 「바쿠단」 음역 말고 「폭탄」.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ピクミン",
+  "en": "Pikmin",
+  "ko": "피크민",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) / 대난투 스매시브라더스 SPECIAL 한국 공식 사이트 파이터 「피크민&올리마」 https://www.smashbros.com/ko_KR/fighter/40.html",
+  "note": "색 이름은 빨강피크민·노랑피크민처럼 붙여 씀(공식 도감).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "フーセンドックリ",
+  "en": "Blowhog (Puffy Blowhog)",
+  "ko": "풍선호롱",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) (puffy_blowhog 「풍선호롱」, 돼지호롱 과)",
+  "note": "석상 040. ドックリ=호롱이 공식 대응(돼지호롱·물돼지호롱·코끼리돼지호롱).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ホコタテ運送",
+  "en": "Hocotate Freight",
+  "ko": "호코타테 운송",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/Hocotate_Freight",
+  "note": "한국어판 표기로 위키에 수록. 한국닌텐도 사이트에서 직접 확인은 못 함.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "原生生物",
+  "en": "creature",
+  "ko": "원주생물",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) / 한국닌텐도 『개발자에게 물어보았습니다. 피크민 4』 https://www.nintendo.com/kr/interview/ampya/02.html",
+  "note": "공식은 「원생생물」이 아니라 「원주생물」. 예문 「属性つきの原生生物」.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "大地のエキス",
+  "en": "Nectar",
+  "ko": "대지의 정수",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/Nectar",
+  "note": "석상 181, 예문 「これは大地のエキス デス」. 위키의 한국어판 표기(게임 화면 직접 확인 못 함). ゲキカラエキス=불맛 정수.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "1. チャッピーの森",
+  "en": "1. Bulborb Forest",
+  "ko": "1. 차피의 숲",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "차피=공식.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "1. 大衆闘技場",
+  "en": "1. Starter's Arena",
+  "ko": "1. 대중 투기장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "10. 巨大風船を割れ",
+  "en": "10. Burst the Giant Balloon",
+  "ko": "10. 거대 풍선을 터뜨려라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "11. 裏庭の脱出ルート",
+  "en": "11. Back-Garden Escape",
+  "ko": "11. 뒤뜰의 탈출 경로",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "12. 忘却の地に光る眼",
+  "en": "12. Shining Eyes",
+  "ko": "12. 망각의 땅에 빛나는 눈",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "13. 極寒の闘技場",
+  "en": "13. Icy Arena",
+  "ko": "13. 혹한의 투기장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "14. 暗闇からの脱出",
+  "en": "14. Out of the Darkness",
+  "ko": "14. 암흑에서의 탈출",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "7번(闇=어둠)과 구별해 暗闇=암흑.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "15. チャッピーの浴場",
+  "en": "15. Bulborb Baths",
+  "ko": "15. 차피의 목욕탕",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "16. 巨大カマのまな板",
+  "en": "16. The Chopping Block",
+  "ko": "16. 거대 낫의 도마",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "カマ=낫.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "17. 緑の脅威",
+  "en": "17. The Green Menace",
+  "ko": "17. 초록의 위협",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "18. 走れ 力の限り",
+  "en": "18. Desperate Dash",
+  "ko": "18. 달려라 힘닿는 데까지",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "19. 暴君参上",
+  "en": "19. The Tyrant Arrives",
+  "ko": "19. 폭군 등장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "参上=등장. 익살을 살리려면 「폭군 납시오」.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "2. ザコの王様をやっつけろ",
+  "en": "2. Boss of the Beebs",
+  "ko": "2. 졸개들의 왕을 물리쳐라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "ザコ=졸개(졸개쥐며느리와 맞춤).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "2. 強者闘技場",
+  "en": "2. Warrior's Arena",
+  "ko": "2. 강자 투기장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "20. 金網デスマッチの先に…",
+  "en": "20. Cage of Terror",
+  "ko": "20. 철망 데스매치 너머에…",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "21. 限・界・突・破",
+  "en": "21. Breaking Boundaries",
+  "ko": "21. 한・계・돌・파",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "가운뎃점 원문대로.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "22. さよなら ピクミン",
+  "en": "22. Good-Bye, Pikmin",
+  "ko": "22. 잘 있어 피크민",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "さよなら=작별. 「안녕 피크민」은 만날 때 인사와 헷갈릴 수 있음.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "3. ロケット発射5秒前",
+  "en": "3. Five Seconds to Takeoff",
+  "ko": "3. 로켓 발사 5초 전",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "3. 英雄闘技場",
+  "en": "3. Hero's Arena",
+  "ko": "3. 영웅 투기장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "4. トノサマ討伐",
+  "en": "4. Overthrow the Bulblord",
+  "ko": "4. 영주 토벌",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "영주차피와 맞춤.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "5. 砲台破壊指令",
+  "en": "5. Cannon Smash",
+  "ko": "5. 포대 파괴 지령",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "6. ザコの王様 再び",
+  "en": "6. King Beeb is Back",
+  "ko": "6. 졸개들의 왕 다시",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "7. 闇を駆け抜けろ　",
+  "en": "7. Through the Darkness",
+  "ko": "7. 어둠을 뚫고 달려라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "원문 끝 전각 공백은 원문대로 처리.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "8. 沼のヌシ 現る",
+  "en": "8. Swamp Master",
+  "ko": "8. 늪의 터줏대감 나타나다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "ヌシ=터줏대감(공식 「터줏개구리」의 터줏과 같은 결).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "9. 枯れた大地のオサ",
+  "en": "9. Lord of a Barren Land",
+  "ko": "9. 메마른 대지의 우두머리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "オサ(長)=우두머리.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "Miiピクミン",
+  "en": "Mii Pikmin",
+  "ko": "Mii 피크민",
+  "status": "unofficial",
+  "source": "피크민=공식 표기",
+  "note": "닌텐도 랜드 고유 표현. 피크민 부분만 공식.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "Miiピクミンに たくさんアメ玉を落とさせた",
+  "en": "Candy from a Pikmin",
+  "ko": "Mii 피크민이 사탕을 잔뜩 떨어뜨리게 했다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "いつか花咲く蕾",
+  "en": "Verging Bloom",
+  "ko": "언젠가 꽃필 봉오리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 029.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "しましま針葉樹",
+  "en": "Striped Conifer",
+  "ko": "줄무늬 침엽수",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 039.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ずっしりブロック",
+  "en": "Abundant Mass",
+  "ko": "묵직한 블록",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 037.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ねじれ木",
+  "en": "Spiral Timber",
+  "ko": "뒤틀린 나무",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 027.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "アバレワラジ",
+  "en": "Greater Studded Beeb",
+  "ko": "난폭쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스",
+  "note": "アバレ(暴れ, 날뛰다). 다른 안: 「날뜀쥐며느리」.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "オオグチイモガエル",
+  "en": "Large-Mouth Wollywog",
+  "ko": "큰입덩이줄기개구리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스(석상 047). イモガエル=공식 「덩이줄기개구리」(공식 도감)",
+  "note": "9자로 김. 칸이 좁으면 공식 표기를 지키고 줄바꿈으로 해결하길 권함.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "オオグチカスミガエル",
+  "en": "Translucent Wollywog",
+  "ko": "큰입안개개구리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "オリマーを たくさん叩いた",
+  "en": "Clobber Olimar",
+  "ko": "올리마를 잔뜩 때렸다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "カスミガエル科",
+  "en": "Wollywog family",
+  "ko": "안개개구리 과",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 과",
+  "note": "カスミ(霞)=안개.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ガングロチャッピー",
+  "en": "(별명, 석상 174 설명)",
+  "ko": "얼굴까만차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용",
+  "note": "ガングロ(얼굴을 까맣게 태운 일본 유행 말)를 풀어 씀. 설명문 속 별명이라 문장에 맞춰 조정 가능.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "キザミワラジ",
+  "en": "Bladed Beeb / Greater Bladed Beeb",
+  "ko": "칼날쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스(석상 045)",
+  "note": "キザミ(刻み, 썰다·새기다). 영어판은 보스와 석상 이름이 다르지만 일본어는 같아 한국어도 하나로.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "キノコ親子",
+  "en": "Fungiform Family",
+  "ko": "버섯 가족",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 026. 親子(부모와 자식). 다른 안: 「엄마와 아기 버섯」.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "キングザコワラジ",
+  "en": "King Beeb",
+  "ko": "킹졸개쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스(석상 177)",
+  "note": "キング는 한국닌텐도 관례대로 「킹」(예: 킹 테레사). 길어서 칸 폭 확인 필요, 필요하면 「킹 졸개쥐며느리」로 띄움.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "クロコチャッピー",
+  "en": "Dwarf Black Bulborb",
+  "ko": "검정꼬마차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스. 조어 규칙은 공식 「꼬마차피」+피크민 2 한국어판 「빨강꼬마차피」(색+꼬마차피)",
+  "note": "クロ(검정)+コ(꼬마)+チャッピー. 공식 색 이름이 빨강·노랑·하양처럼 명사형이라 「검정」.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ゲンコツの実",
+  "en": "Knuckle Seed",
+  "ko": "주먹 열매",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 아이템(석상 180)",
+  "note": "ゲンコツ=주먹. 설명문 「チョキやパー」 말장난은 가위바위보로 살림.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "コオリキノコ",
+  "en": "Glacial Fungicap",
+  "ko": "얼음버섯",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 035. コオリ=「얼음」은 공식 얼음피크민 대응.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "サクレワラジ",
+  "en": "Bombardier Beeb",
+  "ko": "작렬쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 046)",
+  "note": "サクレ=炸裂(작렬).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "サポートMiiをアウトさせずにクリア",
+  "en": "AI Mii Protector",
+  "ko": "서포트 Mii를 아웃시키지 않고 클리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ザコワラジ",
+  "en": "Creepy Beeb",
+  "ko": "졸개쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 044)",
+  "note": "ザコ(雑魚)=졸개. 스테이지 「ザコの王様」=「졸개들의 왕」과 맞춤.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ショーグンチャッピー",
+  "en": "Grand Bulblord",
+  "ko": "쇼군차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스",
+  "note": "원문이 가타카나 ショーグン이라 음역. 뜻을 살리려면 「장군차피」. 영주차피보다 윗급임이 보이게 둘 중 하나로.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "シロクロハサミムカデ",
+  "en": "Monochromatic Pinchipede",
+  "ko": "흑백가위지네",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스",
+  "note": "シロクロ=흑백.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ダイオウハサミムカデ",
+  "en": "Emperor Pinchipede",
+  "ko": "대왕가위지네",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스(석상 041). ダイオウ=「대왕」은 공식 대응(대왕 툭눈점박이=ダイオウデメマダラ, 공식 도감)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ダークモニータ",
+  "en": "Dark Monita",
+  "ko": "다크 모니타",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "チャッピーのアレ",
+  "en": "Bulborb Dropping",
+  "ko": "차피의 그것",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용(석상 182)",
+  "note": "アレ=「그거/그것」. 영어판 Dropping은 의역이라 따르지 않음.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "テンテンチャッピー",
+  "en": "Bilious Bulborb",
+  "ko": "땡땡이차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 174)",
+  "note": "テンテン=점점이 찍힌 작은 점. 공식 「점박이」는 デメマダラ에 이미 쓰여 피함. 다른 안: 「잔점차피」.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "トゲトゲ鉄球",
+  "en": "Spike Ball",
+  "ko": "뾰족뾰족 쇠공",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용(석상 176)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "トノサマチャッピー",
+  "en": "Bulblord",
+  "ko": "영주차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 023, 보스). 한국어판 피크민 시리즈·공식 도감에 없음(Pikipedia Bulblord 문서에도 한국어 칸 없음)",
+  "note": "トノサマ(殿様, 영지의 주인)+차피(공식). 다른 안: 「나리차피」(익살)·「대감차피」. 스테이지 「トノサマ討伐」=「영주 토벌」로 맞춤.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "トノサマチャッピーの目玉を壊して退治した",
+  "en": "Eyes of the Bulblord",
+  "ko": "영주차피의 눈알을 부숴서 물리쳤다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "トンカチの実",
+  "en": "Hammer Seed",
+  "ko": "망치 열매",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 아이템(석상 179)",
+  "note": "トンカチ=망치(구어).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ハサミムカデ科",
+  "en": "Pinchipede family",
+  "ko": "가위지네 과",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 과(Pikipedia Pinchipede family: 일본어만)",
+  "note": "ハサミ=가위, ムカデ=지네.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ヒカリダケ",
+  "en": "glowing mushroom",
+  "ko": "빛버섯",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 예문. 한국어판 피크민 시리즈에서 같은 이름 찾지 못함",
+  "note": "ヒカリ(빛)+タケ(버섯).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ピクミンアドベンチャー",
+  "en": "Pikmin Adventure",
+  "ko": "피크민 어드벤처",
+  "status": "unofficial",
+  "source": "피크민=공식 표기",
+  "note": "어트랙션 이름. 한국 미발매라 공식 한국어 없음. 「어드벤처」는 한국닌텐도 관례 표기(링 피트 어드벤처 등).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ピクミンキボリ",
+  "en": "Carved Pikmin",
+  "ko": "피크민 목각",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 038. キボリ=木彫り.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ポンプドックリ",
+  "en": "Telescoping Pumphog",
+  "ko": "펌프호롱",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 024). ドックリ=「호롱」 공식 대응(풍선호롱 등)",
+  "note": "설명문 속 별명 シュポシュポ는 의성어로 따로 처리.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ムチの実",
+  "en": "Whip Seed",
+  "ko": "채찍 열매",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 아이템(석상 178). 「~の実=~ 열매」는 공식 대응(ツユクサの実=이슬초 열매, Pikipedia https://www.pikminwiki.com/Ultra-spicy_spray)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "モニータ",
+  "en": "Monita",
+  "ko": "모니타",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 안내 로봇. 한국 미발매. 스매시브라더스 SPECIAL에 스피릿으로 나오지만 한국어판 표기는 확인 못 함",
+  "note": "장음 생략(한국닌텐도 관례). 피크민 용어는 아니지만 대사에 나와 넣음. 다른 조사와 맞출 것.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ワラジムシ科",
+  "en": "Beeb family",
+  "ko": "쥐며느리 과",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 과(Pikipedia Beeb family: 일본어만)",
+  "note": "ワラジムシ=쥐며느리. 아래 ~ワラジ 이름은 모두 「~쥐며느리」로 맞춤.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "全チャレンジクリア",
+  "en": "Great Explorer",
+  "ko": "모든 챌린지 클리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "全チャレンジマスタークリア",
+  "en": "Master Explorer",
+  "ko": "모든 챌린지 마스터 클리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "初マスタークリア",
+  "en": "First Mastery",
+  "ko": "첫 마스터 클리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "大逆転",
+  "en": "Incredible Comeback",
+  "ko": "대역전",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "対戦相手に岩を5回当てた",
+  "en": "Rock Your Foes x5",
+  "ko": "상대에게 바위를 5번 맞혔다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "対戦相手を攻撃せずに勝利",
+  "en": "Pacifist Victory",
+  "ko": "상대를 공격하지 않고 승리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "布袋の鉢植え",
+  "en": "Vegetal Pouch",
+  "ko": "천 자루 화분",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 031. 布袋(천 주머니), 설명에 麻袋(삼베 자루).",
+  "group": "pikmin"
+ },
+ {
+  "ja": "気流ジャンパー",
+  "en": "Draft Jumper",
+  "ko": "기류 점퍼",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용(석상 050)",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "秋の味覚",
+  "en": "Bulbous Sporehaven",
+  "ko": "가을의 미각",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 033. 원문 그대로. 자연스러움을 원하면 「가을 별미」.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "鉄瓶の鉢植え",
+  "en": "Herbaceous Kettle",
+  "ko": "무쇠 주전자 화분",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 028. 鉄瓶=무쇠 주전자. 설명문 カンヨウ 말장난은 따로.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "陶器の鉢植え",
+  "en": "Verdant Silo",
+  "ko": "도자기 화분",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 025.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "雪の鉢植え",
+  "en": "Hyperborean Verdant Silo",
+  "ko": "눈 화분",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 034. 눈사람 모양 화분.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "アシストブロック",
+  "en": "Assist Block",
+  "ko": "어시스트 블록",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "アメ玉",
+  "en": "candy",
+  "ko": "사탕",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "エクストラチャレンジ",
+  "en": "Extra Challenge",
+  "ko": "엑스트라 챌린지",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "キノコ",
+  "en": "mushroom",
+  "ko": "버섯",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ザコ",
+  "en": "small fry",
+  "ko": "졸개",
+  "status": "generic",
+  "source": "",
+  "note": "ザコの王様=졸개들의 왕.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ジャンプスイッチ",
+  "en": "Jump Switch",
+  "ko": "점프 스위치",
+  "status": "generic",
+  "source": "",
+  "note": "석상 049.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ゼンマイ",
+  "en": "Sinuated Flora",
+  "ko": "고비",
+  "status": "generic",
+  "source": "",
+  "note": "석상 032. ゼンマイ=식물 고비(고사리류). 설명문 ドンマイ 말장난은 따로.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "タイムリミットチャレンジ",
+  "en": "Timed Challenge",
+  "ko": "타임 리밋 챌린지",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "チャレンジ",
+  "en": "Challenge",
+  "ko": "챌린지",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "モミの木",
+  "en": "Angular Sapling",
+  "ko": "전나무",
+  "status": "generic",
+  "source": "",
+  "note": "석상 036. 일반 낱말.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ヤシの木",
+  "en": "Fronded Stump",
+  "ko": "야자나무",
+  "status": "generic",
+  "source": "",
+  "note": "석상 030. 일반 낱말.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ヨロイ",
+  "en": "armor",
+  "ko": "갑옷",
+  "status": "generic",
+  "source": "",
+  "note": "예문 「ヨロイ効果」=갑옷 효과.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "ロケット",
+  "en": "rocket",
+  "ko": "로켓",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "pikmin"
+ },
+ {
+  "ja": "小岩",
+  "en": "Rock",
+  "ko": "작은 바위",
+  "status": "generic",
+  "source": "",
+  "note": "석상 175.",
+  "group": "pikmin"
+ },
+ {
+  "ja": "F-ZERO",
+  "en": "F-ZERO",
+  "ko": "F-ZERO",
+  "status": "official",
+  "source": "스매시 얼티밋 한국어판은 시리즈를 '에프제로'로 씀; 원문은 영문 F-ZERO",
+  "note": "원래 영어는 영어로 → F-ZERO 유지",
+  "group": "others"
+ },
+ {
+  "ja": "HOMEボタンメニュー",
+  "en": "HOME Menu",
+  "ko": "HOME 버튼 메뉴",
+  "status": "official",
+  "source": "한국어판 Wii·3DS 본체/설명서 표기",
+  "note": "한국어판 Wii 표기",
+  "group": "others"
+ },
+ {
+  "ja": "Miiスタジオ",
+  "en": "Mii Maker",
+  "ko": "Mii 스튜디오",
+  "status": "official",
+  "source": "한국어판 3DS 'Mii 스튜디오'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "Wiiモーションプラス",
+  "en": "Wii MotionPlus",
+  "ko": "Wii 모션 플러스",
+  "status": "official",
+  "source": "한국어판 Wii·3DS 본체/설명서 표기",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "Wiiリモコンプラス",
+  "en": "Wii Remote Plus",
+  "ko": "Wii 리모컨 플러스",
+  "status": "official",
+  "source": "한국어판 Wii·3DS 본체/설명서 표기",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "おもちゃのノコノコ",
+  "en": "Toy Koopa Troopa",
+  "ko": "장난감 엉금엉금",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/마리오 시리즈' https://namu.wiki/w/슈퍼%20스매시브라더스%20얼티밋/스피릿%20목록/마리오%20시리즈) (엉금엉금)",
+  "note": "석상 158",
+  "group": "others"
+ },
+ {
+  "ja": "どうぶつの森",
+  "en": "Animal Crossing",
+  "ko": "동물의 숲",
+  "status": "official",
+  "source": "한국닌텐도 공식(모여봐요 동물의 숲 등)",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "オクトパス",
+  "en": "Octopus",
+  "ko": "옥토퍼스",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 No.698 '옥토퍼스', 출신 '게임 & 워치' (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/게임 & 워치 시리즈')",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "オバケ",
+  "en": "ghost",
+  "ko": "유령",
+  "status": "official",
+  "source": "한국어판 루이지 맨션 시리즈 표기 '유령'; 스매시 얼티밋 한국어판 스피릿 '유령싹싹'·'유랑아지'·'아라따 박사'(출신 루이지 맨션 시리즈, 나무위키 마리오 시리즈 스피릿 목록)",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "キノピオ",
+  "en": "Toad",
+  "ko": "키노피오",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/마리오 시리즈' https://namu.wiki/w/슈퍼%20스매시브라더스%20얼티밋/스피릿%20목록/마리오%20시리즈)",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "キャプテン・ファルコン",
+  "en": "Captain Falcon",
+  "ko": "캡틴 팔콘",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 파이터 '캡틴 팔콘', 최후의 일격 '블루팔콘' (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/에프제로 시리즈', '캡틴 팔콘(스매시브라더스 시리즈)')",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "キラー",
+  "en": "Bullet Bill",
+  "ko": "킬러",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/마리오 시리즈' https://namu.wiki/w/슈퍼%20스매시브라더스%20얼티밋/스피릿%20목록/마리오%20시리즈)",
+  "note": "석상 205(킬러 메리고라운드)",
+  "group": "others"
+ },
+ {
+  "ja": "ゲッソー",
+  "en": "Balancing Bloopers",
+  "ko": "징오징오",
+  "status": "official",
+  "source": "한국어판 마리오 시리즈 표기 '징오징오' (나무위키 '징오징오' 문서, '겟소'에서 넘겨줌 https://namu.wiki/w/징오징오)",
+  "note": "석상 074. 'ゲッソーのシーソー 略してゲッソー' 말장난은 한국어 이름으로 다시 만들어야 함. '겟소'는 일본어 음역일 뿐 한국어판 표기 아님",
+  "group": "others"
+ },
+ {
+  "ja": "センサーバー",
+  "en": "sensor bar",
+  "ko": "센서 바",
+  "status": "official",
+  "source": "한국어판 Wii·3DS 본체/설명서 표기",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ドンキーコング",
+  "en": "Donkey Kong",
+  "ko": "동키콩",
+  "status": "official",
+  "source": "한국닌텐도 공식",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ニンテンドーネットワーク",
+  "en": "Nintendo Network",
+  "ko": "닌텐도 네트워크",
+  "status": "official",
+  "source": "한국어판 3DS '닌텐도 네트워크 ID'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ノコノコ",
+  "en": "Koopa Troopa",
+  "ko": "엉금엉금",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/마리오 시리즈' https://namu.wiki/w/슈퍼%20스매시브라더스%20얼티밋/스피릿%20목록/마리오%20시리즈)",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "バルーンファイト",
+  "en": "Balloon Fight",
+  "ko": "벌룬 파이트",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 No.1124 '벌룬 파이트의 주인공', 출신 게임 '벌룬 파이트' (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/기타 게임 시리즈')",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "パックンフラワー",
+  "en": "Piranha Plant",
+  "ko": "뻐끔플라워",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/마리오 시리즈' https://namu.wiki/w/슈퍼%20스매시브라더스%20얼티밋/스피릿%20목록/마리오%20시리즈); 스매시 한국어판 파이터명도 뻐끔플라워",
+  "note": "석상 075",
+  "group": "others"
+ },
+ {
+  "ja": "ブルーファルコン",
+  "en": "Blue Falcon",
+  "ko": "블루 팔콘",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 파이터 '캡틴 팔콘', 최후의 일격 '블루팔콘' (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/에프제로 시리즈', '캡틴 팔콘(스매시브라더스 시리즈)')",
+  "note": "나무위키는 붙여 '블루팔콘'. 캡틴 팔콘과 같게 띄어 쓰기 권장. 석상 106",
+  "group": "others"
+ },
+ {
+  "ja": "マリオ",
+  "en": "Mario",
+  "ko": "마리오",
+  "status": "official",
+  "source": "한국닌텐도 공식",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "モンバン",
+  "en": "Copper/Booker (guards)",
+  "ko": "문지기",
+  "status": "official",
+  "source": "한국어판 동물의 숲 표기: Copper=경찰관 A/문지기B, Booker=경찰관B/문지기A (Nookipedia 다국어 표 https://nookipedia.com/wiki/Copper , https://nookipedia.com/wiki/Booker)",
+  "note": "원문 'モンバンさん'. 한국어판은 '문지기'(A·B). さん 처리는 장면 판단",
+  "group": "others"
+ },
+ {
+  "ja": "ヨッシー",
+  "en": "Yoshi",
+  "ko": "요시",
+  "status": "official",
+  "source": "한국닌텐도 공식",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ルイージ",
+  "en": "Luigi",
+  "ko": "루이지",
+  "status": "official",
+  "source": "한국닌텐도 공식",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "鷹丸",
+  "en": "Takamaru",
+  "ko": "타카마루",
+  "status": "official",
+  "source": "슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 No.1128·어시스트 피규어·Mii 의상 '타카마루' (ssbwiki Takamaru 다국어 표 Korean 타카마루 https://www.ssbwiki.com/Takamaru ; 나무위키 '…/스피릿 목록/기타 게임 시리즈' 타카마루)",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "1. エントランス",
+  "en": "1. Main Floor",
+  "ko": "1. 엔트런스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "외래어 표기법 entrance=엔트런스, '현관'도 가능",
+  "group": "others"
+ },
+ {
+  "ja": "1. チェイスフィールド",
+  "en": "1. Chase Arena",
+  "ko": "1. 체이스 필드",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "1. 島のキャンディーまつり",
+  "en": "1. Sweet Day Island Tour",
+  "ko": "1. 섬의 캔디 축제",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "2. どろんこパーク",
+  "en": "2. Mud River Run",
+  "ko": "2. 진흙탕 파크",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "2. 村のキャンディーまつり",
+  "en": "2. Downtown Sweet Day",
+  "ko": "2. 마을의 캔디 축제",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "2. 物置き部屋",
+  "en": "2. The Basement",
+  "ko": "2. 창고",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "3. オバケ研究所",
+  "en": "3. Research Lab",
+  "ko": "3. 유령 연구소",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "3. スベールマウンテン",
+  "en": "3. Slide Hill",
+  "ko": "3. 미끄럼 마운틴",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "スベール=すべる(미끄러지다) 말장난 이름. 확신 중",
+  "group": "others"
+ },
+ {
+  "ja": "4. 物置き部屋の甲冑",
+  "en": "4. The Storage Room",
+  "ko": "4. 창고의 갑옷",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "5. モニータのゴーストマンション",
+  "en": "5. Monita's Rooftop",
+  "ko": "5. 모니타의 고스트 맨션",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "C・ファルコンのツイスターレース",
+  "en": "Captain Falcon's Twister Race",
+  "ko": "C. 팔콘의 트위스터 레이스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '캡틴 팔콘' 공식(슈퍼 스매시브라더스 얼티밋 한국어판 파이터 '캡틴 팔콘', 최후의 일격 '블루팔콘' (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/에프제로 시리즈', '캡틴 팔콘(스매시브라더스 시리즈)'))",
+  "note": "원문이 C・ 로 줄였으므로 'C. 팔콘'. 칸이 넉넉하면 '캡틴 팔콘의 트위스터 레이스'",
+  "group": "others"
+ },
+ {
+  "ja": "F-ZEROグランプリ",
+  "en": "F-Zero Grand Prix",
+  "ko": "F-ZERO 그랑프리",
+  "status": "unofficial",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "GamePad",
+  "en": "GamePad",
+  "ko": "GamePad",
+  "status": "unofficial",
+  "source": "Wii U 한국 미발매",
+  "note": "원문도 영문 GamePad, 영문 유지",
+  "group": "others"
+ },
+ {
+  "ja": "Miiverse",
+  "en": "Miiverse",
+  "ko": "Miiverse",
+  "status": "unofficial",
+  "source": "한국 미서비스",
+  "note": "영문 유지",
+  "group": "others"
+ },
+ {
+  "ja": "うす島",
+  "en": "Rest Island",
+  "ko": "절구섬",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 171. うす=臼(절구)로 읽음. 확신 낮음, 석상 모양 확인 권장",
+  "group": "others"
+ },
+ {
+  "ja": "どうぶつのおうち",
+  "en": "House",
+  "ko": "동물의 집",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 068",
+  "group": "others"
+ },
+ {
+  "ja": "どうぶつの森 キャンディーまつり",
+  "en": "Animal Crossing: Sweet Day",
+  "ko": "동물의 숲 캔디 축제",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '동물의 숲'은 한국닌텐도 공식",
+  "note": "영어판 Sweet Day(나무위키 '동물의 숲: 스위트 데이')가 아니라 원문 キャンディーまつり 를 따름. 한국어판 동물의 숲은 candy 아이템을 '사탕'으로 씀 → '동물의 숲 사탕 축제'도 후보. 대사 キャンディー 표기와 한 가지로 정할 것",
+  "group": "others"
+ },
+ {
+  "ja": "アトラクション",
+  "en": "attraction",
+  "ko": "어트랙션",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "국내 통칭 '어트랙션'(나무위키 닌텐도 랜드 문서), 외래어 표기법도 어트랙션",
+  "group": "others"
+ },
+ {
+  "ja": "アトラクションツアー",
+  "en": "Attraction Tour",
+  "ko": "어트랙션 투어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "アームマシーン",
+  "en": "Robotic Arm",
+  "ko": "암 머신",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 188",
+  "group": "others"
+ },
+ {
+  "ja": "エアーダクト",
+  "en": "Air Duct",
+  "ko": "에어 덕트",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 187",
+  "group": "others"
+ },
+ {
+  "ja": "オクトパスダンス",
+  "en": "Octopus Dance",
+  "ko": "옥토퍼스 댄스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '옥토퍼스' 공식(슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 No.698 '옥토퍼스', 출신 '게임 & 워치' (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/게임 & 워치 시리즈'))",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "オバケ研究所",
+  "en": "Research Lab",
+  "ko": "유령 연구소",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "キャプテン・ファルコン ツイスターレース",
+  "en": "Captain Falcon's Twister Race",
+  "ko": "캡틴 팔콘의 트위스터 레이스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "대사 속 긴 표기일 때",
+  "group": "others"
+ },
+ {
+  "ja": "キャンディー",
+  "en": "candy",
+  "ko": "캔디",
+  "status": "unofficial",
+  "source": "한국어판 동물의 숲은 할로윈 사탕을 '사탕'으로 씀",
+  "note": "원문 외래어 유지 '캔디' 권장, '사탕'도 후보. 어트랙션 이름과 한 가지로. 석상 065",
+  "group": "others"
+ },
+ {
+  "ja": "キャンディーのなる木",
+  "en": "Candy Tree",
+  "ko": "캔디가 열리는 나무",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 067",
+  "group": "others"
+ },
+ {
+  "ja": "キャンディースイッチ",
+  "en": "Candy Switch",
+  "ko": "캔디 스위치",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 066",
+  "group": "others"
+ },
+ {
+  "ja": "ギアハンドルL",
+  "en": "Gear Crank (Left)",
+  "ko": "기어 핸들 L",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 183",
+  "group": "others"
+ },
+ {
+  "ja": "ギアハンドルR",
+  "en": "Gear Crank (Right)",
+  "ko": "기어 핸들 R",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 184",
+  "group": "others"
+ },
+ {
+  "ja": "クラッシュコース",
+  "en": "Crash Course",
+  "ko": "크래시 코스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "コンプリートの証",
+  "en": "Grand Prize",
+  "ko": "컴플리트의 증표",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 233",
+  "group": "others"
+ },
+ {
+  "ja": "ゴーストマンション",
+  "en": "Ghost Mansion",
+  "ko": "고스트 맨션",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ゴールゲート",
+  "en": "Goal Gate",
+  "ko": "골 게이트",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 097",
+  "group": "others"
+ },
+ {
+  "ja": "ゴールフラッグ",
+  "en": "Goal Flag",
+  "ko": "골 플래그",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 110",
+  "group": "others"
+ },
+ {
+  "ja": "シューティングアトラクション",
+  "en": "shooting attraction",
+  "ko": "슈팅 어트랙션",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "スター",
+  "en": "Star",
+  "ko": "스타",
+  "status": "unofficial",
+  "source": "한국어판 마리오 아이템명은 '슈퍼스타'(슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/마리오 시리즈' https://namu.wiki/w/슈퍼%20스매시브라더스%20얼티밋/스피릿%20목록/마리오%20시리즈))",
+  "note": "마리오 체이스 아이템 スター 는 원문이 'スター'뿐이라 '스타' 권장. 정식 아이템명을 살리려면 '슈퍼스타'. 모니타가 주는 업적 별(スター)은 '스타'",
+  "group": "others"
+ },
+ {
+  "ja": "スタープレイヤー",
+  "en": "Star Player",
+  "ko": "스타 플레이어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "スペシャルプライズ",
+  "en": "special prize",
+  "ko": "스페셜 프라이즈",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "セントラルタワー",
+  "en": "Central Tower",
+  "ko": "센트럴 타워",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "タイムストッパー",
+  "en": "Time Stopper",
+  "ko": "타임 스토퍼",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 127",
+  "group": "others"
+ },
+ {
+  "ja": "ダンシング・サブマリン",
+  "en": "Dancing Submarine",
+  "ko": "댄싱 서브마린",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 165",
+  "group": "others"
+ },
+ {
+  "ja": "ダンシング・ワカメ",
+  "en": "Dancing Seaweed",
+  "ko": "댄싱 미역",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 164. 'ノリがいい' 말장난(김/흥) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "チームアトラクション",
+  "en": "Team Attraction",
+  "ko": "팀 어트랙션",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ツアートレイン",
+  "en": "Tour Train",
+  "ko": "투어 트레인",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "トーテムポール・ホオ",
+  "en": "Totem Pole",
+  "ko": "토템 폴",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 195. 설명이 'トーテモほる' 말장난. 이름 끝 'ホオ' 뜻은 확인 못 함 — 그대로 살리면 '토템 폴·호오'. 확신 낮음",
+  "group": "others"
+ },
+ {
+  "ja": "ドンキーコングのクラッシュコース",
+  "en": "Donkey Kong's Crash Course",
+  "ko": "동키콩의 크래시 코스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '동키콩' 공식",
+  "note": "crash 외래어 표기법 '크래시'. 나무위키는 '크래쉬'",
+  "group": "others"
+ },
+ {
+  "ja": "ナンバーフラッグ",
+  "en": "Number Flag",
+  "ko": "넘버 플래그",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 092",
+  "group": "others"
+ },
+ {
+  "ja": "ニンテンドーランドコイン",
+  "en": "Nintendo Land Coins",
+  "ko": "닌텐도 랜드 코인",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ニンテンドーランドプラザ",
+  "en": "Nintendo Land Plaza",
+  "ko": "닌텐도 랜드 플라자",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ネオンバリケード",
+  "en": "Neon Barricade",
+  "ko": "네온 바리케이드",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 186",
+  "group": "others"
+ },
+ {
+  "ja": "ハテナボックス",
+  "en": "? box",
+  "ko": "물음표 상자",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "마리오 ハテナブロック 이 한국어판 '물음표 블록'이라 같은 계열로",
+  "group": "others"
+ },
+ {
+  "ja": "バッテリーカー",
+  "en": "Battery Machine",
+  "ko": "배터리 카",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 107",
+  "group": "others"
+ },
+ {
+  "ja": "バトルアトラクション",
+  "en": "battle attraction",
+  "ko": "배틀 어트랙션",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "バルーントリップ",
+  "en": "Balloon Trip",
+  "ko": "벌룬 트립",
+  "status": "unofficial",
+  "source": "원작 벌룬 파이트 모드명(화면 영문 'BALLOON TRIP')",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "バルーントリップ ブリーズ",
+  "en": "Balloon Trip Breeze",
+  "ko": "벌룬 트립 브리즈",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '벌룬 파이트' 공식(슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 No.1124 '벌룬 파이트의 주인공', 출신 게임 '벌룬 파이트' (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/기타 게임 시리즈'))",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "バルーンバード",
+  "en": "Balloon Bird",
+  "ko": "벌룬 버드",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 112",
+  "group": "others"
+ },
+ {
+  "ja": "バルーンフィッシュ",
+  "en": "Balloon Fish",
+  "ko": "벌룬 피시",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 113",
+  "group": "others"
+ },
+ {
+  "ja": "バルーンブレイカー",
+  "en": "Balloon Breaker",
+  "ko": "벌룬 브레이커",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 116",
+  "group": "others"
+ },
+ {
+  "ja": "ピクミン アドベンチャー",
+  "en": "Pikmin Adventure",
+  "ko": "피크민 어드벤처",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '피크민'은 한국닌텐도 공식",
+  "note": "담당 외(피크민 쪽) 참고안",
+  "group": "others"
+ },
+ {
+  "ja": "ファルコンライト",
+  "en": "Falcon Light",
+  "ko": "팔콘 라이트",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 108",
+  "group": "others"
+ },
+ {
+  "ja": "プライズ",
+  "en": "prize",
+  "ko": "프라이즈",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "원문 외래어 그대로. '경품'도 가능하나 메뉴 이름으로 쓰이므로 프라이즈 권장",
+  "group": "others"
+ },
+ {
+  "ja": "プラザ",
+  "en": "Plaza",
+  "ko": "플라자",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "マキビシ",
+  "en": "Speed Spike",
+  "ko": "마키비시",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 126. 닌자 도구 撒菱. 뜻을 살리면 '마름쇠'",
+  "group": "others"
+ },
+ {
+  "ja": "マリオチェイス",
+  "en": "Mario Chase",
+  "ko": "마리오 체이스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "나무위키 표기도 같음",
+  "group": "others"
+ },
+ {
+  "ja": "ミニアトラクション",
+  "en": "mini attraction",
+  "ko": "미니 어트랙션",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ムラサメ",
+  "en": "Murasame",
+  "ko": "무라사메",
+  "status": "unofficial",
+  "source": "원작 '謎の村雨城' 한국 미발매; 스매시 한국어판 출신 게임 표기는 확인 못 함",
+  "note": "석상 162 설명 '巨敵ムラサメ'",
+  "group": "others"
+ },
+ {
+  "ja": "モニータ姫",
+  "en": "Princess Monita",
+  "ko": "모니타 공주",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "스탬프 'モニータ姫救出'",
+  "group": "others"
+ },
+ {
+  "ja": "ヤプー",
+  "en": "Ghost Statue",
+  "ko": "야푸",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 080. 한국어판 루이지 맨션에서 같은 이름을 찾지 못함(닌텐도 랜드 고유 이름으로 보임). 확신 낮음",
+  "group": "others"
+ },
+ {
+  "ja": "ヨッシーのフルーツカート",
+  "en": "Yoshi's Fruit Cart",
+  "ko": "요시의 과일 카트",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '요시' 공식",
+  "note": "フルーツ 를 원어 그대로 하면 '요시의 프루츠 카트'. 대사의 フルーツ 를 '과일'로 옮기면 이름도 과일로 맞춤",
+  "group": "others"
+ },
+ {
+  "ja": "ヨッシーカート",
+  "en": "Yoshi Cart",
+  "ko": "요시 카트",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 073",
+  "group": "others"
+ },
+ {
+  "ja": "ルイージのゴーストマンション",
+  "en": "Luigi's Ghost Mansion",
+  "ko": "루이지의 고스트 맨션",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '루이지 맨션' 시리즈명은 한국닌텐도 공식",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "レストハウス",
+  "en": "Rest House",
+  "ko": "레스트 하우스",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 118",
+  "group": "others"
+ },
+ {
+  "ja": "レディ",
+  "en": "Pauline (Lady)",
+  "ko": "레이디",
+  "status": "unofficial",
+  "source": "원작 동키콩(1981) 일본 표기 'レディ'. 현행 한국어판 이름은 '폴린'(슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 (나무위키 '슈퍼 스매시브라더스 얼티밋/스피릿 목록/마리오 시리즈' https://namu.wiki/w/슈퍼%20스매시브라더스%20얼티밋/스피릿%20목록/마리오%20시리즈))",
+  "note": "원문이 현행 이름 ポリーン 이 아니라 옛 이름 レディ 이므로 '레이디'. 현행 이름으로 하려면 '폴린'. 결정 필요",
+  "group": "others"
+ },
+ {
+  "ja": "焙烙玉",
+  "en": "Clay Bomb",
+  "ko": "호로쿠다마",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 234. ほうろくだま. 뜻을 살리면 '질그릇 폭탄'. 확신 중",
+  "group": "others"
+ },
+ {
+  "ja": "般若",
+  "en": "Murasame Mask",
+  "ko": "한냐",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음",
+  "note": "석상 162. 가나 읽기 はんにゃ → 한냐(한국 한자음은 반야). 일본 가면 이름이라 '한냐' 권장. 확신 중",
+  "group": "others"
+ },
+ {
+  "ja": "鷹丸の手裏剣道場",
+  "en": "Takamaru's Ninja Castle",
+  "ko": "타카마루의 수리검 도장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드는 한국 미발매라 공식 한국어 없음; '타카마루' 공식(슈퍼 스매시브라더스 얼티밋 한국어판 스피릿 No.1128·어시스트 피규어·Mii 의상 '타카마루' (ssbwiki Takamaru 다국어 표 Korean 타카마루 https://www.ssbwiki.com/Takamaru ; 나무위키 '…/스피릿 목록/기타 게임 시리즈' 타카마루))",
+  "note": "영어판 Ninja Castle 이 아니라 원문 手裏剣道場 을 따름",
+  "group": "others"
+ },
+ {
+  "ja": "%",
+  "en": "%",
+  "ko": "%",
+  "status": "generic",
+  "source": "UnitName",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "10連続パーフェクト",
+  "en": "Perfect Streak x10",
+  "ko": "10연속 퍼펙트",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "1位〜65位 / １位〜６５位",
+  "en": "1st–65th",
+  "ko": "1위 ~ 65위 (전각 줄은 １위)",
+  "status": "generic",
+  "source": "Rank",
+  "note": "숫자+위. 전각 줄은 전각 숫자 유지",
+  "group": "others"
+ },
+ {
+  "ja": "1回もつかまらずに勝利",
+  "en": "Sneaky Snatcher",
+  "ko": "한 번도 안 잡히고 승리",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "2人同時につかまえた",
+  "en": "Double Takedown",
+  "ko": "2명 동시에 잡았다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "Country_000",
+  "en": "Country_000",
+  "ko": "(미설정)",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음; 빈 줄",
+  "group": "others"
+ },
+ {
+  "ja": "Country_001",
+  "en": "Country_001",
+  "ko": "일본",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_008",
+  "en": "Country_008",
+  "ko": "앵귈라",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_009",
+  "en": "Country_009",
+  "ko": "앤티가 바부다",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_010",
+  "en": "Country_010",
+  "ko": "아르헨티나",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_011",
+  "en": "Country_011",
+  "ko": "아루바",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_012",
+  "en": "Country_012",
+  "ko": "바하마",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_013",
+  "en": "Country_013",
+  "ko": "바베이도스",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_014",
+  "en": "Country_014",
+  "ko": "벨리즈",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_015",
+  "en": "Country_015",
+  "ko": "볼리비아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_016",
+  "en": "Country_016",
+  "ko": "브라질",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_017",
+  "en": "Country_017",
+  "ko": "영국령 버진아일랜드",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_018",
+  "en": "Country_018",
+  "ko": "캐나다",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_020",
+  "en": "Country_020",
+  "ko": "칠레",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_021",
+  "en": "Country_021",
+  "ko": "콜롬비아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_022",
+  "en": "Country_022",
+  "ko": "코스타리카",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_023",
+  "en": "Country_023",
+  "ko": "도미니카 연방",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_024",
+  "en": "Country_024",
+  "ko": "도미니카 공화국",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_025",
+  "en": "Country_025",
+  "ko": "에콰도르",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_026",
+  "en": "Country_026",
+  "ko": "엘살바도르",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_028",
+  "en": "Country_028",
+  "ko": "그레나다",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_030",
+  "en": "Country_030",
+  "ko": "과테말라",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_031",
+  "en": "Country_031",
+  "ko": "가이아나",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_032",
+  "en": "Country_032",
+  "ko": "아이티",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_033",
+  "en": "Country_033",
+  "ko": "온두라스",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_034",
+  "en": "Country_034",
+  "ko": "자메이카",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_036",
+  "en": "Country_036",
+  "ko": "멕시코",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_037",
+  "en": "Country_037",
+  "ko": "몬트세랫",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_038",
+  "en": "Country_038",
+  "ko": "네덜란드령 안틸레스",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음; 지금은 해체된 지역",
+  "group": "others"
+ },
+ {
+  "ja": "Country_039",
+  "en": "Country_039",
+  "ko": "니카라과",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_040",
+  "en": "Country_040",
+  "ko": "파나마",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_041",
+  "en": "Country_041",
+  "ko": "파라과이",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_042",
+  "en": "Country_042",
+  "ko": "페루",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_043",
+  "en": "Country_043",
+  "ko": "세인트키츠 네비스",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_044",
+  "en": "Country_044",
+  "ko": "세인트루시아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_045",
+  "en": "Country_045",
+  "ko": "세인트빈센트 그레나딘",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_046",
+  "en": "Country_046",
+  "ko": "수리남",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_047",
+  "en": "Country_047",
+  "ko": "트리니다드 토바고",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_048",
+  "en": "Country_048",
+  "ko": "터크스 케이커스 제도",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_049",
+  "en": "Country_049",
+  "ko": "미국",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_050",
+  "en": "Country_050",
+  "ko": "우루과이",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_051",
+  "en": "Country_051",
+  "ko": "미국령 버진아일랜드",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_052",
+  "en": "Country_052",
+  "ko": "베네수엘라",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_065",
+  "en": "Country_065",
+  "ko": "오스트레일리아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음; '호주'도 통용, 외교부 표기는 오스트레일리아",
+  "group": "others"
+ },
+ {
+  "ja": "Country_066",
+  "en": "Country_066",
+  "ko": "오스트리아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_067",
+  "en": "Country_067",
+  "ko": "벨기에",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_070",
+  "en": "Country_070",
+  "ko": "불가리아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_071",
+  "en": "Country_071",
+  "ko": "크로아티아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_072",
+  "en": "Country_072",
+  "ko": "키프로스",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_073",
+  "en": "Country_073",
+  "ko": "체코",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_074",
+  "en": "Country_074",
+  "ko": "덴마크",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_076",
+  "en": "Country_076",
+  "ko": "핀란드",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_077",
+  "en": "Country_077",
+  "ko": "프랑스",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_078",
+  "en": "Country_078",
+  "ko": "독일",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_079",
+  "en": "Country_079",
+  "ko": "그리스",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_080",
+  "en": "Country_080",
+  "ko": "헝가리",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_082",
+  "en": "Country_082",
+  "ko": "아일랜드",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_083",
+  "en": "Country_083",
+  "ko": "이탈리아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_088",
+  "en": "Country_088",
+  "ko": "룩셈부르크",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_094",
+  "en": "Country_094",
+  "ko": "네덜란드",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_095",
+  "en": "Country_095",
+  "ko": "뉴질랜드",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_096",
+  "en": "Country_096",
+  "ko": "노르웨이",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_097",
+  "en": "Country_097",
+  "ko": "폴란드",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_098",
+  "en": "Country_098",
+  "ko": "포르투갈",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_099",
+  "en": "Country_099",
+  "ko": "루마니아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_100",
+  "en": "Country_100",
+  "ko": "러시아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_102",
+  "en": "Country_102",
+  "ko": "슬로바키아",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_104",
+  "en": "Country_104",
+  "ko": "남아프리카 공화국",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_105",
+  "en": "Country_105",
+  "ko": "스페인",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_107",
+  "en": "Country_107",
+  "ko": "스웨덴",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_108",
+  "en": "Country_108",
+  "ko": "스위스",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_109",
+  "en": "Country_109",
+  "ko": "튀르키예",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음; 옛 표기 터키",
+  "group": "others"
+ },
+ {
+  "ja": "Country_110",
+  "en": "Country_110",
+  "ko": "영국",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_136",
+  "en": "Country_136",
+  "ko": "대한민국",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_160",
+  "en": "Country_160",
+  "ko": "중국",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "Country_169",
+  "en": "Country_169",
+  "ko": "인도",
+  "status": "generic",
+  "source": "외교부 국가 표기; 코드→나라는 Wii/Wii U 국가 코드 표(WiiBrew)로 맞춤",
+  "note": "원본 CountryName.msbt 는 일본판·미국판 모두 빈 문자열(본체 설정 값을 쓰는 듯) — 넣을 필요 없을 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "m",
+  "en": "yd./m",
+  "ko": "m",
+  "status": "generic",
+  "source": "UnitName",
+  "note": "일본판 미터 그대로",
+  "group": "others"
+ },
+ {
+  "ja": "あたまパンパンで勝った",
+  "en": "So... Much... Candy...",
+  "ko": "머리가 빵빵한 채로 이겼다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "あっという間につかまえた",
+  "en": "20-Second Catch",
+  "ko": "눈 깜짝할 새 잡았다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "どうぶつ",
+  "en": "animals",
+  "ko": "동물",
+  "status": "generic",
+  "source": "한국어판 동물의 숲은 마을 사람을 '주민'이라 부름",
+  "note": "여기서는 술래(문지기)와 대비되는 역할 이름이라 '동물'",
+  "group": "others"
+ },
+ {
+  "ja": "イチゴ",
+  "en": "Strawberry",
+  "ko": "딸기",
+  "status": "generic",
+  "source": "",
+  "note": "석상 089 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "インストラクター",
+  "en": "Instructor",
+  "ko": "인스트럭터",
+  "status": "generic",
+  "source": "",
+  "note": "석상 082. '강사'도 가능",
+  "group": "others"
+ },
+ {
+  "ja": "エリア2までノーミスクリア",
+  "en": "Perfect through Area 2",
+  "ko": "에어리어 2까지 노미스 클리어",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "オバケで10回勝利",
+  "en": "Ghostly Good Night x10",
+  "ko": "유령으로 10번 승리",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "オバケの執念…体力わずかで勝利",
+  "en": "A Ghastly Comeback",
+  "ko": "유령의 집념… 체력 조금 남기고 승리",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "オレンジ",
+  "en": "Orange",
+  "ko": "오렌지",
+  "status": "generic",
+  "source": "",
+  "note": "석상 091 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "ゲストA",
+  "en": "Guest A",
+  "ko": "게스트 A",
+  "status": "generic",
+  "source": "한국어판 3DS·스위치 '게스트'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ゲストB",
+  "en": "Guest B",
+  "ko": "게스트 B",
+  "status": "generic",
+  "source": "한국어판 3DS·스위치 '게스트'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ゲストC",
+  "en": "Guest C",
+  "ko": "게스트 C",
+  "status": "generic",
+  "source": "한국어판 3DS·스위치 '게스트'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ゲストD",
+  "en": "Guest D",
+  "ko": "게스트 D",
+  "status": "generic",
+  "source": "한국어판 3DS·스위치 '게스트'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ゲストE",
+  "en": "Guest E",
+  "ko": "게스트 E",
+  "status": "generic",
+  "source": "한국어판 3DS·스위치 '게스트'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ゲストF",
+  "en": "Guest F",
+  "ko": "게스트 F",
+  "status": "generic",
+  "source": "한국어판 3DS·스위치 '게스트'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ゲームパッド",
+  "en": "GamePad (음성 읽기)",
+  "ko": "게임패드",
+  "status": "generic",
+  "source": "",
+  "note": "읽기 문자열. 화면 표기는 GamePad",
+  "group": "others"
+ },
+ {
+  "ja": "コインゲーム",
+  "en": "coin game",
+  "ko": "코인 게임",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ゴースト",
+  "en": "ghost (time trial)",
+  "ko": "고스트",
+  "status": "generic",
+  "source": "",
+  "note": "기록 고스트. オバケ 와 다름",
+  "group": "others"
+ },
+ {
+  "ja": "ショートカットに成功",
+  "en": "Cutting Corners",
+  "ko": "지름길 성공",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "ジャイロセンサー",
+  "en": "gyrosensor",
+  "ko": "자이로 센서",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ジュークボックス",
+  "en": "Jukebox",
+  "ko": "주크박스",
+  "status": "generic",
+  "source": "",
+  "note": "석상 130",
+  "group": "others"
+ },
+ {
+  "ja": "スイカ",
+  "en": "Watermelon",
+  "ko": "수박",
+  "status": "generic",
+  "source": "",
+  "note": "석상 083 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "スタンプ",
+  "en": "Stamp",
+  "ko": "스탬프",
+  "status": "generic",
+  "source": "",
+  "note": "Miiverse 스탬프",
+  "group": "others"
+ },
+ {
+  "ja": "スター4個獲得",
+  "en": "4-Star Racer",
+  "ko": "스타 4개 획득",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "スターを使わずに逃げ切った",
+  "en": "Starless Getaway",
+  "ko": "스타 없이 끝까지 도망쳤다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "スミ吐きされても3回成功",
+  "en": "3 Inky Moves",
+  "ko": "먹물을 맞고도 3번 성공",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "スーパースター",
+  "en": "superstar",
+  "ko": "슈퍼스타",
+  "status": "generic",
+  "source": "",
+  "note": "모니타 대사의 일반 낱말(마리오 아이템 아님)",
+  "group": "others"
+ },
+ {
+  "ja": "タイムアタック",
+  "en": "Time Attack",
+  "ko": "타임 어택",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "タケノコ",
+  "en": "Bamboo Shoot",
+  "ko": "죽순",
+  "status": "generic",
+  "source": "",
+  "note": "석상 202",
+  "group": "others"
+ },
+ {
+  "ja": "タマゴ",
+  "en": "Egg",
+  "ko": "알",
+  "status": "generic",
+  "source": "",
+  "note": "석상 096 (요시 시리즈 한국어판도 '알')",
+  "group": "others"
+ },
+ {
+  "ja": "タマゴを5個以上産んでクリア",
+  "en": "5-Egg Exit",
+  "ko": "알을 5개 이상 낳고 클리어",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "タワー",
+  "en": "tower",
+  "ko": "타워",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ツアー",
+  "en": "tour",
+  "ko": "투어",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "トゲ",
+  "en": "Spike",
+  "ko": "가시",
+  "status": "generic",
+  "source": "",
+  "note": "석상 094",
+  "group": "others"
+ },
+ {
+  "ja": "トロッコ",
+  "en": "roller (cart)",
+  "ko": "수레",
+  "status": "generic",
+  "source": "",
+  "note": "三角トロッコ = 삼각 수레",
+  "group": "others"
+ },
+ {
+  "ja": "ナシ",
+  "en": "Pear",
+  "ko": "배",
+  "status": "generic",
+  "source": "",
+  "note": "석상 090 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "ハチ",
+  "en": "Bee",
+  "ko": "벌",
+  "status": "generic",
+  "source": "",
+  "note": "석상 093",
+  "group": "others"
+ },
+ {
+  "ja": "ハチを3匹食べた",
+  "en": "Triple Bee Buffet",
+  "ko": "벌을 3마리 먹었다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "ハチメンロッピ",
+  "en": "(八面六臂)",
+  "ko": "팔면육비",
+  "status": "generic",
+  "source": "",
+  "note": "관용구 八面六臂 말장난(석상 073). '눈부신 활약' 등으로 풀어도 됨",
+  "group": "others"
+ },
+ {
+  "ja": "ハテナ",
+  "en": "Question Mark",
+  "ko": "물음표",
+  "status": "generic",
+  "source": "",
+  "note": "석상 193",
+  "group": "others"
+ },
+ {
+  "ja": "ハヤブサ",
+  "en": "falcon",
+  "ko": "매",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "バナナ",
+  "en": "Bananas",
+  "ko": "바나나",
+  "status": "generic",
+  "source": "",
+  "note": "석상 085 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "バルーン",
+  "en": "Balloon",
+  "ko": "벌룬",
+  "status": "generic",
+  "source": "",
+  "note": "석상 172. 대사의 물건은 '풍선'도 가능",
+  "group": "others"
+ },
+ {
+  "ja": "バードハント30羽",
+  "en": "30 Birds Down",
+  "ko": "새 사냥 30마리",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "パーフェクト50回達成",
+  "en": "Flawless Fifty",
+  "ko": "퍼펙트 50번 달성",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "パーフェクトツイスト",
+  "en": "Racing Perfection",
+  "ko": "퍼펙트 트위스트",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "パーフェクトフライト",
+  "en": "Flawless Flight",
+  "ko": "퍼펙트 플라이트",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "パーフェクト・ラン",
+  "en": "Perfect Run",
+  "ko": "퍼펙트 런",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "ヒット",
+  "en": "hit(s)",
+  "ko": "히트",
+  "status": "generic",
+  "source": "UnitName",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "ブイ",
+  "en": "Buoy",
+  "ko": "부이",
+  "status": "generic",
+  "source": "",
+  "note": "석상 114",
+  "group": "others"
+ },
+ {
+  "ja": "ブドウ",
+  "en": "Grapes",
+  "ko": "포도",
+  "status": "generic",
+  "source": "",
+  "note": "석상 088 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "プレゼントボックス",
+  "en": "Present",
+  "ko": "선물 상자",
+  "status": "generic",
+  "source": "",
+  "note": "석상 095",
+  "group": "others"
+ },
+ {
+  "ja": "メロン",
+  "en": "Melon",
+  "ko": "멜론",
+  "status": "generic",
+  "source": "",
+  "note": "석상 084 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "モニータデス",
+  "en": "It's Monita",
+  "ko": "모니타입니다(말투 반영)",
+  "status": "generic",
+  "source": "대사(イチゴイチエ 말장난)",
+  "note": "이름+デス 말버릇. 이름은 모니타",
+  "group": "others"
+ },
+ {
+  "ja": "モニータ姫救出",
+  "en": "Princess Rescue",
+  "ko": "모니타 공주 구출",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "モモ",
+  "en": "Peach",
+  "ko": "복숭아",
+  "status": "generic",
+  "source": "",
+  "note": "석상 086 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "モンバンさんで10回勝利",
+  "en": "Serve and Protect x10",
+  "ko": "문지기로 10번 승리",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "ライト",
+  "en": "Flashlight",
+  "ko": "라이트",
+  "status": "generic",
+  "source": "",
+  "note": "석상 078. '손전등'도 가능, 원문 외래어 유지",
+  "group": "others"
+ },
+ {
+  "ja": "ラインマスター",
+  "en": "Gatemaster",
+  "ko": "라인 마스터",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "リンゴ",
+  "en": "Apple",
+  "ko": "사과",
+  "status": "generic",
+  "source": "",
+  "note": "석상 087 과일. 설명 말장난(ナシのハナシ 등) 재작성 필요",
+  "group": "others"
+ },
+ {
+  "ja": "レディを2回救出",
+  "en": "Double Damsel Rescue",
+  "ko": "레이디 2번 구출",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "ワン・ツー・スリー",
+  "en": "1-2-3",
+  "ko": "원, 투, 스리",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "世界の中心で勝利",
+  "en": "Finish at the Start",
+  "ko": "세상의 중심에서 승리",
+  "status": "generic",
+  "source": "",
+  "note": "스테이지 가운데(시작 지점). 작품 제목 패러디일 수 있음",
+  "group": "others"
+ },
+ {
+  "ja": "人",
+  "en": "player(s)",
+  "ko": "명",
+  "status": "generic",
+  "source": "UnitName",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "個",
+  "en": "Wii Remote(s)",
+  "ko": "개",
+  "status": "generic",
+  "source": "UnitName",
+  "note": "리모컨 수",
+  "group": "others"
+ },
+ {
+  "ja": "全ての島を訪れた",
+  "en": "Island Hopper",
+  "ko": "모든 섬을 방문했다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "全エリア走破",
+  "en": "Checkered Flag",
+  "ko": "전 에어리어 주파",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "全ゲートクリア",
+  "en": "Gatekeeper",
+  "ko": "전 게이트 클리어",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "全ステージクリア",
+  "en": "That's a Wrap",
+  "ko": "전 스테이지 클리어",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "刀",
+  "en": "Katana",
+  "ko": "칼",
+  "status": "generic",
+  "source": "",
+  "note": "석상 105",
+  "group": "others"
+ },
+ {
+  "ja": "分",
+  "en": "minute(s)",
+  "ko": "분",
+  "status": "generic",
+  "source": "UnitName",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "初ジャンプ",
+  "en": "Hang Time",
+  "ko": "첫 점프",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "協力クエスト",
+  "en": "Quest",
+  "ko": "협력 퀘스트",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "協力チャレンジ",
+  "en": "Challenge",
+  "ko": "협력 챌린지",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "協力ミッション",
+  "en": "Assault Mission",
+  "ko": "협력 미션",
+  "status": "generic",
+  "source": "",
+  "note": "모드 이름",
+  "group": "others"
+ },
+ {
+  "ja": "古壺",
+  "en": "Old Pot",
+  "ko": "낡은 항아리",
+  "status": "generic",
+  "source": "",
+  "note": "석상 100",
+  "group": "others"
+ },
+ {
+  "ja": "回",
+  "en": "hit(s)",
+  "ko": "번",
+  "status": "generic",
+  "source": "UnitName",
+  "note": "타격 횟수",
+  "group": "others"
+ },
+ {
+  "ja": "地上対戦",
+  "en": "Ground Battle",
+  "ko": "지상 대전",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "大ダコ",
+  "en": "Large Octopus",
+  "ko": "큰 문어",
+  "status": "generic",
+  "source": "",
+  "note": "석상 163",
+  "group": "others"
+ },
+ {
+  "ja": "太鼓",
+  "en": "Taiko Drum",
+  "ko": "북",
+  "status": "generic",
+  "source": "",
+  "note": "석상 099",
+  "group": "others"
+ },
+ {
+  "ja": "対戦",
+  "en": "Versus",
+  "ko": "대전",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "小ダコ",
+  "en": "Little Octopus",
+  "ko": "꼬마 문어",
+  "status": "generic",
+  "source": "",
+  "note": "석상 081",
+  "group": "others"
+ },
+ {
+  "ja": "屋上でライトを浴びずに勝利",
+  "en": "Untouchable Roof Wraith",
+  "ko": "옥상에서 라이트를 안 맞고 승리",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "島",
+  "en": "Island",
+  "ko": "섬",
+  "status": "generic",
+  "source": "",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "島の風車",
+  "en": "Island Windmill",
+  "ko": "섬의 풍차",
+  "status": "generic",
+  "source": "",
+  "note": "석상 128",
+  "group": "others"
+ },
+ {
+  "ja": "巻物",
+  "en": "Scroll",
+  "ko": "두루마리",
+  "status": "generic",
+  "source": "",
+  "note": "석상 192",
+  "group": "others"
+ },
+ {
+  "ja": "強力ライト",
+  "en": "Super Light",
+  "ko": "강력 라이트",
+  "status": "generic",
+  "source": "",
+  "note": "석상 079",
+  "group": "others"
+ },
+ {
+  "ja": "忍者",
+  "en": "Ninja",
+  "ko": "닌자",
+  "status": "generic",
+  "source": "",
+  "note": "석상 098",
+  "group": "others"
+ },
+ {
+  "ja": "手裏剣",
+  "en": "Throwing Star",
+  "ko": "수리검",
+  "status": "generic",
+  "source": "",
+  "note": "석상 207",
+  "group": "others"
+ },
+ {
+  "ja": "手裏剣打ち落とし10回",
+  "en": "10-Star Defense",
+  "ko": "수리검 쳐내기 10번",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "接触ミス5回以下でゴール",
+  "en": "5-Mistake Limit",
+  "ko": "접촉 실수 5번 이하로 골인",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "敵全滅",
+  "en": "Unstoppable",
+  "ko": "적 전멸",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "新壺",
+  "en": "New Pot",
+  "ko": "새 항아리",
+  "status": "generic",
+  "source": "",
+  "note": "석상 101",
+  "group": "others"
+ },
+ {
+  "ja": "村",
+  "en": "Downtown",
+  "ko": "마을",
+  "status": "generic",
+  "source": "한국어판 동물의 숲 '마을'",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "残り1秒でマリオをつかまえた",
+  "en": "1 Second on the Clock",
+  "ko": "1초 남기고 마리오를 잡았다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "点",
+  "en": "pt./pts.",
+  "ko": "점",
+  "status": "generic",
+  "source": "UnitName",
+  "note": "",
+  "group": "others"
+ },
+ {
+  "ja": "燭台",
+  "en": "Candle",
+  "ko": "촛대",
+  "status": "generic",
+  "source": "",
+  "note": "석상 191",
+  "group": "others"
+ },
+ {
+  "ja": "甲冑",
+  "en": "Suit of Armor",
+  "ko": "갑옷",
+  "status": "generic",
+  "source": "",
+  "note": "석상 076, 스테이지 4",
+  "group": "others"
+ },
+ {
+  "ja": "百忍百倒",
+  "en": "First 100 Down",
+  "ko": "백인백도",
+  "status": "generic",
+  "source": "",
+  "note": "百発百中 비튼 조어(닌자 100명 쓰러뜨림). '백인백도' 또는 '닌자 100명 격파'",
+  "group": "others"
+ },
+ {
+  "ja": "看板娘",
+  "en": "poster girl",
+  "ko": "간판 아가씨",
+  "status": "generic",
+  "source": "",
+  "note": "모니타 자칭",
+  "group": "others"
+ },
+ {
+  "ja": "空陸対戦",
+  "en": "Surface-Air Combat",
+  "ko": "공중·지상 대전",
+  "status": "generic",
+  "source": "",
+  "note": "모드 이름",
+  "group": "others"
+ },
+ {
+  "ja": "荷物運びに2度成功",
+  "en": "Special Delivery",
+  "ko": "짐 나르기 2번 성공",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "華麗なるタックル",
+  "en": "Tackle Takedown",
+  "ko": "화려한 태클",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "赤いバクダン",
+  "en": "Red Bomb",
+  "ko": "빨간 폭탄",
+  "status": "generic",
+  "source": "",
+  "note": "석상 185",
+  "group": "others"
+ },
+ {
+  "ja": "通算10回逃げ切った",
+  "en": "10-Time Champion",
+  "ko": "통산 10번 도망쳤다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "連続パーフェクト",
+  "en": "Perfect Perfect",
+  "ko": "연속 퍼펙트",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "連続ヒット10回",
+  "en": "10-Hit Combo",
+  "ko": "연속 히트 10번",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "障害物のギリギリを3回通過した",
+  "en": "3 Close Calls",
+  "ko": "장애물을 3번 아슬아슬하게 통과했다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "電池",
+  "en": "Battery",
+  "ko": "건전지",
+  "status": "generic",
+  "source": "",
+  "note": "석상 077",
+  "group": "others"
+ },
+ {
+  "ja": "電池を取らずに勝利",
+  "en": "Battery-Free Victory",
+  "ko": "건전지를 안 줍고 승리",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "食べ残し30本",
+  "en": "Skip 30 Bananas",
+  "ko": "남긴 바나나 30개",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "魔術でフィニッシュ",
+  "en": "Magical Win",
+  "ko": "마술로 피니시",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ },
+ {
+  "ja": "魚から逃げた",
+  "en": "Almost Fish Food",
+  "ko": "물고기에게서 도망쳤다",
+  "status": "generic",
+  "source": "",
+  "note": "StampName, 고유명사 아님(초안)",
+  "group": "others"
+ }
+]

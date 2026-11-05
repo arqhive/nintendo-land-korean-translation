@@ -1,0 +1,850 @@
+[
+ {
+  "ja": "ピクミン",
+  "en": "Pikmin",
+  "ko": "피크민",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) / 대난투 스매시브라더스 SPECIAL 한국 공식 사이트 파이터 「피크민&올리마」 https://www.smashbros.com/ko_KR/fighter/40.html",
+  "note": "색 이름은 빨강피크민·노랑피크민처럼 붙여 씀(공식 도감)."
+ },
+ {
+  "ja": "Miiピクミン",
+  "en": "Mii Pikmin",
+  "ko": "Mii 피크민",
+  "status": "unofficial",
+  "source": "피크민=공식 표기",
+  "note": "닌텐도 랜드 고유 표현. 피크민 부분만 공식."
+ },
+ {
+  "ja": "ピクミンアドベンチャー",
+  "en": "Pikmin Adventure",
+  "ko": "피크민 어드벤처",
+  "status": "unofficial",
+  "source": "피크민=공식 표기",
+  "note": "어트랙션 이름. 한국 미발매라 공식 한국어 없음. 「어드벤처」는 한국닌텐도 관례 표기(링 피트 어드벤처 등)."
+ },
+ {
+  "ja": "オリマー",
+  "en": "Olimar",
+  "ko": "올리마",
+  "status": "official",
+  "source": "대난투 스매시브라더스 SPECIAL 한국 공식 사이트 파이터 「피크민&올리마」 https://www.smashbros.com/ko_KR/fighter/40.html / 한국닌텐도 『개발자에게 물어보았습니다. 피크민 4』 https://www.nintendo.com/kr/interview/ampya/02.html",
+  "note": ""
+ },
+ {
+  "ja": "キャプテン・オリマー",
+  "en": "Captain Olimar",
+  "ko": "캡틴 올리마",
+  "status": "official",
+  "source": "한국닌텐도 『개발자에게 물어보았습니다. 피크민 4』 https://www.nintendo.com/kr/interview/ampya/02.html / 피크민 1+2 한국 공식 페이지 https://www.nintendo.com/kr/switch/a99qa/index.html",
+  "note": "공식 문장에 「캡틴 올리마」로 나옴. 가운뎃점 없이 띄어 씀."
+ },
+ {
+  "ja": "ホコタテ運送",
+  "en": "Hocotate Freight",
+  "ko": "호코타테 운송",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/Hocotate_Freight",
+  "note": "한국어판 표기로 위키에 수록. 한국닌텐도 사이트에서 직접 확인은 못 함."
+ },
+ {
+  "ja": "ドルフィン号",
+  "en": "S.S. Dolphin",
+  "ko": "돌핀호",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/S.S._Dolphin",
+  "note": "석상 042 설명문의 「ドルフィン号」용."
+ },
+ {
+  "ja": "ドルフィン初号機",
+  "en": "The Ship (Hocotate ship)",
+  "ko": "돌핀 초호기",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/Hocotate_ship",
+  "note": "석상 042. 피크민 2·3 디럭스에 나오는 같은 배. 위키의 한국어판 표기(공식 사이트 화면은 미확인)."
+ },
+ {
+  "ja": "原生生物",
+  "en": "creature",
+  "ko": "원주생물",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) / 한국닌텐도 『개발자에게 물어보았습니다. 피크민 4』 https://www.nintendo.com/kr/interview/ampya/02.html",
+  "note": "공식은 「원생생물」이 아니라 「원주생물」. 예문 「属性つきの原生生物」."
+ },
+ {
+  "ja": "チャッピー",
+  "en": "Bulborb",
+  "ko": "차피",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) (bulborb 항목) / 한국닌텐도 『개발자에게 물어보았습니다. 피크민 4』 https://www.nintendo.com/kr/interview/ampya/02.html",
+  "note": "영어 Bulborb가 아니라 일본어 チャッピー를 따름. 석상 022, 스테이지 「チャッピーの森」「チャッピーの浴場」에도 씀."
+ },
+ {
+  "ja": "デメマダラ",
+  "en": "(Bulborb 和名)",
+  "ko": "툭눈점박이",
+  "status": "official",
+  "source": "한국닌텐도 공식 도감 차피 항목 본문 「붉은색 복부에 하얀 점박이 무늬가 선명한 툭눈점박이」 https://www.nintendo.com/kr/character/pikmin/book/bulborb.html",
+  "note": "석상 022 설명 「和名は『デメマダラ』」. ダイオウデメマダラ=대왕 툭눈점박이도 공식."
+ },
+ {
+  "ja": "イヌムシ科",
+  "en": "Grub-dog family",
+  "ko": "강아지벌레 과",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json)",
+  "note": "공식 도감에 「강아지벌레과」「강아지벌레 과」 둘 다 보이나 과 이름 대부분이 「~ 과」로 띄어 씀이라 띄어 씀을 권함."
+ },
+ {
+  "ja": "イモガエル科",
+  "en": "Amphituber family",
+  "ko": "덩이줄기개구리 과",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) (노랑덩이줄기개구리·터줏개구리의 과)",
+  "note": ""
+ },
+ {
+  "ja": "フーセンドックリ",
+  "en": "Blowhog (Puffy Blowhog)",
+  "ko": "풍선호롱",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) (puffy_blowhog 「풍선호롱」, 돼지호롱 과)",
+  "note": "석상 040. ドックリ=호롱이 공식 대응(돼지호롱·물돼지호롱·코끼리돼지호롱)."
+ },
+ {
+  "ja": "大地のエキス",
+  "en": "Nectar",
+  "ko": "대지의 정수",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/Nectar",
+  "note": "석상 181, 예문 「これは大地のエキス デス」. 위키의 한국어판 표기(게임 화면 직접 확인 못 함). ゲキカラエキス=불맛 정수."
+ },
+ {
+  "ja": "バクダン岩",
+  "en": "Bomb rock",
+  "ko": "폭탄바위",
+  "status": "official",
+  "source": "Pikipedia(팬 위키, 한국어판 표기 수록) https://www.pikminwiki.com/Bomb_rock",
+  "note": "예문 「バクダン デス」는 이 게임에선 그냥 폭탄. 「바쿠단」 음역 말고 「폭탄」."
+ },
+ {
+  "ja": "コチャッピー(小チャッピー)",
+  "en": "Dwarf Bulborb",
+  "ko": "꼬마차피",
+  "status": "official",
+  "source": "한국닌텐도 공식 피크민 사이트 원주생물 도감 https://www.nintendo.com/kr/character/pikmin/book/index.html (데이터 https://www.nintendo.com/kr/character/pikmin/assets/data/book.json) (kochappy 「꼬마차피」)",
+  "note": "クロコチャッピー 번역의 바탕. 피크민 2 한국어판은 색을 앞에 붙여 「빨강꼬마차피」(Pikipedia https://www.pikminwiki.com/Dwarf_Bulborb)."
+ },
+ {
+  "ja": "トノサマチャッピー",
+  "en": "Bulblord",
+  "ko": "영주차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 023, 보스). 한국어판 피크민 시리즈·공식 도감에 없음(Pikipedia Bulblord 문서에도 한국어 칸 없음)",
+  "note": "トノサマ(殿様, 영지의 주인)+차피(공식). 다른 안: 「나리차피」(익살)·「대감차피」. 스테이지 「トノサマ討伐」=「영주 토벌」로 맞춤."
+ },
+ {
+  "ja": "ショーグンチャッピー",
+  "en": "Grand Bulblord",
+  "ko": "쇼군차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스",
+  "note": "원문이 가타카나 ショーグン이라 음역. 뜻을 살리려면 「장군차피」. 영주차피보다 윗급임이 보이게 둘 중 하나로."
+ },
+ {
+  "ja": "クロコチャッピー",
+  "en": "Dwarf Black Bulborb",
+  "ko": "검정꼬마차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스. 조어 규칙은 공식 「꼬마차피」+피크민 2 한국어판 「빨강꼬마차피」(색+꼬마차피)",
+  "note": "クロ(검정)+コ(꼬마)+チャッピー. 공식 색 이름이 빨강·노랑·하양처럼 명사형이라 「검정」."
+ },
+ {
+  "ja": "テンテンチャッピー",
+  "en": "Bilious Bulborb",
+  "ko": "땡땡이차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 174)",
+  "note": "テンテン=점점이 찍힌 작은 점. 공식 「점박이」는 デメマダラ에 이미 쓰여 피함. 다른 안: 「잔점차피」."
+ },
+ {
+  "ja": "ガングロチャッピー",
+  "en": "(별명, 석상 174 설명)",
+  "ko": "얼굴까만차피",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용",
+  "note": "ガングロ(얼굴을 까맣게 태운 일본 유행 말)를 풀어 씀. 설명문 속 별명이라 문장에 맞춰 조정 가능."
+ },
+ {
+  "ja": "ワラジムシ科",
+  "en": "Beeb family",
+  "ko": "쥐며느리 과",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 과(Pikipedia Beeb family: 일본어만)",
+  "note": "ワラジムシ=쥐며느리. 아래 ~ワラジ 이름은 모두 「~쥐며느리」로 맞춤."
+ },
+ {
+  "ja": "ザコワラジ",
+  "en": "Creepy Beeb",
+  "ko": "졸개쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 044)",
+  "note": "ザコ(雑魚)=졸개. 스테이지 「ザコの王様」=「졸개들의 왕」과 맞춤."
+ },
+ {
+  "ja": "キングザコワラジ",
+  "en": "King Beeb",
+  "ko": "킹졸개쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스(석상 177)",
+  "note": "キング는 한국닌텐도 관례대로 「킹」(예: 킹 테레사). 길어서 칸 폭 확인 필요, 필요하면 「킹 졸개쥐며느리」로 띄움."
+ },
+ {
+  "ja": "キザミワラジ",
+  "en": "Bladed Beeb / Greater Bladed Beeb",
+  "ko": "칼날쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스(석상 045)",
+  "note": "キザミ(刻み, 썰다·새기다). 영어판은 보스와 석상 이름이 다르지만 일본어는 같아 한국어도 하나로."
+ },
+ {
+  "ja": "サクレワラジ",
+  "en": "Bombardier Beeb",
+  "ko": "작렬쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 046)",
+  "note": "サクレ=炸裂(작렬)."
+ },
+ {
+  "ja": "アバレワラジ",
+  "en": "Greater Studded Beeb",
+  "ko": "난폭쥐며느리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스",
+  "note": "アバレ(暴れ, 날뛰다). 다른 안: 「날뜀쥐며느리」."
+ },
+ {
+  "ja": "オオグチイモガエル",
+  "en": "Large-Mouth Wollywog",
+  "ko": "큰입덩이줄기개구리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스(석상 047). イモガエル=공식 「덩이줄기개구리」(공식 도감)",
+  "note": "9자로 김. 칸이 좁으면 공식 표기를 지키고 줄바꿈으로 해결하길 권함."
+ },
+ {
+  "ja": "カスミガエル科",
+  "en": "Wollywog family",
+  "ko": "안개개구리 과",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 과",
+  "note": "カスミ(霞)=안개."
+ },
+ {
+  "ja": "オオグチカスミガエル",
+  "en": "Translucent Wollywog",
+  "ko": "큰입안개개구리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스",
+  "note": ""
+ },
+ {
+  "ja": "ハサミムカデ科",
+  "en": "Pinchipede family",
+  "ko": "가위지네 과",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 과(Pikipedia Pinchipede family: 일본어만)",
+  "note": "ハサミ=가위, ムカデ=지네."
+ },
+ {
+  "ja": "ダイオウハサミムカデ",
+  "en": "Emperor Pinchipede",
+  "ko": "대왕가위지네",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스(석상 041). ダイオウ=「대왕」은 공식 대응(대왕 툭눈점박이=ダイオウデメマダラ, 공식 도감)",
+  "note": ""
+ },
+ {
+  "ja": "シロクロハサミムカデ",
+  "en": "Monochromatic Pinchipede",
+  "ko": "흑백가위지네",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 보스",
+  "note": "シロクロ=흑백."
+ },
+ {
+  "ja": "ポンプドックリ",
+  "en": "Telescoping Pumphog",
+  "ko": "펌프호롱",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 적(석상 024). ドックリ=「호롱」 공식 대응(풍선호롱 등)",
+  "note": "설명문 속 별명 シュポシュポ는 의성어로 따로 처리."
+ },
+ {
+  "ja": "ムチの実",
+  "en": "Whip Seed",
+  "ko": "채찍 열매",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 아이템(석상 178). 「~の実=~ 열매」는 공식 대응(ツユクサの実=이슬초 열매, Pikipedia https://www.pikminwiki.com/Ultra-spicy_spray)",
+  "note": ""
+ },
+ {
+  "ja": "トンカチの実",
+  "en": "Hammer Seed",
+  "ko": "망치 열매",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 아이템(석상 179)",
+  "note": "トンカチ=망치(구어)."
+ },
+ {
+  "ja": "ゲンコツの実",
+  "en": "Knuckle Seed",
+  "ko": "주먹 열매",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 아이템(석상 180)",
+  "note": "ゲンコツ=주먹. 설명문 「チョキやパー」 말장난은 가위바위보로 살림."
+ },
+ {
+  "ja": "ヒカリダケ",
+  "en": "glowing mushroom",
+  "ko": "빛버섯",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 예문. 한국어판 피크민 시리즈에서 같은 이름 찾지 못함",
+  "note": "ヒカリ(빛)+タケ(버섯)."
+ },
+ {
+  "ja": "気流ジャンパー",
+  "en": "Draft Jumper",
+  "ko": "기류 점퍼",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용(석상 050)",
+  "note": ""
+ },
+ {
+  "ja": "トゲトゲ鉄球",
+  "en": "Spike Ball",
+  "ko": "뾰족뾰족 쇠공",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용(석상 176)",
+  "note": ""
+ },
+ {
+  "ja": "チャッピーのアレ",
+  "en": "Bulborb Dropping",
+  "ko": "차피의 그것",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용(석상 182)",
+  "note": "アレ=「그거/그것」. 영어판 Dropping은 의역이라 따르지 않음."
+ },
+ {
+  "ja": "アメ玉",
+  "en": "candy",
+  "ko": "사탕",
+  "status": "generic",
+  "source": "",
+  "note": ""
+ },
+ {
+  "ja": "ヨロイ",
+  "en": "armor",
+  "ko": "갑옷",
+  "status": "generic",
+  "source": "",
+  "note": "예문 「ヨロイ効果」=갑옷 효과."
+ },
+ {
+  "ja": "アシストブロック",
+  "en": "Assist Block",
+  "ko": "어시스트 블록",
+  "status": "generic",
+  "source": "",
+  "note": ""
+ },
+ {
+  "ja": "ジャンプスイッチ",
+  "en": "Jump Switch",
+  "ko": "점프 스위치",
+  "status": "generic",
+  "source": "",
+  "note": "석상 049."
+ },
+ {
+  "ja": "小岩",
+  "en": "Rock",
+  "ko": "작은 바위",
+  "status": "generic",
+  "source": "",
+  "note": "석상 175."
+ },
+ {
+  "ja": "ロケット",
+  "en": "rocket",
+  "ko": "로켓",
+  "status": "generic",
+  "source": "",
+  "note": ""
+ },
+ {
+  "ja": "キノコ",
+  "en": "mushroom",
+  "ko": "버섯",
+  "status": "generic",
+  "source": "",
+  "note": ""
+ },
+ {
+  "ja": "ザコ",
+  "en": "small fry",
+  "ko": "졸개",
+  "status": "generic",
+  "source": "",
+  "note": "ザコの王様=졸개들의 왕."
+ },
+ {
+  "ja": "タイムリミットチャレンジ",
+  "en": "Timed Challenge",
+  "ko": "타임 리밋 챌린지",
+  "status": "generic",
+  "source": "",
+  "note": ""
+ },
+ {
+  "ja": "エクストラチャレンジ",
+  "en": "Extra Challenge",
+  "ko": "엑스트라 챌린지",
+  "status": "generic",
+  "source": "",
+  "note": ""
+ },
+ {
+  "ja": "マスタークリア",
+  "en": "Master completion",
+  "ko": "마스터 클리어",
+  "status": "generic",
+  "source": "",
+  "note": ""
+ },
+ {
+  "ja": "陶器の鉢植え",
+  "en": "Verdant Silo",
+  "ko": "도자기 화분",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 025."
+ },
+ {
+  "ja": "キノコ親子",
+  "en": "Fungiform Family",
+  "ko": "버섯 가족",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 026. 親子(부모와 자식). 다른 안: 「엄마와 아기 버섯」."
+ },
+ {
+  "ja": "ねじれ木",
+  "en": "Spiral Timber",
+  "ko": "뒤틀린 나무",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 027."
+ },
+ {
+  "ja": "鉄瓶の鉢植え",
+  "en": "Herbaceous Kettle",
+  "ko": "무쇠 주전자 화분",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 028. 鉄瓶=무쇠 주전자. 설명문 カンヨウ 말장난은 따로."
+ },
+ {
+  "ja": "いつか花咲く蕾",
+  "en": "Verging Bloom",
+  "ko": "언젠가 꽃필 봉오리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 029."
+ },
+ {
+  "ja": "ヤシの木",
+  "en": "Fronded Stump",
+  "ko": "야자나무",
+  "status": "generic",
+  "source": "",
+  "note": "석상 030. 일반 낱말."
+ },
+ {
+  "ja": "布袋の鉢植え",
+  "en": "Vegetal Pouch",
+  "ko": "천 자루 화분",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 031. 布袋(천 주머니), 설명에 麻袋(삼베 자루)."
+ },
+ {
+  "ja": "ゼンマイ",
+  "en": "Sinuated Flora",
+  "ko": "고비",
+  "status": "generic",
+  "source": "",
+  "note": "석상 032. ゼンマイ=식물 고비(고사리류). 설명문 ドンマイ 말장난은 따로."
+ },
+ {
+  "ja": "秋の味覚",
+  "en": "Bulbous Sporehaven",
+  "ko": "가을의 미각",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 033. 원문 그대로. 자연스러움을 원하면 「가을 별미」."
+ },
+ {
+  "ja": "雪の鉢植え",
+  "en": "Hyperborean Verdant Silo",
+  "ko": "눈 화분",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 034. 눈사람 모양 화분."
+ },
+ {
+  "ja": "コオリキノコ",
+  "en": "Glacial Fungicap",
+  "ko": "얼음버섯",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 035. コオリ=「얼음」은 공식 얼음피크민 대응."
+ },
+ {
+  "ja": "モミの木",
+  "en": "Angular Sapling",
+  "ko": "전나무",
+  "status": "generic",
+  "source": "",
+  "note": "석상 036. 일반 낱말."
+ },
+ {
+  "ja": "ずっしりブロック",
+  "en": "Abundant Mass",
+  "ko": "묵직한 블록",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 037."
+ },
+ {
+  "ja": "ピクミンキボリ",
+  "en": "Carved Pikmin",
+  "ko": "피크민 목각",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 038. キボリ=木彫り."
+ },
+ {
+  "ja": "しましま針葉樹",
+  "en": "Striped Conifer",
+  "ko": "줄무늬 침엽수",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 석상 이름(한국어판 피크민 보물 목록에 없음)",
+  "note": "석상 039."
+ },
+ {
+  "ja": "1. 大衆闘技場",
+  "en": "1. Starter's Arena",
+  "ko": "1. 대중 투기장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "2. 強者闘技場",
+  "en": "2. Warrior's Arena",
+  "ko": "2. 강자 투기장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "3. 英雄闘技場",
+  "en": "3. Hero's Arena",
+  "ko": "3. 영웅 투기장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "1. チャッピーの森",
+  "en": "1. Bulborb Forest",
+  "ko": "1. 차피의 숲",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "차피=공식."
+ },
+ {
+  "ja": "2. ザコの王様をやっつけろ",
+  "en": "2. Boss of the Beebs",
+  "ko": "2. 졸개들의 왕을 물리쳐라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "ザコ=졸개(졸개쥐며느리와 맞춤)."
+ },
+ {
+  "ja": "3. ロケット発射5秒前",
+  "en": "3. Five Seconds to Takeoff",
+  "ko": "3. 로켓 발사 5초 전",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "4. トノサマ討伐",
+  "en": "4. Overthrow the Bulblord",
+  "ko": "4. 영주 토벌",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "영주차피와 맞춤."
+ },
+ {
+  "ja": "5. 砲台破壊指令",
+  "en": "5. Cannon Smash",
+  "ko": "5. 포대 파괴 지령",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "6. ザコの王様 再び",
+  "en": "6. King Beeb is Back",
+  "ko": "6. 졸개들의 왕 다시",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "7. 闇を駆け抜けろ　",
+  "en": "7. Through the Darkness",
+  "ko": "7. 어둠을 뚫고 달려라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "원문 끝 전각 공백은 원문대로 처리."
+ },
+ {
+  "ja": "8. 沼のヌシ 現る",
+  "en": "8. Swamp Master",
+  "ko": "8. 늪의 터줏대감 나타나다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "ヌシ=터줏대감(공식 「터줏개구리」의 터줏과 같은 결)."
+ },
+ {
+  "ja": "9. 枯れた大地のオサ",
+  "en": "9. Lord of a Barren Land",
+  "ko": "9. 메마른 대지의 우두머리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "オサ(長)=우두머리."
+ },
+ {
+  "ja": "10. 巨大風船を割れ",
+  "en": "10. Burst the Giant Balloon",
+  "ko": "10. 거대 풍선을 터뜨려라",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "11. 裏庭の脱出ルート",
+  "en": "11. Back-Garden Escape",
+  "ko": "11. 뒤뜰의 탈출 경로",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "12. 忘却の地に光る眼",
+  "en": "12. Shining Eyes",
+  "ko": "12. 망각의 땅에 빛나는 눈",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "13. 極寒の闘技場",
+  "en": "13. Icy Arena",
+  "ko": "13. 혹한의 투기장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "14. 暗闇からの脱出",
+  "en": "14. Out of the Darkness",
+  "ko": "14. 암흑에서의 탈출",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "7번(闇=어둠)과 구별해 暗闇=암흑."
+ },
+ {
+  "ja": "15. チャッピーの浴場",
+  "en": "15. Bulborb Baths",
+  "ko": "15. 차피의 목욕탕",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "16. 巨大カマのまな板",
+  "en": "16. The Chopping Block",
+  "ko": "16. 거대 낫의 도마",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "カマ=낫."
+ },
+ {
+  "ja": "17. 緑の脅威",
+  "en": "17. The Green Menace",
+  "ko": "17. 초록의 위협",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "18. 走れ 力の限り",
+  "en": "18. Desperate Dash",
+  "ko": "18. 달려라 힘닿는 데까지",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "19. 暴君参上",
+  "en": "19. The Tyrant Arrives",
+  "ko": "19. 폭군 등장",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "参上=등장. 익살을 살리려면 「폭군 납시오」."
+ },
+ {
+  "ja": "20. 金網デスマッチの先に…",
+  "en": "20. Cage of Terror",
+  "ko": "20. 철망 데스매치 너머에…",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": ""
+ },
+ {
+  "ja": "21. 限・界・突・破",
+  "en": "21. Breaking Boundaries",
+  "ko": "21. 한・계・돌・파",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "가운뎃점 원문대로."
+ },
+ {
+  "ja": "22. さよなら ピクミン",
+  "en": "22. Good-Bye, Pikmin",
+  "ko": "22. 잘 있어 피크민",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스테이지 이름(StageNamePkm.msbt)",
+  "note": "さよなら=작별. 「안녕 피크민」은 만날 때 인사와 헷갈릴 수 있음."
+ },
+ {
+  "ja": "チャレンジ",
+  "en": "Challenge",
+  "ko": "챌린지",
+  "status": "generic",
+  "source": "",
+  "note": ""
+ },
+ {
+  "ja": "トノサマチャッピーの目玉を壊して退治した",
+  "en": "Eyes of the Bulblord",
+  "ko": "영주차피의 눈알을 부숴서 물리쳤다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "サポートMiiをアウトさせずにクリア",
+  "en": "AI Mii Protector",
+  "ko": "서포트 Mii를 아웃시키지 않고 클리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "初マスタークリア",
+  "en": "First Mastery",
+  "ko": "첫 마스터 클리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "全チャレンジクリア",
+  "en": "Great Explorer",
+  "ko": "모든 챌린지 클리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "全チャレンジマスタークリア",
+  "en": "Master Explorer",
+  "ko": "모든 챌린지 마스터 클리어",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "Miiピクミンに たくさんアメ玉を落とさせた",
+  "en": "Candy from a Pikmin",
+  "ko": "Mii 피크민이 사탕을 잔뜩 떨어뜨리게 했다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "オリマーを たくさん叩いた",
+  "en": "Clobber Olimar",
+  "ko": "올리마를 잔뜩 때렸다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "対戦相手に岩を5回当てた",
+  "en": "Rock Your Foes x5",
+  "ko": "상대에게 바위를 5번 맞혔다",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "大逆転",
+  "en": "Incredible Comeback",
+  "ko": "대역전",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "対戦相手を攻撃せずに勝利",
+  "en": "Pacifist Victory",
+  "ko": "상대를 공격하지 않고 승리",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용 스탬프(StampNamePkm)",
+  "note": "올리마·피크민·차피 부분만 공식 표기."
+ },
+ {
+  "ja": "モニータ",
+  "en": "Monita",
+  "ko": "모니타",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 안내 로봇. 한국 미발매. 스매시브라더스 SPECIAL에 스피릿으로 나오지만 한국어판 표기는 확인 못 함",
+  "note": "장음 생략(한국닌텐도 관례). 피크민 용어는 아니지만 대사에 나와 넣음. 다른 조사와 맞출 것."
+ },
+ {
+  "ja": "ダークモニータ",
+  "en": "Dark Monita",
+  "ko": "다크 모니타",
+  "status": "unofficial",
+  "source": "닌텐도 랜드 전용",
+  "note": ""
+ }
+]
