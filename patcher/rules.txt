@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010101F00
+name = Korean Translation
+path = "Nintendo Land/Mods/Korean Translation"
+description = 닌텐도 랜드 한글 패치
+version = 7

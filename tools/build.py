@@ -14,6 +14,7 @@ sys.path.insert(0, os.path.dirname(__file__)); sys.stdout.reconfigure(encoding='
 import numpy as np
 from nlib import *
 import build_test as bt
+import nl_apply
 import bffnt_tool as bf, font_atlas as fa, nl_font as nf
 
 ROOT = nf.ROOT
@@ -42,9 +43,8 @@ def final_texts():
 def build_messages(tl):
     by = {(r['file'], r['idx']): r for r in tl}
     raw = yaz0_decompress(open(os.path.join(UPD, 'content/JpJapanese/Message/AllMessage.szs'), 'rb').read())
-    outer = {}; n_ko = 0
+    rep = {}; n_ko = 0
     for on, ob, _ in sarc_read(raw)[1]:
-        inner = {}
         for x, bb, _ in sarc_read(ob)[1]:
             key_file = on[:-5] + '/' + x
             m = msbt_read(bb); texts = list(m['texts']); ch = False
@@ -53,16 +53,15 @@ def build_messages(tl):
                 if r and not r.get('skip') and r.get('ko'):
                     texts[i] = str_to_msbt(r['ko'], m['endian']); ch = True; n_ko += 1
             if ch:
-                inner[x] = msbt_write(m, texts)
-        outer[on] = bt.repack(ob, inner)
-    new = bt.repack(raw, outer)
+                rep[on + '/' + x] = msbt_write(m, texts)
+    new = yaz0_decompress(nl_apply.apply_msg(open(os.path.join(UPD, 'content/JpJapanese/Message/AllMessage.szs'), 'rb').read(), rep))
     # 검증: 번역 줄만 바뀌었는지
     A = {(on, x): msbt_read(bb)['texts'] for on, ob, _ in sarc_read(raw)[1] for x, bb, _ in sarc_read(ob)[1]}
     B = {(on, x): msbt_read(bb)['texts'] for on, ob, _ in sarc_read(new)[1] for x, bb, _ in sarc_read(ob)[1]}
     assert A.keys() == B.keys()
     changed = sum(1 for k in A for a, b in zip(A[k], B[k]) if a != b)
-    print('메시지: 번역 넣은 줄 %d, 실제 바뀐 줄 %d' % (n_ko, changed))
-    return new
+    print('메시지: 번역 넣은 줄 %d, 실제 바뀐 줄 %d, 바뀐 msbt %d개' % (n_ko, changed, len(rep)))
+    return rep
 
 
 # ---------------------------------------------------------------- 폰트
@@ -119,7 +118,7 @@ def build_fonts(tl):
               % (name, len(f0.charmap), st['kept'], st['hangul'], st['kept'] + st['hangul'], st['orig_sheets'], st['sheets'], len(b) / 1e6, len(data) / 1e6, bad, len(miss), blank))
         assert bad == 0 and not miss and blank == 0
         rep[n] = data
-    return bt.repack(raw, rep)
+    return rep
 
 
 # ---------------------------------------------------------------- 그림
@@ -130,26 +129,51 @@ def build_pack(top, rel, manifest):
     for m in items:
         parts = m['path'].split('//')          # pack // szs // arc // timg/x.bflim
         by_szs.setdefault(parts[1], {}).setdefault(parts[2], {})[parts[3]] = open(os.path.join(ROOT, m['file']), 'rb').read()
-    rep = {}
-    for szs, arcs in by_szs.items():
-        sz_raw = {n: b for n, b, _ in sarc_read(raw)[1]}[szs]
-        d = yaz0_decompress(sz_raw)
-        arc_rep = {}
-        for arc, files in arcs.items():
-            ab = {n: b for n, b, _ in sarc_read(d)[1]}[arc]
-            arc_rep[arc] = sarc_patch_same_size(ab, files)
-        nd = sarc_patch_same_size(d, arc_rep)          # .arc 도 길이 같음 → 제자리
-        # 원본 헤더 정렬값(0x2000 등)을 그대로 — 0 이면 실기 부팅 오류(KR3·KR5·KR6 시험, 11/06)
-        rep[szs] = yaz0_compress_best(nd, 256, align=yaz0_align(sz_raw))
-        assert yaz0_decompress(rep[szs]) == nd and rep[szs][8:16] == sz_raw[8:16]
-        print('그림: %s 안 %d장 교체, %s 다시 압축 %d→%d' % (rel.split('/')[-1], sum(len(v) for v in arcs.values()), szs.split('/')[-1], len(sz_raw), len(rep[szs])))
-    new = bt.repack(raw, rep)
-    # 검증: 바꾼 szs 외에는 바이트 같음
+    new = nl_apply.apply_pack(raw, by_szs)
+    # 검증: 바꾼 szs 외에는 바이트 같고, 바뀐 szs 는 헤더(정렬값)가 원본과 같음
     A = {n: b for n, b, _ in sarc_read(raw)[1]}; B = {n: b for n, b, _ in sarc_read(new)[1]}
     assert A.keys() == B.keys()
     diff = [n for n in A if A[n] != B[n]]
-    assert sorted(diff) == sorted(rep), diff
-    return new
+    assert sorted(diff) == sorted(by_szs), diff
+    for n in diff:
+        assert B[n][8:16] == A[n][8:16], n
+        print('그림: %s 안 %s %d장 교체, 다시 압축 %d→%d' % (rel.split('/')[-1], n.split('/')[-1], sum(len(v) for v in by_szs[n].values()), len(A[n]), len(B[n])))
+    return new, by_szs
+
+
+# 바깥 파일: 결과 경로(content 기준) / 원본이 본편(game)·업데이트(update) 중 어디 / 원본 경로 / 적용 방식
+TARGETS = [dict(out='content/JpJapanese/Message/AllMessage.szs', src='content/JpJapanese/Message/AllMessage.szs', **{'from': 'update'}, kind='msg'),
+           dict(out='content/JpJapanese/Layout/Font.szs', src='content/JpJapanese/Layout/Font.szs', **{'from': 'update'}, kind='font'),
+           dict(out='content/Common/Package/Nzm_Cmn.pack', src='content/Common/Package/Nzm_Cmn.pack', **{'from': 'game'}, kind='pack'),
+           dict(out='content/Common/Package/Static2.pack', src='content/Common/Package/Static2.pack', **{'from': 'update'}, kind='pack')]
+
+
+def flat(rep):
+    """교체 목록을 (경로 키, 바이트) 목록으로. 그림 묶음은 'szs//arc//timg' 키"""
+    out = []
+    for k, v in sorted(rep.items()):
+        if isinstance(v, dict):
+            out += [(k + '//' + k2, v2) for k2, v2 in flat(v)]
+        else:
+            out.append((k, v))
+    return out
+
+
+def save_payload(root, ver, src, files, reps):
+    """배포 패처용: 바뀐 안쪽 파일만(원본 게임 파일 통째는 담지 않음) + 원본·결과 SHA-1"""
+    if os.path.isdir(root):
+        shutil.rmtree(root)
+    os.makedirs(root)
+    man = dict(version=ver, title_id='0005000010101F00', targets=[])
+    for i, t in enumerate(TARGETS):
+        idx, off = [], 0
+        with open(os.path.join(root, 't%d.bin' % i), 'wb') as f:
+            for k, b in flat(reps[t['out']]):
+                f.write(b); idx.append([k, off, len(b)]); off += len(b)
+        man['targets'].append(dict(t, part='t%d' % i, entries=idx, src_size=len(src[t['out']]), src_sha1=hashlib.sha1(src[t['out']]).hexdigest(),
+                                   out_size=len(files[t['out']]), out_sha1=hashlib.sha1(files[t['out']]).hexdigest()))
+        print('패치 데이터 %-40s 안쪽 %3d개 %.2fMB' % (t['out'].split('/')[-1], len(idx), off / 1e6))
+    json.dump(man, open(os.path.join(root, 'manifest.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
 
 def main():
@@ -158,13 +182,21 @@ def main():
     t0 = time.time()
     tl, _ = final_texts()
     manifest = json.load(open(os.path.join(ROOT, 'work', 'gfx_out', 'manifest.json'), encoding='utf-8'))
-    al = lambda rel: yaz0_align(open(os.path.join(UPD, rel), 'rb').read(16))
+    src = {t['out']: open(os.path.join(GAME if t['from'] == 'game' else UPD, t['src']), 'rb').read() for t in TARGETS}
+    msg_rep = build_messages(tl); font_rep = build_fonts(tl)
+    nzm, nzm_rep = build_pack(GAME, 'content/Common/Package/Nzm_Cmn.pack', manifest)
+    st2, st2_rep = build_pack(UPD, 'content/Common/Package/Static2.pack', manifest)
     files = {
-        'content/JpJapanese/Message/AllMessage.szs': yaz0_compress(build_messages(tl), align=al('content/JpJapanese/Message/AllMessage.szs')),
-        'content/JpJapanese/Layout/Font.szs': yaz0_compress(build_fonts(tl), align=al('content/JpJapanese/Layout/Font.szs')),
-        'content/Common/Package/Nzm_Cmn.pack': build_pack(GAME, 'content/Common/Package/Nzm_Cmn.pack', manifest),
-        'content/Common/Package/Static2.pack': build_pack(UPD, 'content/Common/Package/Static2.pack', manifest),
+        'content/JpJapanese/Message/AllMessage.szs': nl_apply.apply_msg(src['content/JpJapanese/Message/AllMessage.szs'], msg_rep),
+        'content/JpJapanese/Layout/Font.szs': nl_apply.apply_font(src['content/JpJapanese/Layout/Font.szs'], font_rep),
+        'content/Common/Package/Nzm_Cmn.pack': nzm,
+        'content/Common/Package/Static2.pack': st2,
     }
+    for rel, data in files.items():
+        if data[:4] == b'Yaz0':
+            assert data[8:16] == src[rel][8:16], rel        # 압축 헤더 정렬값 = 원본
+    reps = {'content/JpJapanese/Message/AllMessage.szs': msg_rep, 'content/JpJapanese/Layout/Font.szs': font_rep,
+            'content/Common/Package/Nzm_Cmn.pack': nzm_rep, 'content/Common/Package/Static2.pack': st2_rep}
     for k in ('content/JpJapanese/Message/AllMessage.szs', 'content/JpJapanese/Layout/Font.szs'):
         assert sarc_read(yaz0_decompress(files[k]))   # 풀리는지
     out_root = os.path.join(ROOT, 'work', 'build', ver, 'sdcafiine', '0005000010101F00', 'NintendoLandKR')
@@ -176,6 +208,7 @@ def main():
         md5[rel] = hashlib.md5(data).hexdigest()
         print('%-46s %10d바이트 md5 %s' % (rel, len(data), md5[rel]))
     json.dump(md5, open(os.path.join(ROOT, 'work', 'build', ver, 'md5.json'), 'w'), indent=1)
+    save_payload(os.path.join(ROOT, 'work', 'build', ver, 'payload'), ver, src, files, reps)
     print('빌드 %s 끝 (%.0f초) → %s' % (ver, time.time() - t0, out_root))
     if sd:
         dst = os.path.join(sd + os.sep, 'wiiu', 'sdcafiine', '0005000010101F00', 'NintendoLandKR')

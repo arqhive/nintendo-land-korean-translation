@@ -16,3 +16,7 @@ work/glossary/terms_*.json
 work/tl/
 tools/fonts/
 work/speaker/
+work/review/
+work/gfx_out_fullcolor/
+work/release/
+docs/translation_decisions.md
