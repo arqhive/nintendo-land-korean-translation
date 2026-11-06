@@ -115,6 +115,19 @@ def waza_channels(fill_png):
     return out
 
 
+POSTER_BITS = 8   # 8 = 색 그대로(투명 칸 색만 0). 5비트로 줄였던 건 크기 의심 때문 — 실기 KR8(색 그대로)도 정상이라 되돌림(11/06)
+
+
+def posterize(rgba, bits):
+    """색 채널을 bits 단계로(평균 색 차이 1~2) + 완전 투명 칸 색은 0. GPT 그림의 미세 잡음 때문에
+    Yaz0 압축이 원본보다 70%까지 커져 부팅 때 읽는 Static2.pack 이 원본보다 커짐 → 실기 오류(KR3 시험으로 확인)."""
+    q = 8 - bits; b = rgba.copy()
+    c = b[..., :3] >> q
+    b[..., :3] = (c << q) | (c << q >> bits)
+    b[b[..., 3] == 0, :3] = 0
+    return b
+
+
 def fill_holes(rgba):
     """로고 안쪽에 갇힌 투명 구멍(GPT 결과에 생김, 원본엔 없음)을 둘레 색(흰 테두리판) 중앙값으로 메움."""
     a = rgba[..., 3] > 128
@@ -185,6 +198,8 @@ def main():
     manifest = []
     for name, path, img in jobs:
         orig, top = leaf(path)
+        if name.startswith('Te_'):
+            img = posterize(img, POSTER_BITS)   # Static2.pack 크기를 원본 이하로(v0.1 실기 오류, 11/06)
         new = build_flim(orig, img)
         back = decode_flim(new); want = img
         i = texdec.flim_info(orig)

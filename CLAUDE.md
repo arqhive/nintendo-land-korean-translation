@@ -5,7 +5,17 @@
   - `work/font_calib.json`: Msg 43/**Regular**(사용자 결정), M 50/ExtraBold, L 114/ExtraBold(M과 맞춤), Ruby 21/Regular. 이전 Noto 값은 `work/font_calib_noto.json`
   - `font_render.FONT_PATH` 가 {400: Regular, 800: ExtraBold} 사전이면 가까운 굵기 파일을 씀(nl_font 에서 설정)
   - 한글은 번역에 쓰인 870자 — 창을 못 찾은 줄(291)이 있어 빌드 때 네 폰트(Msg·M·L·Ruby)에 모두 넣는 게 안전
-- **8단계 첫 전체 빌드 v0.1(11/06) → SD 복사·MD5 일치, 실기 확인 대기**
+- **진짜 원인(11/06): 내 Yaz0 헤더 8~11바이트 정렬값을 0으로 씀** — 원본은 0x2000/0x100. KR5(크기 맞춤)·KR6(원본 내용 재압축)도 오류였던 이유. `yaz0_compress(..., align=)` 로 원본 값 복사하게 고침 → v0.3
+  - **실기 KR7·KR8 모두 정상(11/06)** → 크기 제한 없음, 원인은 헤더 정렬값뿐. 로고 색 줄이기 끔(`POSTER_BITS = 8`, 투명 칸 색만 0)
+  - **정식 빌드 v0.3 = KR8_v0.3_FullColor 와 4개 파일 MD5 같음**(`work/build/v0.3/`). **SD 정리(11/06): 게임 폴더엔 `NintendoLandKR`(v0.3) 하나만**, 시험 묶음 KR1~8·v0.1 은 `D:\wiiu\_sdcafiine_hold\0005000010101F00\`
+  - 번역 검토 페이지 `python -I tools/review_page.py` → `work/review/번역본.html`(git 제외, 어트랙션별·검색·id 찾기)
+  - **규칙: Yaz0 재압축은 원본 헤더 정렬값을 그대로(`align=yaz0_align(원본)`)**. 빌드 결과 헤더 8~15 바이트가 원본과 같은지 확인
+- 원인 1차 판단: Static2.pack(로고 묶음) — KR1·KR2 정상, KR3(로고)만 부팅 오류(11/06 실기)
+  - (헛짚음) v0.2: 크기 탓으로 보고 로고 색 5비트로 줄여 원본 크기에 맞춤 → KR5 오류, 원본 내용 재압축만 한 KR6 도 오류 → 크기가 아님
+- v0.1 실기에서 「An error has occurred」(11/06)
+  - 원본보다 커진 건 Static2.pack(+150KB, 로고 szs 재압축이 약해서)뿐 → 촘촘한 압축 `yaz0_compress_best`(지연 매칭·체인 256)로 v0.1b(+79KB)
+  - 시험 묶음 4개를 SD `D:\wiiu\sdcafiine\0005000010101F00\` 에 넣음(실행 때 고르는 화면): KR1_TextOnly / KR2_Text_Ninja / KR3_Text_Logo / KR4_Full (`work/build/bisect/`). 에러 난 v0.1 은 `D:\wiiu\_sdcafiine_hold\0005000010101F00\NintendoLandKR_v0.1` 로 옮김
+- 8단계 첫 전체 빌드 v0.1(11/06)
   - `python -I tools/build.py v0.1 [--sd D:]` → `work/build/v0.1/sdcafiine/0005000010101F00/NintendoLandKR/content/` 4개(AllMessage.szs·Font.szs 는 업데이트판 기준, Nzm_Cmn.pack 은 본편, Static2.pack 은 업데이트판), md5 `work/build/v0.1/md5.json`, 약 20초
   - 메시지 2,660줄 넣음(원문과 같은 233줄 빼고 2,427줄 실제 변경), 폰트: Msg 1,211자(시트 4→3)·M 1,143자(3→4)·Ruby 1,183자(1)·L 420자(6→7, L 창·창 못 찾은 줄 글자만)
   - 폰트 글자: 번역문 전체 글자 + 영숫자·가나(일본어 Mii 이름 대비)·아이콘 글자, 원본 글자 모양 어긋남 0. M 폰트엔 「·」가 없어 「・」 그림에 연결(ALIAS)

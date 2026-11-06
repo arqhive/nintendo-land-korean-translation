@@ -2,6 +2,11 @@
 import struct
 
 
+def yaz0_align(data: bytes) -> int:
+    """원본 Yaz0 헤더의 정렬값(바이트 8~11)"""
+    return struct.unpack('>I', data[8:12])[0] if data[:4] == b'Yaz0' else 0
+
+
 def yaz0_decompress(data: bytes) -> bytes:
     assert data[:4] == b'Yaz0', data[:4]
     size = struct.unpack('>I', data[4:8])[0]
@@ -183,10 +188,11 @@ def msbt_write(m, texts=None):
     return bytes(hdr) + bytes(out)
 
 
-def yaz0_compress(data: bytes, chain=24) -> bytes:
-    """탐욕 LZ77(3바이트 해시 체인). 출력은 표준 Yaz0(정렬 0)."""
+def yaz0_compress(data: bytes, chain=24, align=0) -> bytes:
+    """탐욕 LZ77(3바이트 해시 체인). align = 헤더 8~11 바이트 정렬값.
+    Wii U 는 원본 szs 의 값을 그대로 써야 한다(0 이면 그림 묶음에서 실기 오류, 2026-11-06)."""
     n = len(data)
-    out = bytearray(b'Yaz0' + struct.pack('>I', n) + b'\0' * 8)
+    out = bytearray(b'Yaz0' + struct.pack('>II', n, align) + b'\0' * 4)
     heads = {}
     src = 0
     mv = memoryview(data)
@@ -267,4 +273,63 @@ def sarc_patch_same_size(data: bytes, rep: dict) -> bytes:
         s, en = struct.unpack(e + 'II', data[p + i * 16 + 8:p + i * 16 + 16])
         assert en - s == len(v), (k, en - s, len(v))
         out[info['data_off'] + s:info['data_off'] + en] = v
+    return bytes(out)
+
+
+def yaz0_compress_best(data: bytes, chain=128, align=0) -> bytes:
+    """닌텐도 압축에 가깝게: 해시 체인을 더 길게 보고, 다음 위치가 더 긴 일치를 주면 한 글자 미루는 지연 매칭."""
+    n = len(data); mv = memoryview(data)
+    heads = {}
+
+    def insert(q):
+        if q + 3 <= n:
+            heads.setdefault(bytes(mv[q:q + 3]), []).append(q)
+
+    def find(src):
+        if src + 3 > n:
+            return 0, 0
+        cand = heads.get(bytes(mv[src:src + 3]))
+        if not cand:
+            return 0, 0
+        maxl = min(0x111, n - src); bl = bd = 0
+        for p in reversed(cand[-chain:]):
+            d = src - p
+            if d > 0x1000:
+                break
+            l = 3
+            while l < maxl and data[p + l] == data[src + l]:
+                l += 1
+            if l > bl:
+                bl, bd = l, d
+                if l == maxl:
+                    break
+        return bl, bd
+
+    out = bytearray(b'Yaz0' + struct.pack('>II', n, align) + b'\0' * 4)
+    src = 0
+    while src < n:
+        code_pos = len(out); out.append(0); code = 0
+        for bit in range(8):
+            if src >= n:
+                break
+            l, d = find(src)
+            if l >= 3 and src + 1 < n:
+                insert(src)
+                l2, d2 = find(src + 1)
+                if l2 > l + 1:                     # 한 글자 미루는 게 이득
+                    code |= 0x80 >> bit; out.append(data[src]); src += 1
+                    continue
+                heads[bytes(mv[src:src + 3])].pop()   # 아래에서 다시 넣음
+            if l >= 3:
+                dd = d - 1
+                if l >= 0x12:
+                    out += bytes([dd >> 8, dd & 0xFF, l - 0x12])
+                else:
+                    out += bytes([((l - 2) << 4) | (dd >> 8), dd & 0xFF])
+                for k in range(l):
+                    insert(src + k)
+                src += l
+            else:
+                code |= 0x80 >> bit; out.append(data[src]); insert(src); src += 1
+        out[code_pos] = code
     return bytes(out)

@@ -139,8 +139,9 @@ def build_pack(top, rel, manifest):
             ab = {n: b for n, b, _ in sarc_read(d)[1]}[arc]
             arc_rep[arc] = sarc_patch_same_size(ab, files)
         nd = sarc_patch_same_size(d, arc_rep)          # .arc 도 길이 같음 → 제자리
-        rep[szs] = yaz0_compress(nd)
-        assert yaz0_decompress(rep[szs]) == nd
+        # 원본 헤더 정렬값(0x2000 등)을 그대로 — 0 이면 실기 부팅 오류(KR3·KR5·KR6 시험, 11/06)
+        rep[szs] = yaz0_compress_best(nd, 256, align=yaz0_align(sz_raw))
+        assert yaz0_decompress(rep[szs]) == nd and rep[szs][8:16] == sz_raw[8:16]
         print('그림: %s 안 %d장 교체, %s 다시 압축 %d→%d' % (rel.split('/')[-1], sum(len(v) for v in arcs.values()), szs.split('/')[-1], len(sz_raw), len(rep[szs])))
     new = bt.repack(raw, rep)
     # 검증: 바꾼 szs 외에는 바이트 같음
@@ -157,9 +158,10 @@ def main():
     t0 = time.time()
     tl, _ = final_texts()
     manifest = json.load(open(os.path.join(ROOT, 'work', 'gfx_out', 'manifest.json'), encoding='utf-8'))
+    al = lambda rel: yaz0_align(open(os.path.join(UPD, rel), 'rb').read(16))
     files = {
-        'content/JpJapanese/Message/AllMessage.szs': yaz0_compress(build_messages(tl)),
-        'content/JpJapanese/Layout/Font.szs': yaz0_compress(build_fonts(tl)),
+        'content/JpJapanese/Message/AllMessage.szs': yaz0_compress(build_messages(tl), align=al('content/JpJapanese/Message/AllMessage.szs')),
+        'content/JpJapanese/Layout/Font.szs': yaz0_compress(build_fonts(tl), align=al('content/JpJapanese/Layout/Font.szs')),
         'content/Common/Package/Nzm_Cmn.pack': build_pack(GAME, 'content/Common/Package/Nzm_Cmn.pack', manifest),
         'content/Common/Package/Static2.pack': build_pack(UPD, 'content/Common/Package/Static2.pack', manifest),
     }
