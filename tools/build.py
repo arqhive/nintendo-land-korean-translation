@@ -29,6 +29,15 @@ BASE_CHARS = (''.join(chr(c) for c in range(0x20, 0x7F)) + ''.join(chr(c) for c 
 
 def final_texts():
     tl = json.load(open(os.path.join(ROOT, 'translation', 'messages.json'), encoding='utf-8'))
+    # 번역문은 translation/ko/*.json 이 기준(사람이 직접 고치는 곳). messages.json 의 ko 를 덮어쓴다.
+    kodir = os.path.join(ROOT, 'translation', 'ko')
+    by_id = {r['id']: r for r in tl}; n_over = 0
+    for x in sorted(os.listdir(kodir)):
+        if x.endswith('.json'):
+            for e in json.load(open(os.path.join(kodir, x), encoding='utf-8')):
+                if by_id[e['id']].get('ko') != e['ko']:
+                    by_id[e['id']]['ko'] = e['ko']; n_over += 1
+    print('translation/ko 에서 바뀐 번역 %d줄 반영' % n_over)
     out = {}
     for r in tl:
         k = r['file'] + '|' + (r['label'] or str(r['idx']))
