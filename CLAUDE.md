@@ -2,10 +2,12 @@
 
 ## 현재 단계
 - **v0.1 비공개 릴리즈(2026-11-06)**: https://github.com/arqhive/nintendo-land-korean-translation (private, main, 태그 v0.1), 첨부 `ALCJ_KPatch_v0.1.zip`(12.8MB)·`README_KO.txt`
-  - 릴리즈 v0.1 = 내부 v0.3 + 모니타 대사 10줄 수정(메시지만 다름). SD 에는 아직 v0.3 이 들어 있음
+  - 릴리즈 v0.1 = 내부 v0.3 + 모니타 대사 10줄 수정(메시지만 다름). **SD `NintendoLandKR` 에 v0.1 넣음(11/06, MD5 일치)**
   - 릴리즈 절차: `python -I tools/build.py <버전>` → `python -I tools/make_patcher.py <버전>`(내장 파이썬은 환영이문록 work/python_embed) → CHANGELOG·README 버전 → 커밋·태그·`gh release create`
   - 패처: `patcher/patch.py` + 공용 `tools/nl_apply.py`(빌드와 같은 코드라 결과 동일, 패처가 결과 SHA-1 확인). 패치 데이터 = 바뀐 MSBT 262·BFFNT 4·BFLIM 11 만(10.2MB)
   - 원문 대조 문서(docs/translation_decisions.md)는 추적 제외
+- **숫자 폰트 G0·G1 단위 글자(11/16 사용자): 안동 엄마까투리체**(`tools/fonts/AndongKaturi.ttf`, 출처 표시 조건, licenses/AndongKaturi.txt). 실기에서 닌자성 연속 횟수 「회」가 「?」로 나와 추가, 원본 글자 전부 유지 + UnitName·Rank·Format 한글만.
+- **번역문 기준 파일 = `translation/ko/*.json`**(사용자가 직접 고침, 11/16). build.py 가 읽을 때 messages.json 의 ko 를 이것으로 덮는다.
 - **한글 글꼴 확정(11/06 사용자): 티머니 둥근바람**(noonnu 458, PC 사용자 글꼴 폴더 설치본 → `tools/fonts/` 복사, git 제외·재배포 금지, 임베딩 허용)
   - `work/font_calib.json`: Msg 43/**Regular**(사용자 결정), M 50/ExtraBold, L 114/ExtraBold(M과 맞춤), Ruby 21/Regular. 이전 Noto 값은 `work/font_calib_noto.json`
   - `font_render.FONT_PATH` 가 {400: Regular, 800: ExtraBold} 사전이면 가까운 굵기 파일을 씀(nl_font 에서 설정)
