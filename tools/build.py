@@ -118,6 +118,38 @@ def build_fonts(tl):
               % (name, len(f0.charmap), st['kept'], st['hangul'], st['kept'] + st['hangul'], st['orig_sheets'], st['sheets'], len(b) / 1e6, len(data) / 1e6, bad, len(miss), blank))
         assert bad == 0 and not miss and blank == 0
         rep[n] = data
+    rep.update(build_unit_fonts(tl, raw))
+    return rep
+
+
+# 숫자 폰트: 점수·횟수 상자의 태그가 UnitName·Rank·Format 문장을 끼워 넣는다(닌자성 「○回」→「회」).
+# 원본 글자는 전부 그대로 두고, 그 세 파일의 한글만 더한다(2026-11-16 실기에서 「?」 상자 제보).
+UNIT_FONTS = ['LunchG0_LA4Packed', 'LunchG1_LA4Packed']
+UNIT_FILES = ('UnitName.msbt', 'Rank.msbt', 'Format.msbt')
+
+
+def build_unit_fonts(tl, raw):
+    chars = set()
+    for r in tl:
+        if r['file'].split('/')[-1] in UNIT_FILES and not r.get('skip') and r.get('ko'):
+            chars |= {c for c in TAG.sub('', r['ko']) if '가' <= c <= '힣'}
+    rep = {}
+    for n, b, _ in sarc_read(raw)[1]:
+        name = n[:-6]
+        if name not in UNIT_FONTS:
+            continue
+        path = os.path.join(bf.FONT_DIR, n)
+        assert open(path, 'rb').read() == b
+        f0 = bf.BFFNT(b)
+        data, st = nf.rebuild(path, chars, keep_all=True)
+        new = bf.BFFNT(data); ns = fa.decode_sheets(new); os_ = fa.decode_sheets(f0)
+        bad = sum(1 for c, g in f0.charmap.items() if np.abs(fa.get_glyph(os_, f0, g).astype(int) - fa.get_glyph(ns, new, new.charmap[c]).astype(int)).max() > 24)
+        miss = [c for c in chars if ord(c) not in new.charmap]
+        blank = sum(1 for c in chars if fa.get_glyph(ns, new, new.charmap[ord(c)]).max() == 0)
+        print('폰트 %-20s 원본 글자 %4d 전부 유지 + 한글 %d(%s), 시트 %d→%d, 어긋남 %d, 빠진 한글 %d, 빈 한글 %d'
+              % (name, len(f0.charmap), st['hangul'], ''.join(sorted(chars)), st['orig_sheets'], st['sheets'], bad, len(miss), blank))
+        assert bad == 0 and not miss and blank == 0 and st['sheets'] == st['orig_sheets']
+        rep[n] = data
     return rep
 
 

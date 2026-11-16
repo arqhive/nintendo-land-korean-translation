@@ -72,5 +72,41 @@
    18.0,
    20.0
   ]
+ },
+ "LunchG0_LA4Packed": {
+  "size": 48,
+  "wght": 800,
+  "char_w": 50,
+  "baseline": 54,
+  "outline_r": 5.0,
+  "outline_err": 2.23,
+  "hanzi_wh": [
+   42.0,
+   42.0
+  ],
+  "hangul_wh": [
+   39.5,
+   34.0
+  ],
+  "font": "AndongKaturi.ttf",
+  "note": "단위 한자(点) 기준"
+ },
+ "LunchG1_LA4Packed": {
+  "size": 52,
+  "wght": 800,
+  "char_w": 56,
+  "baseline": 56,
+  "outline_r": 4.25,
+  "outline_err": 2.59,
+  "hanzi_wh": [
+   47.5,
+   47.0
+  ],
+  "hangul_wh": [
+   45.5,
+   39.0
+  ],
+  "font": "AndongKaturi.ttf",
+  "note": "단위 한자(点回) 기준"
  }
 }

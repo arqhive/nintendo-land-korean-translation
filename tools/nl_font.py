@@ -19,6 +19,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONT_DIR_KO = os.path.join(ROOT, 'tools', 'fonts')
 fr.FONT_PATH = {400: os.path.join(FONT_DIR_KO, 'TmoneyRoundWindRegular.ttf'),
                 800: os.path.join(FONT_DIR_KO, 'TmoneyRoundWindExtraBold.ttf')}
+BODY_FONT = fr.FONT_PATH
+# 숫자 폰트(G0·G1) 단위 글자: 원본이 붓글씨 느낌이라 안동 까투리(사용자 결정 2026-11-16)
+UNIT_FONT = os.path.join(FONT_DIR_KO, 'AndongKaturi.ttf')
 CALIB = os.path.join(ROOT, 'work', 'font_calib.json')
 KANA = [chr(c) for c in list(range(0x3041, 0x3097)) + list(range(0x30A1, 0x30FB))]
 HANZI = '任天堂遊対戦設定説明勝負画面選択開始終了確認全新島村山上手作見回体'
@@ -134,12 +137,61 @@ def calibrate(path):
     return name, res
 
 
+def calibrate_unit(path, unit_chars='개명분위점트회히'):
+    """숫자 폰트(G0·G1): 가나가 없어 단위 한자(点·回)로 크기를, 숫자+단위 한자로 테두리를 잰다. 굵기는 ExtraBold 고정.
+    단위 글자가 숫자 폰트로 찍혀 한글판에서 「?」가 나온 일(닌자성 연속 횟수, 2026-11-16 실기)로 추가."""
+    name = os.path.basename(path)[:-6]
+    fr.FONT_PATH = {800: UNIT_FONT}
+    f = bt.load(path); sheets = fa.decode_sheets(f)
+    ref = [c for c in '点回' if ord(c) in f.charmap]
+    hanzi = measure(sample_cells(f, sheets, ref), True)
+    cw = f.widths[f.charmap[ord(ref[0])]][2]
+    cells = sample_cells(f, sheets, '0123456789' + ''.join(ref))
+    best_r = None
+    for r in np.arange(0.5, 8.01, 0.25):
+        err = sum(np.abs(compose(fill_of(c, True), r).astype(np.int32) - c.astype(np.int32)).mean() for c in cells) / len(cells)
+        if best_r is None or err < best_r[1]:
+            best_r = (float(r), err)
+    margin = int(np.ceil(best_r[0]))
+    best = None
+    for size in range(max(6, f.cell_h // 2), f.cell_h + 6):
+        m = measure([fr.render(ch, size, 800, f.cell_w, f.cell_h, cw) for ch in fr.REF_HANGUL[:20]], False)
+        if m['h'] + 2 * margin > f.cell_h or m['w'] + 2 * margin > cw:
+            continue
+        s = abs(m['w'] - hanzi['w']) + 0.7 * abs(m['h'] - hanzi['h'])
+        if best is None or s < best[0]:
+            best = (s, size, m)
+    # 붓글씨 글꼴은 글자마다 위아래가 들쭉날쭉하다 → 실제로 쓸 글자의 채움 위아래를 재서
+    # 테두리까지 칸 안에 들어오게 크기를 줄이고, 한자 채움 가운데에 맞춰 기준선을 옮긴다.
+    size, base = best[1], int(round(hanzi['bot']))
+    cen = hanzi['bot'] - hanzi['h'] / 2
+    while True:
+        ys = [np.where(c.max(1) > 0)[0] for c in (fr.render(ch, size, 800, f.cell_w, f.cell_h, cw, baseline=base) for ch in unit_chars)]
+        top, bot = min(y[0] for y in ys), max(y[-1] for y in ys)
+        if bot - top + 1 + 2 * margin <= f.cell_h:
+            break
+        size -= 1
+    shift = int(round(cen - (top + bot) / 2))
+    shift = max(margin - top, min(f.cell_h - 1 - margin - bot, shift))
+    base = int(base + shift)
+    res = dict(size=int(size), wght=800, char_w=cw, baseline=base, outline_r=best_r[0],
+               outline_err=round(float(best_r[1]), 2), hanzi_wh=[hanzi['w'], hanzi['h']], hangul_wh=[best[2]['w'], best[2]['h']],
+               font=os.path.basename(UNIT_FONT), note='단위 한자(%s) 기준' % ''.join(ref))
+    fr.FONT_PATH = BODY_FONT
+    print('%-24s %s' % (name, res))
+    return name, res
+
+
 def load_calib():
     return json.load(open(CALIB, encoding='utf-8')) if os.path.exists(CALIB) else {}
 
 
 def render_hangul(ch, f, st, packed):
-    cell = fr.render(ch, st['size'], st['wght'], f.cell_w, f.cell_h, st['char_w'], baseline=st['baseline'])
+    fr.FONT_PATH = {st['wght']: os.path.join(FONT_DIR_KO, st['font'])} if st.get('font') else BODY_FONT
+    try:
+        cell = fr.render(ch, st['size'], st['wght'], f.cell_w, f.cell_h, st['char_w'], baseline=st['baseline'])
+    finally:
+        fr.FONT_PATH = BODY_FONT
     return compose(cell, st['outline_r']) if packed else cell
 
 
