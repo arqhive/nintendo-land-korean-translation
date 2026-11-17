@@ -8,6 +8,7 @@
   - 패처: `patcher/patch.py` + 공용 `tools/nl_apply.py`(빌드와 같은 코드라 결과 동일, 패처가 결과 SHA-1 확인). 패치 데이터 = 바뀐 MSBT 262·BFFNT 4·BFLIM 11 만(10.2MB)
   - 원문 대조 문서(docs/translation_decisions.md)는 추적 제외
 - **숫자 폰트 G0·G1 단위 글자(11/16 사용자): 안동 엄마까투리체**(`tools/fonts/AndongKaturi.ttf`, 출처 표시 조건, licenses/AndongKaturi.txt). 실기에서 닌자성 연속 횟수 「회」가 「?」로 나와 추가, 원본 글자 전부 유지 + UnitName·Rank·Format 한글만.
+- **다시 번역(11/17)**: 새 번역 규칙(메모리 `jp-translationese-rules.md`)으로 2,660줄 전부 다시 봄 → 529줄 고침(석상 명판 「-다」도 하십시오체로). **시험 빌드 v0.1.2(11/17) SD `NintendoLandKR` 에 넣음(MD5 일치, 정렬값 원본과 같음), 실기 확인 대기.** M 폰트 시트 3→5(v0.1 은 4)라 실기에서 글자·메모리 문제 보기. 안내문·조작 팁은 해요체, 큰 글씨 명령은 그대로, 용어집 그대로, 사용자가 고친 10줄은 `work/tl/retl/keep.json`으로 잠금. 도구 `tools/retl_dump.py`·`retl_merge.py`·`retl_keep.py`
 - **번역문 기준 파일 = `translation/ko/*.json`**(사용자가 직접 고침, 11/16). build.py 가 읽을 때 messages.json 의 ko 를 이것으로 덮는다.
 - **한글 글꼴 확정(11/06 사용자): 티머니 둥근바람**(noonnu 458, PC 사용자 글꼴 폴더 설치본 → `tools/fonts/` 복사, git 제외·재배포 금지, 임베딩 허용)
   - `work/font_calib.json`: Msg 43/**Regular**(사용자 결정), M 50/ExtraBold, L 114/ExtraBold(M과 맞춤), Ruby 21/Regular. 이전 Noto 값은 `work/font_calib_noto.json`
